@@ -1,6 +1,12 @@
-# Gewürzorangen
+---
+name: Gewürzorangen
+categories: Dessert
+preview: /images/gewuerzorangen.jpg
+tags:
 
-![alt text](../../images/gewuerzorangen.jpg)
+---
+
+# Gewürzorangen
 
 ## Zutaten
 

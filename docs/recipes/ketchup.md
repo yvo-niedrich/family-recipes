@@ -1,3 +1,11 @@
+---
+name: Ketchup
+categories: Hauptgericht
+preview:
+tags:
+
+---
+
 # Ketchup
 
 **Ideal zu Kurzgebratenem, Gegrilltem, Würstchen, Kartoffelgerichten und Pasta.**

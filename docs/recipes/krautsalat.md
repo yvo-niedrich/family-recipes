@@ -1,6 +1,12 @@
-# Krautsalat
+---
+name: Krautsalat
+categories: Salat
+preview: /images/Krautsalat.png
+tags:
 
-![Krautsalat](../../images/Krautsalat.png)
+---
+
+# Krautsalat
 
 ## Zutaten
 

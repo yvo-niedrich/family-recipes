@@ -1,3 +1,11 @@
+---
+name: Chinakohl Eintopf
+categories: Hauptgericht
+preview:
+tags:
+
+---
+
 # Chinakohl Eintopf
 
 

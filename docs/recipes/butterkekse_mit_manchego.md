@@ -1,6 +1,12 @@
-# Butterkekse mit Manchego
+---
+name: Butterkekse mit Manchego
+categories: Snacks
+preview: /images/manchego_kekse.jpg
+tags:
 
-![Butterkekse mit Manchego auf Blech](../../images/manchego_kekse.jpg)
+---
+
+# Butterkekse mit Manchego
 
 ## Zutaten
 

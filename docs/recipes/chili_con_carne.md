@@ -1,6 +1,12 @@
-# Chili Con Carne (Thermomix)
+---
+name: Chili Con Carne (Thermomix)
+categories: Hauptgericht
+preview: /images/chiliconcarne.jpg
+tags:
 
-![Chili Con Carne](../../images/chiliconcarne.jpg)
+---
+
+# Chili Con Carne (Thermomix)
 
 ## Zutaten
 

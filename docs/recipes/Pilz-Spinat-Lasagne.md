@@ -1,6 +1,12 @@
-# Pilz-Spinat-Lasagne
+---
+name: Pilz-Spinat-Lasagne
+categories: Hauptgericht
+preview: /images/pilzlasagne.jpg
+tags:
 
-![](../../images/pilzlasagne.jpg)
+---
+
+# Pilz-Spinat-Lasagne
 
 ## Zutaten
 

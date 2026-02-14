@@ -1,6 +1,12 @@
-# Mango-Chili-Chutney
+---
+name: Mango-Chili-Chutney
+categories: Hauptgericht
+preview: /images/mango-chili-chutney.jpg
+tags:
 
-![Mango Chili Chutney](../../images/mango-chili-chutney.jpg)
+---
+
+# Mango-Chili-Chutney
 
 ## Zutaten (für 4 Gläser à 200 ml):
 - 350 g Mango (vorbereitet gewogen)

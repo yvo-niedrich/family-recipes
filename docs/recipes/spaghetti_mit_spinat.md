@@ -1,10 +1,22 @@
+---
+name: Spaghetti mit Spinat
+categories: Hauptgericht
+preview:
+tags:
+
+---
+
 # Spaghetti mit Spinat
+
+## Zutaten
 
 - 300 g Blattspinat
 - ½ große Zwiebel
 - 1 Knoblauchzehe
 - 20 g Parmesan (oder z. B. Montello)
 - 200 g Spaghetti
+
+## Anweisungen
 
 Frischen Spinat waschen, putzen und in dünne Streifen schneiden. Bei Verwendung von TK-Spinat diesen auftauen lassen und ebenfalls klein schneiden. Zwiebel abziehen und fein würfeln, Knoblauch abziehen und fein hacken. Parmesan fein reiben. Spaghetti nach Packungsanweisung kochen.
 

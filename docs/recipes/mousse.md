@@ -1,3 +1,11 @@
+---
+name: Mousse au chocolat
+categories: Dessert
+preview: 
+tags:
+
+---
+
 # Mousse au chocolat
 
 ## Zutaten

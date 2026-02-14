@@ -1,6 +1,12 @@
-# Gebackene Süßkartoffeln
+---
+name: Gebackene Süßkartoffeln
+categories: Hauptgericht
+preview:
+tags:
 
-[Serviervorschlag](suesskartoffel.md)
+---
+
+# Gebackene Süßkartoffeln
 
 ## Zutaten
 

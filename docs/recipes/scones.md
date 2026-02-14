@@ -1,3 +1,11 @@
+---
+name: Scones
+categories: Frühstück
+preview:
+tags:
+
+---
+
 # Scones
 
 ## Ingredients

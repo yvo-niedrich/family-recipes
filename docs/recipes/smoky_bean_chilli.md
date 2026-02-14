@@ -1,6 +1,12 @@
-# Smoky 3 Bean Chilli
+---
+name: Smoky 3 Bean Chilli
+categories: Hauptgericht
+preview: /images/three_bean_chili.jpg
+tags:
 
-![](../../images/three_bean_chili.jpg)
+---
+
+# Smoky 3 Bean Chilli
 
 ## Zutaten
 

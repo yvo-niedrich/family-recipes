@@ -1,8 +1,14 @@
+---
+name: Cookies
+categories: Kuchen
+preview: /images/cookies.jpg
+tags:
+
+---
+
 # Cookies
 
-![cookies](../../images/cookies.jpg)
-
-Zutaten
+## Zutaten
 
 - 150 g Zartbitterschokolade gehackt
 - 125 g Butter
@@ -18,7 +24,7 @@ Zutaten
 - 100 g Vollmilch/Noisette-Schokolade
 - 1 EL Instantkaffee
 
-Anweisungen
+## Anweisungen
 
 Ofen auf 170° C (Umluft) vorheizen, ein Backblech mit Backpapier auslegen (ohne es mit aufzuheizen).
 

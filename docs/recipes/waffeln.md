@@ -1,3 +1,11 @@
+---
+name: Waffeln
+categories: Dessert
+preview:
+tags:
+
+---
+
 # Waffeln
 
 ## Zutaten

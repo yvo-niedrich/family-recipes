@@ -1,6 +1,12 @@
-# Linsen Dal
+---
+name: Linsen Dal
+categories: Hauptgericht
+preview: /images/rotelinsendal.jpg
+tags:
 
-![](../../images/rotelinsendal.jpg)
+---
+
+# Linsen Dal
 
 ## Zutaten
 

@@ -1,4 +1,12 @@
-# Beef ’n Guinness
+---
+name: Beef 'n Guinness
+categories: Hauptgericht
+preview:
+tags:
+
+---
+
+# Beef 'n Guinness
 
 ## Zutaten
 

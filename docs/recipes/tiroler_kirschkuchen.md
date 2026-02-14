@@ -1,3 +1,11 @@
+---
+name: Tiroler Kirschkuchen
+categories: Kuchen
+preview:
+tags:
+
+---
+
 # Tiroler Kirschkuchen
 
 ## Zutaten

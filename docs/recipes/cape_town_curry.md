@@ -1,6 +1,12 @@
-# Cape Town Curry
+---
+name: Cape Town Curry
+categories: Hauptgericht
+preview: /images/cape-town-chicken-curry.jpg
+tags:
 
-![alt text](../../images/cape-town-chicken-curry.jpg)
+---
+
+# Cape Town Curry
 
 ## Zutaten
  - 350 g Hühnerbrust in kleine Stücke geschnitten

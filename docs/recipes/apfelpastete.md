@@ -1,3 +1,11 @@
+---
+name: Apfelpastete
+categories: Kuchen
+preview:
+tags:
+
+---
+
 # Apfelpastete
 
 ## Zutaten

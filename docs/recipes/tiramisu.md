@@ -1,6 +1,12 @@
-# Tiramisu
+---
+name: Tiramisu
+categories: Dessert, Kuchen
+preview: /images/tiramisu.jpg
+tags: foo, bar
 
-![alt text](../../images/tiramisu.jpg)
+---
+
+# Tiramisu
 
 ## Zutaten
 

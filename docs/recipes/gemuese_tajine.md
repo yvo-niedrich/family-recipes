@@ -1,3 +1,11 @@
+---
+name: Gemüse-Tajine mit Kichererbsen
+categories: Hauptgericht
+preview:
+tags:
+
+---
+
 # Gemüse-Tajine mit Kichererbsen
 
 ## Zutaten

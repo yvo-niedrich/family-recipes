@@ -2,6 +2,7 @@ import fs from 'node:fs'
 import path from 'node:path'
 import matter from 'gray-matter'
 import { describe, expect, test } from 'vitest'
+import { CATEGORIES } from '../docs/.vitepress/recipes'
 
 const recipesDir = path.resolve(__dirname, '../docs/recipes')
 const publicDir = path.resolve(__dirname, '../docs/public')
@@ -13,7 +14,9 @@ describe.each(files)('%s', (file) => {
     test('has valid frontmatter with name and categories', () => {
         const { data } = matter(source)
         expect(data.name, 'name').toBeTruthy()
-        expect(String(data.categories ?? '').trim(), 'categories').not.toBe('')
+        const categories = String(data.categories ?? '').split(',').map((c) => c.trim()).filter(Boolean)
+        expect(categories, 'categories').not.toHaveLength(0)
+        for (const c of categories) expect(CATEGORIES, `unknown category "${c}"`).toContain(c)
     })
 
     test('uses a lowercase file name', () => {

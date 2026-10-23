@@ -21,10 +21,10 @@ const docsDir = fileURLToPath(new URL('..', import.meta.url))
 const repoRoot = path.resolve(docsDir, '..')
 export const recipesDir = path.join(docsDir, 'recipes')
 
-/** Order of categories in the sidebar and overview; unknown ones are appended alphabetically. */
-const CATEGORY_ORDER = [
-    'Frühstück', 'Vorspeise', 'Hauptgericht', 'Beilage', 'Salat', 'Snacks',
-    'Dessert', 'Kuchen', 'Getränk', 'Sonstige',
+/** The allowed categories, in sidebar order (enforced by tests/content.test.ts). */
+export const CATEGORIES = [
+    'Frühstück', 'Vorspeisen & Snacks', 'Suppen & Eintöpfe', 'Salate', 'Hauptgerichte',
+    'Beilagen', 'Soßen & Grundrezepte', 'Desserts', 'Kuchen & Gebäck', 'Getränke',
 ]
 
 export function slugify(text: string): string {
@@ -112,13 +112,12 @@ export function loadRecipes({ fresh = false } = {}): Recipe[] {
         const slug = file.replace(/\.md$/, '')
         const mtime = fs.statSync(fullPath).mtimeMs
         const git = dates.get(`docs/recipes/${file}`)
-        const categories = splitList(data.categories)
 
         return {
             slug,
             url: `/recipes/${slug}`,
             name: String(data.name || slug),
-            categories: categories.length ? categories : ['Sonstige'],
+            categories: splitList(data.categories),
             tags: splitList(data.tags).map((t) => t.toLowerCase()),
             preview: data.preview ? String(data.preview).trim() : null,
             added: git?.added ?? mtime,
@@ -130,8 +129,8 @@ export function loadRecipes({ fresh = false } = {}): Recipe[] {
 
 export function sortCategories(categories: Iterable<string>): string[] {
     const rank = (c: string) => {
-        const i = CATEGORY_ORDER.indexOf(c)
-        return i < 0 ? CATEGORY_ORDER.length : i
+        const i = CATEGORIES.indexOf(c)
+        return i < 0 ? CATEGORIES.length : i
     }
     return [...new Set(categories)].sort((a, b) => rank(a) - rank(b) || a.localeCompare(b, 'de'))
 }

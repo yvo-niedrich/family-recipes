@@ -40,7 +40,7 @@ tags: tag1, tag2, tag3
 ```
 
 - `name` (required): Display name. **Quote it if it contains a colon**: `name: "Hühnersuppe: Die hilft bei Erkältung"` — otherwise the YAML is invalid and the build fails.
-- `categories` (required): Comma-separated. Existing categories: `Frühstück`, `Vorspeise`, `Hauptgericht`, `Beilage`, `Salat`, `Snacks`, `Dessert`, `Kuchen`, `Getränk`, `Sonstige`. A new category automatically gets its own page and sidebar entry (sidebar order is defined in `CATEGORY_ORDER` in `docs/.vitepress/recipes.ts`).
+- `categories` (required): Comma-separated, one or more of: `Frühstück`, `Vorspeisen & Snacks`, `Suppen & Eintöpfe`, `Salate`, `Hauptgerichte`, `Beilagen`, `Soßen & Grundrezepte`, `Desserts`, `Kuchen & Gebäck`, `Getränke`. These are the only allowed values (`CATEGORIES` in `docs/.vitepress/recipes.ts`, checked by `npm test`); category names must never contain a comma. Conventions: Marmeladen, Aufstriche and bread go to `Frühstück` (bread also gets the `brot` tag); soups and stews go to `Suppen & Eintöpfe`, not `Hauptgerichte`; sauces, dips, doughs and other base recipes go to `Soßen & Grundrezepte`.
 - `preview` (optional): Path to a photo in `docs/public/images/`, e.g. `/images/soup.jpg`. Case-sensitive (GitHub Pages is). Leave empty (`preview:`) if there's no photo; a placeholder is shown.
 - `tags` (optional): Comma-separated, lowercase (e.g. `vegetarisch, vegan, thermomix`). Each tag gets a page under `/tag/`.
 

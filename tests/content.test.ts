@@ -20,6 +20,15 @@ describe.each(files)('%s', (file) => {
         expect(file).toMatch(/^[a-z0-9_-]+\.md$/)
     })
 
+    test('notes use GitHub alerts with a German title', () => {
+        // Old style "> **Tipp**" renders as a plain quote; see CLAUDE.md for the alert types.
+        expect(source).not.toMatch(/^> \*\*[^*]+\*\*:?\s*$/m)
+        for (const [, type, title] of source.matchAll(/^> \[!(\w+)\](.*)$/gm)) {
+            expect(['TIP', 'NOTE', 'WARNING', 'IMPORTANT', 'INFO'], `alert type ${type}`).toContain(type)
+            expect(title.trim(), `title for [!${type}]`).not.toBe('')
+        }
+    })
+
     test('preview image exists (case-sensitive, as on GitHub Pages)', () => {
         const preview = matter(source).data.preview
         if (!preview) return

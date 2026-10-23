@@ -62,6 +62,42 @@ tags: tag1, tag2, tag3
 
 The `# Recipe Name` heading should match `name`.
 
+**Notes** use GitHub alert syntax with an explicit German title (VitePress 1.x can't translate the default labels). The type decides the styling:
+
+```markdown
+> [!TIP] Tipp
+> Statt Mandeln gehen auch Cashewkerne.
+
+> [!TIP] Variante: mit Öl
+> ...
+
+> [!NOTE] Anmerkung
+> Background info, comments, "Warum …", storage notes.
+
+> [!WARNING] Achtung
+> Safety hints (hot liquids etc.).
+
+> [!IMPORTANT] Nährwerte pro Portion
+> - 340 kcal
+> - 25 g Fett
+> - 13 g KH
+
+> [!INFO] Quelle
+> [chefkoch.de](https://www.chefkoch.de/...)
+```
+
+- `[!IMPORTANT]` is reserved for **Nährwerte**: one list item per value, rendered as pills.
+- `[!INFO]` is reserved for **Quelle**: rendered as a compact one-line footer.
+- Don't use `[!CAUTION]`/`[!DANGER]`, and don't write notes as `> **Tipp**` (renders as a plain quote). `npm test` checks both.
+
+**Thermomix settings** in steps are wrapped in a badge:
+
+```markdown
+2. Zwiebel zugeben und <Badge type="tip">3 Sek./Stufe 5</Badge> zerkleinern.
+```
+
+Only the setting goes inside the badge (time/temperature/direction/speed), not the surrounding instruction.
+
 ### 4. Add a Photo (Optional)
 
 Put the image in `docs/public/images/` (lowercase file name, JPG, ideally ≤ 300 KB) and reference it in `preview:`.
@@ -85,9 +121,19 @@ docs/
     recipes.ts               Build-time registry: frontmatter + dates from git (Node only)
     recipes.data.ts          Data loader exposing the registry to the client
     search.ts                MiniSearch processTerm (German stemmer, stopwords)
-    theme/                   Default theme + RecipeGrid, RecipeHeader, CategoryChips, TagCloud
+    theme/                   Default theme + Catppuccin + RecipeGrid, RecipeHeader, RecipeTools, CategoryChips, TagCloud
 tests/                       Vitest tests
 ```
+
+### Theme
+
+Default VitePress theme with the [Catppuccin](https://github.com/catppuccin/vitepress) palette (`@catppuccin/vitepress`, Latte for light mode, Macchiato with the default mauve accent for dark mode), imported in `theme/index.ts`. Alert/badge/checklist styling is in `theme/custom.css`. The app icon and PWA `themeColor` are deliberately Latte **peach** (`#fe640b`), not the accent.
+
+### Recipe Tools (`RecipeTools.vue`)
+
+Enhances the rendered recipe HTML (no Markdown changes needed):
+- Every list item under a `Zutaten` heading (h2 or h3, up to the next heading of the same level) becomes a tappable checkbox for shopping. State is stored per recipe in `localStorage` (`recipe-checked:<slug>`), with a "zurücksetzen" button.
+- "Bildschirm anlassen" toggles a Screen Wake Lock while a recipe is open (shown only where supported; the choice is remembered).
 
 ### Search
 

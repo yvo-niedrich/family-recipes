@@ -1,18 +1,139 @@
-:root {
-    --vp-c-brand-1: #00875a;
-    --vp-c-brand-2: #00a36c;
-    --vp-c-brand-3: #00bd7e;
-    --vp-c-brand-soft: rgba(0, 189, 126, 0.14);
-}
-
-.dark {
-    --vp-c-brand-1: #3dd598;
-    --vp-c-brand-2: #00bd7e;
-    --vp-c-brand-3: #00a36c;
-    --vp-c-brand-soft: rgba(0, 189, 126, 0.16);
-}
+/* Colors come from Catppuccin (Latte / Macchiato, mauve accent), imported in index.ts.
+   The app icon and PWA theme color stay peach (#fe640b) on purpose. */
 
 /* Ingredient lists: a bit more breathing room for reading while shopping */
 .vp-doc ul li + li {
     margin-top: 4px;
+}
+
+/*
+ * Recipe callouts use the built-in GitHub alert types; each type has its own role:
+ *   [!TIP] Tipp / Variante   [!NOTE] Anmerkung / background   [!WARNING] Achtung
+ *   [!IMPORTANT] Nährwerte → value pills   [!INFO] Quelle → compact source line
+ */
+
+/* Nährwerte: list items as pills */
+.vp-doc .custom-block.important ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    list-style: none;
+    padding: 0;
+    margin: 4px 0 0;
+}
+
+.vp-doc .custom-block.important li {
+    margin: 0;
+    padding: 2px 10px;
+    border-radius: 999px;
+    background: var(--vp-c-bg);
+    font-size: 13px;
+    line-height: 22px;
+    font-variant-numeric: tabular-nums;
+}
+
+/* Quelle: one compact, muted line instead of a full callout */
+.vp-doc .custom-block.info {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0 6px;
+    padding: 6px 12px;
+    background: transparent;
+    border: 1px solid var(--vp-c-divider);
+    font-size: 13px;
+    color: var(--vp-c-text-2);
+}
+
+.vp-doc .custom-block.info .custom-block-title {
+    margin: 0;
+    font-weight: 600;
+}
+
+.vp-doc .custom-block.info .custom-block-title::after {
+    content: ":";
+}
+
+.vp-doc .custom-block.info p {
+    margin: 0;
+}
+
+/* Thermomix settings (<Badge type="tip">) inside steps */
+.vp-doc li .VPBadge,
+.vp-doc p .VPBadge {
+    margin-left: 0;
+    transform: none;
+    vertical-align: baseline;
+    white-space: nowrap;
+    font-variant-numeric: tabular-nums;
+}
+
+/* Ingredient checklist (RecipeTools.vue) */
+.vp-doc li.ingredient {
+    list-style: none;
+    position: relative;
+    cursor: pointer;
+    border-radius: 4px;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.vp-doc li.ingredient::before {
+    content: "";
+    position: absolute;
+    left: -22px;
+    top: 4px;
+    width: 16px;
+    height: 16px;
+    border: 2px solid var(--vp-c-text-3);
+    border-radius: 4px;
+    transition: background-color .15s, border-color .15s;
+}
+
+.vp-doc li.ingredient[aria-checked="true"] {
+    color: var(--vp-c-text-3);
+    text-decoration: line-through;
+}
+
+.vp-doc li.ingredient[aria-checked="true"]::before {
+    border-color: var(--vp-c-brand-1);
+    background: var(--vp-c-brand-1)
+        url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M3.5 8.5l3 3 6-7' fill='none' stroke='white' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E")
+        center / 12px no-repeat;
+}
+
+.vp-doc li.ingredient:focus-visible {
+    outline: 2px solid var(--vp-c-brand-1);
+    outline-offset: 2px;
+}
+
+.recipe-tools {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: -8px 0 12px;
+}
+
+.recipe-tools button {
+    padding: 2px 12px;
+    border-radius: 999px;
+    border: 1px solid var(--vp-c-divider);
+    background: var(--vp-c-bg-soft);
+    color: var(--vp-c-text-2);
+    font-size: 13px;
+    line-height: 26px;
+}
+
+.recipe-tools button:hover {
+    color: var(--vp-c-brand-1);
+    border-color: var(--vp-c-brand-1);
+}
+
+.recipe-tools button[aria-pressed="true"] {
+    color: var(--vp-c-brand-1);
+    border-color: var(--vp-c-brand-1);
+    background: var(--vp-c-brand-soft);
+}
+
+.recipe-tools button[hidden] {
+    display: none;
 }

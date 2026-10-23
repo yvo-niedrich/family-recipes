@@ -5,7 +5,7 @@ import { allCategories, loadRecipes, slugify } from './recipes'
 
 const base = '/family-recipes/'
 const title = 'Familienrezepte'
-const themeColor = '#00a36c'
+const themeColor = '#fe640b'
 
 // Categories only: listing every recipe here would be rendered into each page's HTML
 // (~100 KB per page) and bloat the offline cache. Category pages show the recipes.
@@ -95,7 +95,7 @@ export default withPwa(defineConfig({
         docFooter: { prev: false, next: false },
         lastUpdated: {
             text: 'Zuletzt geändert',
-            formatOptions: { dateStyle: 'medium' },
+            formatOptions: { dateStyle: 'medium', forceLocale: true },
         },
         darkModeSwitchLabel: 'Erscheinungsbild',
         lightModeSwitchTitle: 'Helles Design',

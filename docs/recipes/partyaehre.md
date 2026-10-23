@@ -1,12 +1,12 @@
 ---
-name: Partyähre (Finessen 1/2011)
+name: Partyähre
 categories: Vorspeisen & Snacks
 preview: /images/partyaehre.jpg
 tags: brot, thermomix
 
 ---
 
-# Partyähre (Finessen 1/2011)
+# Partyähre
 
 ## Zutaten
 

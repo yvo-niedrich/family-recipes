@@ -80,7 +80,7 @@ export default withPwa(defineConfig({
                     searchOptions: { combineWith: 'AND', fuzzy: 0.2, prefix: true, boost: { title: 4, text: 2, titles: 1 } },
                 },
                 translations: {
-                    button: { buttonText: 'Suchen', buttonAriaLabel: 'Rezepte durchsuchen' },
+                    button: { buttonText: 'Rezepte suchen', buttonAriaLabel: 'Rezepte durchsuchen' },
                     modal: {
                         displayDetails: 'Details anzeigen',
                         resetButtonTitle: 'Suche zurücksetzen',

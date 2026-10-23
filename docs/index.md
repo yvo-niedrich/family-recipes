@@ -1,13 +1,12 @@
 ---
 title: Rezepte
+pageClass: home-page
 aside: false
 editLink: false
 lastUpdated: false
 ---
 
-# Familienrezepte
-
-<CategoryChips />
+<RecentRecipes />
 
 ## Neu hinzugefügt
 

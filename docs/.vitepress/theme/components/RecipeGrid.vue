@@ -7,6 +7,8 @@ import { placeholderUrl, previewUrl } from './util'
 const props = withDefaults(defineProps<{
     category?: string
     tag?: string
+    /** Show exactly these recipes, in this order (ignores sort). */
+    slugs?: string[]
     sort?: 'name' | 'added'
     limit?: number
 }>(), { sort: 'name' })
@@ -16,9 +18,12 @@ const items = computed(() => {
         .map((recipe, index) => ({ recipe, index }))
         .filter(({ recipe }) => !props.category || recipe.categories.includes(props.category))
         .filter(({ recipe }) => !props.tag || recipe.tags.includes(props.tag))
-        .sort((a, b) => props.sort === 'added'
-            ? b.recipe.added - a.recipe.added
-            : a.recipe.name.localeCompare(b.recipe.name, 'de'))
+        .filter(({ recipe }) => !props.slugs || props.slugs.includes(recipe.slug))
+        .sort((a, b) => props.slugs
+            ? props.slugs.indexOf(a.recipe.slug) - props.slugs.indexOf(b.recipe.slug)
+            : props.sort === 'added'
+                ? b.recipe.added - a.recipe.added
+                : a.recipe.name.localeCompare(b.recipe.name, 'de'))
     return props.limit ? list.slice(0, props.limit) : list
 })
 

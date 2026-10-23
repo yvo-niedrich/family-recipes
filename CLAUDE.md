@@ -129,6 +129,12 @@ tests/                       Vitest tests
 
 Default VitePress theme with the [Catppuccin](https://github.com/catppuccin/vitepress) palette (`@catppuccin/vitepress`, Latte for light mode, Macchiato with the default mauve accent for dark mode), imported in `theme/index.ts`. Alert/badge/checklist styling is in `theme/custom.css`. The app icon and PWA `themeColor` are deliberately Latte **peach** (`#fe640b`), not the accent.
 
+### Home Page & Mobile Layout
+
+- The home page (`docs/index.md`) shows `<RecentRecipes />` ("Zuletzt angesehen", up to 6 recently viewed recipes from `localStorage` key `recent-recipes`, written by `RecipeHeader.vue`; renders nothing until at least one recipe was viewed), then "Neu hinzugefügt".
+- Below 960px the VitePress "Menü / Auf dieser Seite" bar is hidden; navigation goes through the hamburger menu.
+- Below 768px the header is taller (72px), the site name is hidden (logo stays) and search is a wide "Rezepte suchen" field. All in `theme/custom.css`.
+
 ### Recipe Tools (`RecipeTools.vue`)
 
 Enhances the rendered recipe HTML (no Markdown changes needed):

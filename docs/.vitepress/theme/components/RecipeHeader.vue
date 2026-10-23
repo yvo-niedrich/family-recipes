@@ -2,6 +2,7 @@
 import { computed, onMounted, ref, watch } from 'vue'
 import { useData, withBase } from 'vitepress'
 import { data as recipes } from '../../recipes.data'
+import { rememberRecipe } from './recent'
 import { slugify } from './util'
 
 const { page } = useData()
@@ -19,6 +20,12 @@ watch(recipe, () => (photoFailed.value = false))
 const photo = ref<HTMLImageElement>()
 onMounted(() => {
     if (photo.value?.complete && photo.value.naturalWidth === 0) photoFailed.value = true
+})
+
+// Feed the "Zuletzt angesehen" list (client-side only, hence onMounted + watch).
+onMounted(() => {
+    if (recipe.value) rememberRecipe(recipe.value.slug)
+    watch(recipe, (r) => r && rememberRecipe(r.slug))
 })
 </script>
 

@@ -1,4 +1,18 @@
 /**
+ * Indexes each page as a single search entry (instead of one per heading), so a
+ * recipe shows up once in the results and links to the page, not to "#zutaten".
+ * Build-time only: VitePress strips `_`-prefixed search options from the client.
+ */
+export function splitIntoPage(_file: string, html: string) {
+    const stripTags = (s: string) => s.replace(/<[^>]*>/g, '')
+    // The h1 is "Title<a class="header-anchor" ...>​</a>"; drop the anchor before stripping tags.
+    const h1 = html.match(/<h1[^>]*>([\s\S]*?)<\/h1>/i)
+    const title = h1 ? stripTags(h1[1].replace(/<a[^>]*class="header-anchor"[\s\S]*?<\/a>/i, '')).trim() : ''
+    const text = stripTags(h1 ? html.replace(h1[0], ' ') : html).replace(/\s+/g, ' ').trim()
+    return title || text ? [{ anchor: '', titles: title ? [title] : [], text }] : []
+}
+
+/**
  * MiniSearch term processor, applied to the indexed text (at build time) and
  * to the search query (in the browser).
  *

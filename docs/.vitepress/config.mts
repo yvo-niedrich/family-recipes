@@ -1,6 +1,6 @@
 import { defineConfig, type DefaultTheme } from 'vitepress'
 import { withPwa } from '@vite-pwa/vitepress'
-import { processTerm } from './search'
+import { processTerm, splitIntoPage } from './search'
 import { allCategories, loadRecipes, slugify } from './recipes'
 
 const base = '/family-recipes/'
@@ -75,6 +75,7 @@ export default withPwa(defineConfig({
             provider: 'local',
             options: {
                 miniSearch: {
+                    _splitIntoSections: splitIntoPage,
                     options: { processTerm },
                     searchOptions: { combineWith: 'AND', fuzzy: 0.2, prefix: true, boost: { title: 4, text: 2, titles: 1 } },
                 },

@@ -136,7 +136,7 @@ Every list item under a `Zutaten` heading (h2 or h3, up to the next heading of t
 
 ### Search
 
-VitePress local search (MiniSearch), fully client-side and offline. `processTerm` in `docs/.vitepress/search.ts` normalizes umlauts, drops stopwords/recipe boilerplate (`Zutaten`, `Stufe`, …) and applies a simple German stemmer. Query words are combined with AND.
+VitePress local search (MiniSearch), fully client-side and offline. `processTerm` in `docs/.vitepress/search.ts` normalizes umlauts, drops stopwords/recipe boilerplate (`Zutaten`, `Stufe`, …) and applies a simple German stemmer. Query words are combined with AND. Each page is indexed as a single entry (`splitIntoPage` via `_splitIntoSections`), so results list each recipe once and link to the page rather than to a section anchor; this also lets query words match across Zutaten and Zubereitung. VitePress shows at most 16 results (hard-coded in its search box).
 
 **Critical:** VitePress sends `processTerm` to the browser via `toString()`. It must stay fully self-contained — no imports, no references to module-level variables. `tests/search.test.ts` checks the round-trip. Ingredients must not be added to the stopword list, or they become unsearchable.
 

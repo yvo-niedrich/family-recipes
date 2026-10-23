@@ -132,8 +132,7 @@ Default VitePress theme with the [Catppuccin](https://github.com/catppuccin/vite
 ### Recipe Tools (`RecipeTools.vue`)
 
 Enhances the rendered recipe HTML (no Markdown changes needed):
-- Every list item under a `Zutaten` heading (h2 or h3, up to the next heading of the same level) becomes a tappable checkbox for shopping. State is stored per recipe in `localStorage` (`recipe-checked:<slug>`), with a "zurücksetzen" button.
-- "Bildschirm anlassen" toggles a Screen Wake Lock while a recipe is open (shown only where supported; the choice is remembered).
+Every list item under a `Zutaten` heading (h2 or h3, up to the next heading of the same level) becomes a tappable checkbox for shopping. State is stored per recipe in `localStorage` (`recipe-checked:<slug>`). Once something is checked, a "X von Y abgehakt · zurücksetzen" button appears inside the first `Zutaten` heading (right-aligned, wrapping below the title on narrow screens).
 
 ### Search
 

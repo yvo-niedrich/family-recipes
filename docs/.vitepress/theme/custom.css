@@ -106,34 +106,32 @@
     outline-offset: 2px;
 }
 
-.recipe-tools {
+/* Reset button sits next to the "Zutaten" heading and wraps below it on narrow screens */
+.vp-doc .has-ingredient-reset {
     display: flex;
     flex-wrap: wrap;
-    gap: 8px;
-    margin: -8px 0 12px;
+    align-items: center;
+    gap: 6px 12px;
 }
 
-.recipe-tools button {
+.ingredient-reset {
+    margin-left: auto;
     padding: 2px 12px;
     border-radius: 999px;
     border: 1px solid var(--vp-c-divider);
     background: var(--vp-c-bg-soft);
     color: var(--vp-c-text-2);
     font-size: 13px;
+    font-weight: 400;
     line-height: 26px;
+    letter-spacing: normal;
 }
 
-.recipe-tools button:hover {
+.ingredient-reset:hover {
     color: var(--vp-c-brand-1);
     border-color: var(--vp-c-brand-1);
 }
 
-.recipe-tools button[aria-pressed="true"] {
-    color: var(--vp-c-brand-1);
-    border-color: var(--vp-c-brand-1);
-    background: var(--vp-c-brand-soft);
-}
-
-.recipe-tools button[hidden] {
+.ingredient-reset[hidden] {
     display: none;
 }

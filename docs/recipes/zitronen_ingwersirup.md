@@ -2,7 +2,7 @@
 name: Zitronen-Ingwersirup von Einfach Stephie
 categories: Getränk
 preview: /images/zitronen_ingwersirup.jpg
-tags:
+tags: thermomix
 
 ---
 

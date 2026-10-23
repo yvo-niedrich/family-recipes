@@ -2,7 +2,7 @@
 name: Cookies
 categories: Kuchen
 preview: /images/cookies.jpg
-tags:
+tags: thermomix
 
 ---
 

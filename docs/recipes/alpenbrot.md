@@ -1,13 +1,12 @@
 ---
-name: Alpenbrot (Thermomix 4/12)
+name: Alpenbrot
 categories: Kuchen
 preview: /images/alpenbrot.jpg
 tags: thermomix
 
 ---
 
-# Alpenbrot (Thermomix 4/12)
-
+# Alpenbrot
 ## Zutaten
 
 - 100 g Zucker
@@ -34,3 +33,6 @@ _Für 100 Stück_
 
 > [!TIP] Tipp
 > Statt Mandeln kann man auch geröstete, ungesalzene Cashewkerne verwenden, dann ca. 50 g mehr Mehl nehmen.
+
+> [!INFO] Quelle
+> Thermomix 4/12

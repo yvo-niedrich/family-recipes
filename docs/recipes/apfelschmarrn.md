@@ -1,13 +1,12 @@
 ---
-name: Apfelschmarrn (Thermomix)
+name: Apfelschmarrn
 categories: Dessert
 preview:
 tags: thermomix
 
 ---
 
-# Apfelschmarrn (Thermomix)
-
+# Apfelschmarrn
 ## Zutaten
 
 - 4 Eier

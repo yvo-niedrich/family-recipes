@@ -2,7 +2,7 @@
 name: Butterrosen
 categories: Kuchen
 preview: /images/butterrosen.jpg
-tags:
+tags: thermomix
 
 ---
 

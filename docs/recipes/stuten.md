@@ -2,7 +2,7 @@
 name: Stuten
 categories: Sonstige
 preview: /images/stuten.jpg
-tags:
+tags: thermomix
 
 ---
 

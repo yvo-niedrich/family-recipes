@@ -1,13 +1,12 @@
 ---
-name: Joghurthühnchen (Thermomix)
+name: Joghurthühnchen
 categories: Hauptgericht
 preview:
 tags: thermomix
 
 ---
 
-# Joghurthühnchen (Thermomix)
-
+# Joghurthühnchen
 ## Zutaten
 
 - 1/2 rote Chilischote, entkernt

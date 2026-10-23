@@ -2,7 +2,7 @@
 name: Linsen Dal
 categories: Hauptgericht
 preview: /images/rotelinsendal.jpg
-tags:
+tags: thermomix
 
 ---
 

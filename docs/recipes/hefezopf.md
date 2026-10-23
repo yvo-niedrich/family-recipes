@@ -1,13 +1,12 @@
 ---
-name: Hefezopf von Goldfisch (Thermomix)
+name: Hefezopf von Goldfisch
 categories: Kuchen
 preview: /images/hefezopf.jpg
 tags: thermomix
 
 ---
 
-# Hefezopf von Goldfisch (Thermomix)
-
+# Hefezopf von Goldfisch
 > Dieser Hefeteig ist mein absolutes Lieblingsrezept! (von Goldfisch)
 >
 > Ich verwende ihn für **sämtliche Zöpfe (Nuss- und Mohnzopf), Dampfnudeln, Schneckennudeln, [Nougat-Hörnchen](http://www.wunderkessel.de/forum/backen-suesse-sachen/23065-nougat-hoernchen.html)**, als Blechkuchen mit Obst belegt, oder es gibt zwei Böden für die Springform.

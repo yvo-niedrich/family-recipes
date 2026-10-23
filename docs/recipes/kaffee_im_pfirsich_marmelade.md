@@ -2,7 +2,7 @@
 name: Kaffee im Pfirsich Marmelade
 categories: Sonstige
 preview: /images/kaffee_im_pfirsich_marmelade.jpg
-tags: marmelade, konfitüre
+tags: marmelade, konfitüre, thermomix
 
 ---
 

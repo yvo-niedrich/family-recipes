@@ -1,13 +1,12 @@
 ---
-name: Chili Con Carne (Thermomix)
+name: Chili Con Carne
 categories: Hauptgericht
 preview: /images/chiliconcarne.jpg
-tags:
+tags: thermomix
 
 ---
 
-# Chili Con Carne (Thermomix)
-
+# Chili Con Carne
 ## Zutaten
 
  - 1 Zwiebel, geviertelt

@@ -1,13 +1,12 @@
 ---
-name: Champignon-Baguette (Thermomix)
+name: Champignon-Baguette
 categories: Snacks
 preview:
 tags: thermomix
 
 ---
 
-# Champignon-Baguette (Thermomix)
-
+# Champignon-Baguette
 ## Zutaten
 
 - 125 g Mozzarella

@@ -1,6 +1,6 @@
 ---
 name: Chicorée Variationen
-categories: Vorspeise, Salat
+categories: Vorspeisen & Snacks, Salate
 preview: /images/chicoree.jpg
 tags: chicorée, lachs, wildlachs, gesund, schnell
 ---

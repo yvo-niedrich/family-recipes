@@ -1,6 +1,6 @@
 ---
 name: Erdbeer-Himbeer-Konfitüre
-categories: Sonstige
+categories: Frühstück
 preview: /images/erdbeer_himbeer_konfituere.jpg
 tags: marmelade, konfitüre
 

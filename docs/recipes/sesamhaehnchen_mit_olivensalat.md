@@ -1,6 +1,6 @@
 ---
 name: Sesamhähnchen mit Olivensalat
-categories: Hauptgericht
+categories: Hauptgerichte
 preview: /images/sesamhaehnchen_mit_olivensalat.jpg
 tags: fleisch, eiweißreich
 

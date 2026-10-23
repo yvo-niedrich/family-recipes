@@ -1,6 +1,6 @@
 ---
 name: Amerikaner
-categories: Kuchen
+categories: Kuchen & Gebäck
 preview: /images/amerikaner.jpg
 tags: thermomix
 

@@ -1,6 +1,6 @@
 ---
 name: Apfel-Weihnachtsmarmelade nach Valerie Lane
-categories: Sonstige
+categories: Frühstück
 preview:
 tags: marmelade
 

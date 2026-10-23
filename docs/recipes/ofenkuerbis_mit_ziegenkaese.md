@@ -1,6 +1,6 @@
 ---
 name: Ofenkürbis mit Ziegenkäse, Honig und Rosmarin
-categories: Hauptgericht, Beilage
+categories: Hauptgerichte, Beilagen
 preview: /images/ofenkuerbis_mit_ziegenkaese.jpg
 tags: vegetarisch
 

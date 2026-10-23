@@ -1,6 +1,6 @@
 ---
 name: Butterkekse mit Manchego
-categories: Snacks
+categories: Vorspeisen & Snacks
 preview: /images/manchego_kekse.jpg
 tags:
 

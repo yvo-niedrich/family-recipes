@@ -1,6 +1,6 @@
 ---
 name: Spinat-Shakshuka mit „Avocado-Ei“
-categories: Hauptgericht, Frühstück
+categories: Frühstück, Hauptgerichte
 preview: /images/spinat_shakshuka_mit_avocado_ei.jpg
 tags: vegan, vegetarisch
 

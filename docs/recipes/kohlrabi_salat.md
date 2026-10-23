@@ -1,6 +1,6 @@
 ---
 name: Kohlrabi-Salat
-categories: Salat
+categories: Salate
 preview:
 tags: thermomix
 

@@ -1,6 +1,6 @@
 ---
 name: Pfirsich trifft Feuerwerk
-categories: Sonstige
+categories: Frühstück
 preview: /images/pfirsich_trifft_feuerwerk.jpg
 tags: marmelade, konfitüre
 

@@ -1,6 +1,6 @@
 ---
 name: Tarte au Chocolat
-categories: Dessert, Kuchen
+categories: Desserts, Kuchen & Gebäck
 preview: /images/tarte_au_chocolat.jpg
 tags:
 

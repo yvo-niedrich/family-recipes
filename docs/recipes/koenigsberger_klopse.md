@@ -1,6 +1,6 @@
 ---
 name: Königsberger Klopse
-categories: Hauptgericht
+categories: Hauptgerichte
 preview:
 tags:
 

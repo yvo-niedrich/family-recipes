@@ -1,6 +1,6 @@
 ---
 name: Windbeutel
-categories: Kuchen
+categories: Kuchen & Gebäck
 preview: /images/windbeutel.jpg
 tags:
 

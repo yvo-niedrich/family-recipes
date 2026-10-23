@@ -1,6 +1,6 @@
 ---
 name: Provenzalischer Eintopf mit Cabanossi
-categories: Hauptgericht
+categories: Suppen & Eintöpfe
 preview: /images/provinzialischer_eintopf_mit_cabanossi.jpg
 tags: one pot
 

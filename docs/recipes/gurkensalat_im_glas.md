@@ -1,6 +1,6 @@
 ---
 name: Gurkensalat im Glas
-categories: Salat
+categories: Salate
 preview: /images/gurkensalat_im_glas.jpg
 tags:
 

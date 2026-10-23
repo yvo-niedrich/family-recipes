@@ -1,6 +1,6 @@
 ---
 name: Waffeln
-categories: Dessert
+categories: Desserts
 preview:
 tags:
 

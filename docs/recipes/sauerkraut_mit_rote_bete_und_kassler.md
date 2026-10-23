@@ -1,6 +1,6 @@
 ---
 name: Sauerkraut mit Rote Bete und Kassler
-categories: Hauptgericht
+categories: Suppen & Eintöpfe
 preview: /images/sauerkraut_mit_rote_bete_und_kassler.jpg
 tags: eintopf
 

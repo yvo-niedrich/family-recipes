@@ -1,6 +1,6 @@
 ---
 name: Erdbeere busserlt Pfirsich
-categories: Sonstige
+categories: Frühstück
 preview: /images/erdbeere_busserlt_pfirsich.jpg
 tags: marmelade, konfitüre
 

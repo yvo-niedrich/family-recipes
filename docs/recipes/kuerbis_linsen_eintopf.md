@@ -1,6 +1,6 @@
 ---
 name: Kürbis-Linsen-Eintopf mit Parmesan und Kürbiskernöl
-categories: Hauptgericht
+categories: Suppen & Eintöpfe
 preview: /images/kuerbis_linsen_eintopf.jpg
 tags: eintopf, one pot
 

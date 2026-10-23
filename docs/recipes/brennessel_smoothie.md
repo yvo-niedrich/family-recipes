@@ -1,6 +1,6 @@
 ---
 name: Brennessel-Smoothie Mix
-categories: Getränk
+categories: Getränke
 preview: /images/brennesselsmoothie.jpg
 tags: vegan, vegetarisch, gesund, wildkräuter, smoothie
 

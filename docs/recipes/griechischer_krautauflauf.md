@@ -1,6 +1,6 @@
 ---
 name: Griechischer Krautauflauf
-categories: Hauptgericht
+categories: Hauptgerichte
 preview: /images/griechischer_krautauflauf.jpg
 tags: fleisch
 

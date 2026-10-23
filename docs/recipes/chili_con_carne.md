@@ -1,6 +1,6 @@
 ---
 name: Chili Con Carne
-categories: Hauptgericht
+categories: Suppen & Eintöpfe
 preview: /images/chiliconcarne.jpg
 tags: thermomix
 

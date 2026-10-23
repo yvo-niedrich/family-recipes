@@ -1,6 +1,6 @@
 ---
 name: Ketchup
-categories: Hauptgericht
+categories: Soßen & Grundrezepte
 preview:
 tags:
 

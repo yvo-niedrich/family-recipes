@@ -1,6 +1,6 @@
 ---
 name: Birnenmarmelade mit Nelke
-categories: Sonstige
+categories: Frühstück
 preview:
 tags: marmelade, thermomix
 

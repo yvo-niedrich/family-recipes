@@ -1,6 +1,6 @@
 ---
 name: Hot-Liquid-Salad
-categories: Getränk
+categories: Getränke
 preview:
 tags: vegetarisch, thermomix, smoothie
 

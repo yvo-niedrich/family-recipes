@@ -1,6 +1,6 @@
 ---
 name: Knäckebrot nach Landlust 1/2020
-categories: Sonstige
+categories: Frühstück
 preview: /images/knaeckebrot.jpg
 tags: brot
 

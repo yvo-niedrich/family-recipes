@@ -1,6 +1,6 @@
 ---
 name: Philadelphia-Käsekuchen ohne Backen (von meiner Mama)
-categories: Kuchen
+categories: Kuchen & Gebäck
 preview:
 tags: thermomix
 

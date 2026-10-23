@@ -1,6 +1,6 @@
 ---
 name: Schinken-Hack-Röllchen
-categories: Hauptgericht
+categories: Hauptgerichte
 preview:
 tags:
 

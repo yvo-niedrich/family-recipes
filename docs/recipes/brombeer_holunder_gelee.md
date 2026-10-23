@@ -1,6 +1,6 @@
 ---
 name: Brombeer-Holunder-Gelee
-categories: Sonstige
+categories: Frühstück
 preview: /images/brombeer_holunder_gelee.jpg
 tags: marmelade, konfitüre
 

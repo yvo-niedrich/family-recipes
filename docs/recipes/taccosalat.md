@@ -1,6 +1,6 @@
 ---
 name: Tacco Salat
-categories: Salat
+categories: Salate
 preview:
 tags:
 

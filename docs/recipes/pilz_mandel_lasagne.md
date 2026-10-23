@@ -1,6 +1,6 @@
 ---
 name: Pilz-Mandel-Lasagne mit Tomatencreme
-categories: Hauptgericht
+categories: Hauptgerichte
 preview: /images/pilz_mandel_lasagne.jpg
 tags: vegan
 

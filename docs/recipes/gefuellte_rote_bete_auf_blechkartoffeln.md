@@ -1,6 +1,6 @@
 ---
 name: Gefüllte Rote Bete auf Blechkartoffeln
-categories: Hauptgericht
+categories: Hauptgerichte
 preview: /images/gefuellte_rote_bete_auf_blechkartoffeln.jpg
 tags: vegetarisch
 

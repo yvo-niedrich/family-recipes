@@ -1,6 +1,6 @@
 ---
 name: Kürbis-Parmigiana
-categories: Hauptgericht
+categories: Hauptgerichte
 preview: /images/kuerbis_parmigiana.jpg
 tags:
 

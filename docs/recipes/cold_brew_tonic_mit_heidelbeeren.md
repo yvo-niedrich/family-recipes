@@ -1,6 +1,6 @@
 ---
 name: Cold Brew Tonic mit Heidelbeeren
-categories: Getränk
+categories: Getränke
 preview: /images/cold_brew_tonic_mit_heidelbeeren.jpg
 tags:
 

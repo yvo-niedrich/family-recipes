@@ -1,6 +1,6 @@
 ---
 name: Smoky 3 Bean Chilli
-categories: Hauptgericht
+categories: Suppen & Eintöpfe
 preview: /images/three_bean_chili.jpg
 tags:
 

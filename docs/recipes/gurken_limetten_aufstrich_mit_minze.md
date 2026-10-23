@@ -1,6 +1,6 @@
 ---
 name: Gurken-Limetten-Aufstrich mit Minze
-categories: Sonstige
+categories: Frühstück
 preview:
 tags: thermomix
 

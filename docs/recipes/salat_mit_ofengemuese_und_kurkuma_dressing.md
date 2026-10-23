@@ -1,6 +1,6 @@
 ---
 name: Salat mit Ofengemüse und Kurkuma-Dressing
-categories: Salat
+categories: Salate
 preview: /images/salat_mit_ofengemuese_und_kurkuma_dressing.jpg
 tags: vegetarisch
 

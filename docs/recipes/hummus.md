@@ -1,6 +1,6 @@
 ---
 name: Hummus
-categories: Beilage
+categories: Beilagen, Soßen & Grundrezepte
 preview:
 tags: vegan, vegetarisch, thermomix
 

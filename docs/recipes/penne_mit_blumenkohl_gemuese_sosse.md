@@ -1,6 +1,6 @@
 ---
 name: Penne mit Blumenkohl-Gemüse-Soße
-categories: Hauptgericht
+categories: Hauptgerichte
 preview: /images/penne_mit_blumenkohl_gemuese_sosse.jpg
 tags: vegetarisch, gemüse
 

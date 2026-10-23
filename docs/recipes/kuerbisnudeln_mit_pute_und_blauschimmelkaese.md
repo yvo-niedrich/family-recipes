@@ -1,6 +1,6 @@
 ---
 name: Kürbisnudeln mit Pute und Blauschimmelkäse
-categories: Hauptgericht
+categories: Hauptgerichte
 preview: /images/kuerbisnudeln_mit_pute_und_blauschimmelkaese.jpg
 tags: fleisch
 

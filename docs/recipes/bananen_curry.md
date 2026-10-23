@@ -1,6 +1,6 @@
 ---
 name: Bananen Curry
-categories: Hauptgericht
+categories: Hauptgerichte
 preview: /images/bananen_curry.jpg
 tags:
 

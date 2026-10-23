@@ -1,8 +1,8 @@
 ---
 name: Blutorangen-Marmelade Tarocco
-categories: Sonstige
+categories: Frühstück
 preview: /images/blutorangen_marmelade.jpg
-tags:
+tags: marmelade
 
 ---
 

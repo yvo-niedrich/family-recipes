@@ -1,6 +1,6 @@
 ---
 name: Saftiger Pflaumenkuchen mit Streuseln
-categories: Kuchen
+categories: Kuchen & Gebäck
 preview: /images/saftiger_pflaumenkuchen_mit_streuseln.jpg
 tags:
 

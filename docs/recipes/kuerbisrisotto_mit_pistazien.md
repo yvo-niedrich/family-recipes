@@ -1,6 +1,6 @@
 ---
 name: Kürbisrisotto mit Pistazien
-categories: Hauptgericht
+categories: Hauptgerichte
 preview: /images/kuerbisrisotto_mit_pistazien.jpg
 tags: vegetarisch
 

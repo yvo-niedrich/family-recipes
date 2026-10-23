@@ -1,8 +1,8 @@
 ---
 name: Alpenbrot
-categories: Kuchen
+categories: Frühstück
 preview: /images/alpenbrot.jpg
-tags: thermomix
+tags: thermomix, brot
 
 ---
 

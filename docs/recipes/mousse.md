@@ -1,6 +1,6 @@
 ---
 name: Mousse au chocolat
-categories: Dessert
+categories: Desserts
 preview: 
 tags:
 

@@ -1,6 +1,6 @@
 ---
 name: Rahmwirsing
-categories: Beilage
+categories: Beilagen
 preview:
 tags: thermomix
 

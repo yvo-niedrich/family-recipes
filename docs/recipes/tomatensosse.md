@@ -1,6 +1,6 @@
 ---
 name: Tomatensoße mit Essig und Zucker
-categories: Sonstige
+categories: Soßen & Grundrezepte
 preview: /images/tomatensosse.jpg
 tags: vegan
 

@@ -1,6 +1,6 @@
 ---
 name: Rote-Bete-Suppe von kfd (Frau und Mutter)
-categories: Hauptgericht
+categories: Suppen & Eintöpfe
 preview:
 tags: suppe, vegetarisch
 

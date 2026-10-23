@@ -1,6 +1,6 @@
 ---
 name: Saftige Blätterteigschnecken mit Schinken, Lachs oder Salami
-categories: Snacks
+categories: Vorspeisen & Snacks
 preview:
 tags: thermomix
 

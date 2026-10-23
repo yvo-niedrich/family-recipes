@@ -1,6 +1,6 @@
 ---
 name: Tiramisu mit Marsala
-categories: Dessert
+categories: Desserts
 preview: /images/tiramisu_mit_marsala.jpg
 tags:
 

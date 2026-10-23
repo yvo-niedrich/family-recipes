@@ -1,6 +1,6 @@
 ---
 name: Gyrosauflauf
-categories: Hauptgericht
+categories: Hauptgerichte
 preview: /images/gyrosauflauf.jpg
 tags:
 

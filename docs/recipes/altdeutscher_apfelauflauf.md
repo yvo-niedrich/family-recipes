@@ -1,6 +1,6 @@
 ---
 name: Altdeutscher Apfelauflauf
-categories: Hauptgericht, Kuchen
+categories: Hauptgerichte, Desserts
 preview:
 tags:
 

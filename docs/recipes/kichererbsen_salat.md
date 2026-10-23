@@ -1,6 +1,6 @@
 ---
 name: Kichererbsen-Salat
-categories: Salat
+categories: Salate
 preview:
 tags: vegan, vegetarisch
 

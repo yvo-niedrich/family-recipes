@@ -1,6 +1,6 @@
 ---
 name: Aprikosen-Sahne-Streuselkuchen
-categories: Kuchen
+categories: Kuchen & Gebäck
 preview: /images/aprikosen_sahne_streuselkuchen.jpg
 tags:
 

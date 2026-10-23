@@ -1,6 +1,6 @@
 ---
 name: Pilz-Spinat-Lasagne
-categories: Hauptgericht
+categories: Hauptgerichte
 preview: /images/pilzlasagne.jpg
 tags:
 

@@ -1,6 +1,6 @@
 ---
 name: Passoa Orange
-categories: Getränk
+categories: Getränke
 preview: /images/passoa_orange.jpg
 tags: vegan
 

@@ -1,6 +1,6 @@
 ---
 name: Blumenkohl-Frikadellen auf Tomatensalat
-categories: Salat
+categories: Salate
 preview: /images/blumenkohl_frikadellen_auf_tomatensalat.jpg
 tags: eiweißreich, vegetarisch
 

@@ -1,8 +1,8 @@
 ---
 name: Stuten
-categories: Sonstige
+categories: Frühstück
 preview: /images/stuten.jpg
-tags: thermomix
+tags: thermomix, brot
 
 ---
 

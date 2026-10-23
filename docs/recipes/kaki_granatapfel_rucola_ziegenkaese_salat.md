@@ -1,6 +1,6 @@
 ---
 name: Kaki-Granatapfel-Rucola-Ziegenkäse-Salat
-categories: Salat
+categories: Salate
 preview: /images/kaki_granatapfel_rucola_ziegenkaese_salat.jpg
 tags: vegetarisch
 

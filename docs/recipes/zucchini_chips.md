@@ -1,6 +1,6 @@
 ---
 name: Zucchini-Chips
-categories: Snacks
+categories: Vorspeisen & Snacks
 preview: /images/zucchini_chips.jpg
 tags:
 

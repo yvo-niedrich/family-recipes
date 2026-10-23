@@ -1,6 +1,6 @@
 ---
 name: Gewürzorangen
-categories: Dessert
+categories: Desserts
 preview: /images/gewuerzorangen.jpg
 tags:
 

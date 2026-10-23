@@ -1,6 +1,6 @@
 ---
 name: Mini-Quiches
-categories: Snacks, Frühstück
+categories: Frühstück, Vorspeisen & Snacks
 preview: /images/mini_quiches.jpg
 tags: vegetarisch, brunch
 

@@ -1,6 +1,6 @@
 ---
 name: Bratapfellikör
-categories: Getränk
+categories: Getränke
 preview:
 tags: weihnachten, thermomix
 

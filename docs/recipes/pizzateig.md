@@ -1,6 +1,6 @@
 ---
 name: Pizzateig nach M+D
-categories: Hauptgericht
+categories: Soßen & Grundrezepte
 preview: /images/pizzateig.jpg
 tags: thermomix
 

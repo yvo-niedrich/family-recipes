@@ -1,6 +1,6 @@
 ---
 name: Holunderbeersaft
-categories: Getränk
+categories: Getränke
 preview:
 tags:
 

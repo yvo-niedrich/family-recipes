@@ -1,6 +1,6 @@
 ---
 name: Glühwein-Gulasch mit Lebkuchen nach Wahi
-categories: Hauptgericht
+categories: Hauptgerichte
 preview:
 tags:
 

@@ -1,6 +1,6 @@
 ---
 name: Semmelknödel
-categories: Beilage
+categories: Beilagen
 preview:
 tags:
 

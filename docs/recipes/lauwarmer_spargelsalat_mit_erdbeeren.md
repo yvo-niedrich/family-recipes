@@ -1,6 +1,6 @@
 ---
 name: Lauwarmer Spargelsalat mit Erdbeeren
-categories: Salat
+categories: Salate
 preview: /images/lauwarmer_spargelsalat_mit_erdbeeren.jpg
 tags:
 

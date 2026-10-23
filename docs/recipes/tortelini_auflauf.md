@@ -1,6 +1,6 @@
 ---
 name: Tortelini Auflauf mit Pilzen und Frühlingszwiebeln
-categories: Hauptgericht
+categories: Hauptgerichte
 preview: /images/TorteliniAuflauf.jpg
 tags:
 

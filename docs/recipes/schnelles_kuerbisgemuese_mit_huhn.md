@@ -1,6 +1,6 @@
 ---
 name: Schnelles Kürbisgemüse mit Huhn
-categories: Hauptgericht
+categories: Hauptgerichte
 preview:
 tags: fleisch, gemüse, thermomix
 

@@ -1,6 +1,6 @@
 ---
 name: Kokos-Curry-Suppe
-categories: Hauptgericht
+categories: Suppen & Eintöpfe
 preview: /images/kokos_curry_suppe.jpg
 tags: suppe
 

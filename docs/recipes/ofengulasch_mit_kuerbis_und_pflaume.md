@@ -1,6 +1,6 @@
 ---
 name: Ofengulasch mit Kürbis und Pflaume
-categories: Hauptgericht
+categories: Hauptgerichte
 preview: /images/ofengulasch_mit_kuerbis_und_pflaume.jpg
 tags: fleisch
 

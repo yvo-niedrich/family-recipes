@@ -1,6 +1,6 @@
 ---
 name: Lachsfilet mit Papaya-Tomaten-Salsa und Rucola
-categories: Hauptgericht
+categories: Hauptgerichte
 preview: /images/lachsfilet_mit_papaya_tomaten_salsa.jpg
 tags:
 

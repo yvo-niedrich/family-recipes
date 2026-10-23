@@ -1,6 +1,6 @@
 ---
 name: Brownie
-categories: Kuchen
+categories: Kuchen & Gebäck
 preview:
 tags:
 

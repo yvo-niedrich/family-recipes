@@ -1,6 +1,6 @@
 ---
 name: Apfelpastete
-categories: Kuchen
+categories: Kuchen & Gebäck
 preview:
 tags:
 

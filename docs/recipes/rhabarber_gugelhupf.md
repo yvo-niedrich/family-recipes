@@ -1,6 +1,6 @@
 ---
 name: Rhabarber-Gugelhupf
-categories: Kuchen
+categories: Kuchen & Gebäck
 preview: /images/rhabarber_gugelhupf.jpg
 tags: thermomix
 

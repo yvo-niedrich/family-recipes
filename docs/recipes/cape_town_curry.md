@@ -1,6 +1,6 @@
 ---
 name: Cape Town Curry
-categories: Hauptgericht
+categories: Hauptgerichte
 preview: /images/cape-town-chicken-curry.jpg
 tags:
 

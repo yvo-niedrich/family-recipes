@@ -1,6 +1,6 @@
 ---
 name: Cookies mit Toffifee
-categories: Kuchen
+categories: Kuchen & Gebäck
 preview: /images/cookies_mit_toffifee.jpg
 tags:
 

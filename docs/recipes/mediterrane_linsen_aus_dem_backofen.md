@@ -1,6 +1,6 @@
 ---
 name: Mediterrane Linsen aus dem Backofen
-categories: Hauptgericht
+categories: Hauptgerichte
 preview: /images/mediterrane_linsen_aus_dem_backofen.jpg
 tags: vegetarisch, gemüse
 

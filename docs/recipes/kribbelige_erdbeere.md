@@ -1,6 +1,6 @@
 ---
 name: Kribbelige Erdbeere
-categories: Sonstige
+categories: Frühstück
 preview:
 tags: marmelade
 

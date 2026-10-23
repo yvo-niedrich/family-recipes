@@ -1,6 +1,6 @@
 ---
 name: Gnocchi-Tomaten-Pfanne
-categories: Hauptgericht
+categories: Hauptgerichte
 preview: /images/gnocchi_tomaten_pfanne.jpg
 tags: vegetarisch
 

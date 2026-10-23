@@ -1,6 +1,6 @@
 ---
 name: Rehrücken, Niedrigtemperatur
-categories: Hauptgericht
+categories: Hauptgerichte
 preview:
 tags:
 

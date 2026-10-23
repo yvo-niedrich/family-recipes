@@ -1,6 +1,6 @@
 ---
 name: Apfelschmarrn
-categories: Dessert
+categories: Desserts
 preview:
 tags: thermomix
 

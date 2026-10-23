@@ -1,6 +1,6 @@
 ---
 name: Mediterranes Ofengemüse
-categories: Hauptgericht
+categories: Hauptgerichte, Beilagen
 preview: /images/mediterranes_ofengemuese.jpg
 tags:
 

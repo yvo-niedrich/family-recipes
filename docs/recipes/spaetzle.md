@@ -1,6 +1,6 @@
 ---
 name: Spätzle
-categories: Beilage
+categories: Beilagen
 preview: /images/spaetzle.jpg
 tags:
 

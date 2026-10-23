@@ -1,6 +1,6 @@
 ---
 name: Rindfleischtopf mit Gemüse und Bier
-categories: Hauptgericht
+categories: Suppen & Eintöpfe
 preview: /images/rindfleischtopf_mit_gemuese_und_bier.jpg
 tags: fleisch, eintopf, one pot
 

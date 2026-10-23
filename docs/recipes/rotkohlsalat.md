@@ -1,6 +1,6 @@
 ---
 name: Rotkohlsalat von Marlies
-categories: Salat
+categories: Salate
 preview:
 tags: gemüse
 

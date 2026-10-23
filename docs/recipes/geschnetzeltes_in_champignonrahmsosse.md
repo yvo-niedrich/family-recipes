@@ -1,6 +1,6 @@
 ---
 name: Geschnetzeltes in Champignonrahmsoße mit Serviettenknödel
-categories: Hauptgericht
+categories: Hauptgerichte
 preview:
 tags: fleisch, thermomix
 

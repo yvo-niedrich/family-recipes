@@ -1,6 +1,6 @@
 ---
 name: Rote-Bete-Suppe
-categories: Hauptgericht
+categories: Suppen & Eintöpfe
 preview: /images/rote_bete_suppe.jpg
 tags: suppe, vegetarisch
 

@@ -1,6 +1,6 @@
 ---
 name: Mango-Chili-Chutney
-categories: Hauptgericht
+categories: Soßen & Grundrezepte
 preview: /images/mango-chili-chutney.jpg
 tags:
 

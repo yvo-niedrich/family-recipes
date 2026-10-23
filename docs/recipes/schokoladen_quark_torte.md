@@ -1,6 +1,6 @@
 ---
 name: Schokoladen-Quark-Torte (Weihnachten)
-categories: Kuchen
+categories: Kuchen & Gebäck
 preview: /images/schokoladen_quark_torte.jpg
 tags: weihnachten, thermomix
 

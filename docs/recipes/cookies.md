@@ -1,6 +1,6 @@
 ---
 name: Cookies
-categories: Kuchen
+categories: Kuchen & Gebäck
 preview: /images/cookies.jpg
 tags: thermomix
 

@@ -1,6 +1,6 @@
 ---
 name: Moortorte
-categories: Kuchen
+categories: Kuchen & Gebäck
 preview: /images/moortorte.jpg
 tags:
 

@@ -1,6 +1,6 @@
 ---
 name: Zimtschnecken
-categories: Kuchen
+categories: Kuchen & Gebäck
 preview: /images/zimtschnecken.jpg
 tags: thermomix
 

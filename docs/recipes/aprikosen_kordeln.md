@@ -1,6 +1,6 @@
 ---
 name: Aprikosen-Kordeln
-categories: Kuchen
+categories: Kuchen & Gebäck
 preview: /images/aprikosen_kordeln.jpg
 tags:
 

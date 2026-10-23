@@ -1,6 +1,6 @@
 ---
 name: Rhabarber-Linsen-Curry mit Wildreis
-categories: Hauptgericht
+categories: Hauptgerichte
 preview: /images/rhabarber_linsen_curry_mit_wildreis.jpg
 tags: vegan, vegetarisch
 

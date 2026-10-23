@@ -1,6 +1,6 @@
 ---
 name: Dicke-Bohnen-Salat „italienisch“
-categories: Salat
+categories: Salate
 preview: /images/dicke_bohnen_salat_italienisch.jpg
 tags: vegetarisch
 

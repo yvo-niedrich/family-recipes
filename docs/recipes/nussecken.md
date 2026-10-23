@@ -1,6 +1,6 @@
 ---
 name: Nussecken
-categories: Kuchen
+categories: Kuchen & Gebäck
 preview:
 tags:
 

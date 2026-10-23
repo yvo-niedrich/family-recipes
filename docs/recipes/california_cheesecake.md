@@ -1,6 +1,6 @@
 ---
 name: California Cheesecake (meine Svenja)
-categories: Kuchen
+categories: Kuchen & Gebäck
 preview: /images/california_cheesecake.jpg
 tags: thermomix
 

@@ -1,6 +1,6 @@
 ---
 name: Herzhaftes Rhabarbergratin mit Hähnchen
-categories: Hauptgericht
+categories: Hauptgerichte
 preview: /images/herzhaftes_rhabarbergratin_mit_haehnchen.jpg
 tags: fleisch
 

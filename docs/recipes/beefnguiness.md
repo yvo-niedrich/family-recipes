@@ -1,6 +1,6 @@
 ---
 name: Beef 'n Guinness
-categories: Hauptgericht
+categories: Hauptgerichte
 preview:
 tags:
 

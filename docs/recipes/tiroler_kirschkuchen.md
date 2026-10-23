@@ -1,6 +1,6 @@
 ---
 name: Tiroler Kirschkuchen
-categories: Kuchen
+categories: Kuchen & Gebäck
 preview:
 tags:
 

@@ -1,6 +1,6 @@
 ---
 name: Spätzle-Hühnchen-Pfanne
-categories: Hauptgericht
+categories: Hauptgerichte
 preview: /images/spaetzle_huehnchen_pfanne.jpg
 tags:
 

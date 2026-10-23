@@ -1,6 +1,6 @@
 ---
 name: Grünkohl-Apfel-Smoothie
-categories: Getränk
+categories: Getränke
 preview:
 tags: gemüse, smoothie
 

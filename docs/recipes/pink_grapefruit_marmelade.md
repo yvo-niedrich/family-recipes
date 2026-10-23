@@ -1,6 +1,6 @@
 ---
 name: Pink-Grapefruit-Marmelade
-categories: Sonstige
+categories: Frühstück
 preview:
 tags: marmelade, konfitüre
 

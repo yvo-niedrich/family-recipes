@@ -1,6 +1,6 @@
 ---
 name: Gemüserohkost
-categories: Salat
+categories: Salate
 preview:
 tags:
 

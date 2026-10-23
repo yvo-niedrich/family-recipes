@@ -1,6 +1,6 @@
 ---
 name: Puddingpulver selber machen
-categories: Dessert
+categories: Soßen & Grundrezepte, Desserts
 preview: /images/puddingpulver_selber_machen.jpg
 tags:
 

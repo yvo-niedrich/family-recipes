@@ -1,8 +1,8 @@
 ---
 name: Tiramisu
-categories: Dessert, Kuchen
+categories: Desserts
 preview: /images/tiramisu.jpg
-tags: 
+tags:
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: Rhabarbersaft
-categories: Getränk
+categories: Getränke
 preview: /images/rhabarbersaft.jpg
 tags:
 

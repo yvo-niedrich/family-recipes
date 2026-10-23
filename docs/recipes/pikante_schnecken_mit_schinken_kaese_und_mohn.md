@@ -1,6 +1,6 @@
 ---
 name: Pikante Schnecken mit Schinken, Käse und Mohn
-categories: Hauptgericht
+categories: Vorspeisen & Snacks
 preview: /images/pikante_schnecken_mit_schinken_kaese_und_mohn.jpg
 tags: thermomix
 

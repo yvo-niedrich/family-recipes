@@ -1,6 +1,6 @@
 ---
 name: Orangenreiniger
-categories: Sonstige
+categories: Soßen & Grundrezepte
 preview: /images/orangenreiniger.jpg
 tags: putzmittel
 

@@ -1,6 +1,6 @@
 ---
 name: Lachsforellenstrudel mit Spargel und Bärlauch
-categories: Hauptgericht
+categories: Hauptgerichte
 preview:
 tags: fisch
 

@@ -1,6 +1,6 @@
 ---
 name: Kichererbsen-Avocado-Salat
-categories: Salat
+categories: Salate
 preview: /images/kichererbsen_avocado_salat.jpg
 tags:
 

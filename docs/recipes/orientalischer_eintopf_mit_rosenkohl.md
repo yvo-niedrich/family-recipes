@@ -1,6 +1,6 @@
 ---
 name: Orientalischer Eintopf mit Rosenkohl und Kichererbsen
-categories: Hauptgericht
+categories: Suppen & Eintöpfe
 preview: /images/orientalischer_eintopf_mit_rosenkohl.jpg
 tags: eintopf, gemüse
 

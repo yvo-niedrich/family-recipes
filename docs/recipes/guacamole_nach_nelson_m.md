@@ -1,6 +1,6 @@
 ---
 name: Guacamole nach Nelson M.
-categories: Snacks
+categories: Vorspeisen & Snacks, Soßen & Grundrezepte
 preview:
 tags: thermomix
 

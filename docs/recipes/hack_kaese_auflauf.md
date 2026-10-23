@@ -1,6 +1,6 @@
 ---
 name: Hack-Käse-Auflauf
-categories: Hauptgericht
+categories: Hauptgerichte
 preview: /images/hack_kaese_auflauf.jpg
 tags:
 

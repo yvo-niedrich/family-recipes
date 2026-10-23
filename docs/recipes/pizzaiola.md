@@ -1,6 +1,6 @@
 ---
 name: Pizzaiola M+D
-categories: Sonstige
+categories: Soßen & Grundrezepte
 preview: /images/pizzaiola.jpg
 tags: vegan, thermomix
 

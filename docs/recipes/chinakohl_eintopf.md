@@ -1,6 +1,6 @@
 ---
 name: Chinakohl Eintopf
-categories: Hauptgericht
+categories: Suppen & Eintöpfe
 preview:
 tags:
 

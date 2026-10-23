@@ -1,6 +1,6 @@
 ---
 name: Linsen im Glas mit Mango
-categories: Salat
+categories: Salate
 preview: /images/linsen_im_glas_mit_mango.jpg
 tags: vegan, vegetarisch
 

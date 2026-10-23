@@ -1,6 +1,6 @@
 ---
 name: Rosenkohl-Curry
-categories: Hauptgericht
+categories: Hauptgerichte
 preview: /images/rosenkohl_curry.jpg
 tags: vegan, gemüse
 

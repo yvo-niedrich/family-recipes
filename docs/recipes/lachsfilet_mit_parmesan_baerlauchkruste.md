@@ -1,6 +1,6 @@
 ---
 name: Lachsfilet mit Parmesan-Bärlauchkruste
-categories: Hauptgericht
+categories: Hauptgerichte
 preview:
 tags: fisch, fleisch, thermomix
 

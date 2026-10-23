@@ -1,6 +1,6 @@
 ---
 name: Marokkanischer Eintopf mit Kartoffeln und Lamm
-categories: Hauptgericht
+categories: Suppen & Eintöpfe
 preview: /images/marokkanischer_eintopf_mit_kartoffeln_und_lamm.jpg
 tags: one pot
 

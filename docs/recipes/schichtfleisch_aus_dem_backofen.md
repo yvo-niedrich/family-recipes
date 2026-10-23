@@ -1,6 +1,6 @@
 ---
 name: Schichtfleisch aus dem Backofen
-categories: Hauptgericht
+categories: Hauptgerichte
 preview: /images/schichtfleisch_aus_dem_backofen.jpg
 tags:
 

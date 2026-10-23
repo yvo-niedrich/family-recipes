@@ -1,6 +1,6 @@
 ---
 name: Kartoffel-Lauch-Nuss-Zitrus-Suppe
-categories: Hauptgericht
+categories: Suppen & Eintöpfe
 preview:
 tags: vegetarisch, vegan, nüsse, kartoffeln
 

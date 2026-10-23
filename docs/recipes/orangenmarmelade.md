@@ -1,6 +1,6 @@
 ---
 name: Orangenmarmelade
-categories: Sonstige
+categories: Frühstück
 preview: /images/orangenmarmelade.jpg
 tags: marmelade
 

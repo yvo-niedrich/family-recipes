@@ -1,6 +1,6 @@
 ---
 name: Gegrillte Zucchinischeiben
-categories: Beilage
+categories: Beilagen
 preview:
 tags: vegetarisch, vegan, grillen, schnell
 

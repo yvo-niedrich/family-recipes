@@ -1,6 +1,6 @@
 ---
 name: Romana mit Avocado und Parmesan-Aioli
-categories: Salat
+categories: Salate
 preview: /images/romana_mit_avocado_und_parmesan_aioli.jpg
 tags:
 

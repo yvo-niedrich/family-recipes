@@ -1,6 +1,6 @@
 ---
 name: Butterrosen
-categories: Kuchen
+categories: Kuchen & Gebäck
 preview: /images/butterrosen.jpg
 tags: thermomix
 

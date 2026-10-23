@@ -1,6 +1,6 @@
 ---
 name: Graupensuppe aus dem Engadin
-categories: Hauptgericht
+categories: Suppen & Eintöpfe
 preview:
 tags: suppe, eintopf
 

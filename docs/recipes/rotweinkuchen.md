@@ -1,6 +1,6 @@
 ---
 name: Rotweinkuchen
-categories: Kuchen
+categories: Kuchen & Gebäck
 preview:
 tags: thermomix
 

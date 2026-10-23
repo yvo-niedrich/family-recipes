@@ -1,6 +1,6 @@
 ---
 name: Joghurthühnchen
-categories: Hauptgericht
+categories: Hauptgerichte
 preview:
 tags: thermomix
 

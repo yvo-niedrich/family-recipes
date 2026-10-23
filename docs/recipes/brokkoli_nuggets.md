@@ -1,6 +1,6 @@
 ---
 name: Brokkoli-Nuggets
-categories: Snacks
+categories: Vorspeisen & Snacks
 preview: /images/brokkoli_nuggets.jpg
 tags: gemüse, vegetarisch
 

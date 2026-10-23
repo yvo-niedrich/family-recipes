@@ -1,6 +1,6 @@
 ---
 name: Marokkanische Salzzitronen
-categories: Sonstige
+categories: Soßen & Grundrezepte
 preview: /images/marokkanische_salzzitronen.jpg
 tags:
 

@@ -1,6 +1,6 @@
 ---
 name: Bohnen-Sellerie-Salat mit Thunfisch
-categories: Salat
+categories: Salate
 preview: /images/bohnen_sellerie_salat_mit_thunfisch.jpg
 tags:
 

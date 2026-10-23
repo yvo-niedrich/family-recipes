@@ -1,6 +1,6 @@
 ---
 name: Krautsalat
-categories: Salat
+categories: Salate
 preview: /images/Krautsalat.jpg
 tags: thermomix
 

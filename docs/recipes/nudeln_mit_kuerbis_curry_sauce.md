@@ -1,6 +1,6 @@
 ---
 name: Nudeln mit Kürbis-Curry-Sauce
-categories: Hauptgericht
+categories: Hauptgerichte
 preview: /images/nudeln_mit_kuerbis_curry_sauce.jpg
 tags: vegetarisch, one pot
 

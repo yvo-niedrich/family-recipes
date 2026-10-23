@@ -1,6 +1,6 @@
 ---
 name: Elisenlebkuchen von Mikamaus
-categories: Kuchen
+categories: Kuchen & Gebäck
 preview:
 tags: weihnachten, thermomix
 

@@ -1,6 +1,6 @@
 ---
 name: Linsencurry mit Skreifilet (von Tarik Rose)
-categories: Hauptgericht
+categories: Hauptgerichte
 preview: /images/linsencurry_mit_skreifilet.jpg
 tags: fisch, eiweißreich
 

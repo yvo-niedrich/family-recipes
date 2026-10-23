@@ -1,6 +1,6 @@
 ---
 name: Zucchini-Linsen-Salat
-categories: Salat
+categories: Salate
 preview: /images/zucchini_linsen_salat.jpg
 tags:
 

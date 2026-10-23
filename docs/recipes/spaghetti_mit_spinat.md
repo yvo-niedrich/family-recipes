@@ -1,6 +1,6 @@
 ---
 name: Spaghetti mit Spinat
-categories: Hauptgericht
+categories: Hauptgerichte
 preview:
 tags:
 

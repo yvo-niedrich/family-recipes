@@ -1,6 +1,6 @@
 ---
 name: Haselnussstäbchen
-categories: Kuchen
+categories: Kuchen & Gebäck
 preview:
 tags: weihnachten, thermomix
 

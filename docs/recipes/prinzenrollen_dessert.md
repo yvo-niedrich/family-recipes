@@ -1,6 +1,6 @@
 ---
 name: Prinzenrollen-Dessert
-categories: Dessert
+categories: Desserts
 preview:
 tags:
 

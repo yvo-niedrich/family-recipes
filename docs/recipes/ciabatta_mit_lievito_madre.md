@@ -1,6 +1,6 @@
 ---
 name: Ciabatta mit Lievito madre
-categories: Sonstige
+categories: Frühstück
 preview: /images/ciabatta_mit_lievito_madre.jpg
 tags: brot
 

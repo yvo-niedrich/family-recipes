@@ -1,6 +1,6 @@
 ---
 name: Lukullus, Kalte Schnauze
-categories: Kuchen
+categories: Kuchen & Gebäck
 preview:
 tags:
 

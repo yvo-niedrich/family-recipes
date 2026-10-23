@@ -1,6 +1,6 @@
 ---
 name: Erdbeer-Ingwer-Marmelade
-categories: Sonstige
+categories: Frühstück
 preview: /images/erdbeer_ingwer_marmelade.jpg
 tags: marmelade, vegetarisch
 

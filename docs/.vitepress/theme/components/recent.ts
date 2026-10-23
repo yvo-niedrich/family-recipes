@@ -15,3 +15,7 @@ export function rememberRecipe(slug: string) {
     const list = [slug, ...readRecent().filter((s) => s !== slug)].slice(0, MAX)
     try { localStorage.setItem(KEY, JSON.stringify(list)) } catch { /* private mode etc. */ }
 }
+
+export function clearRecent() {
+    try { localStorage.removeItem(KEY) } catch { /* private mode etc. */ }
+}

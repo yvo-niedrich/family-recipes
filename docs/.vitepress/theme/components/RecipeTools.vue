@@ -48,7 +48,7 @@ function setup() {
     // Lives inside the "Zutaten" heading; `ignore-header` keeps it out of the outline.
     const reset = document.createElement('button')
     reset.type = 'button'
-    reset.className = 'ingredient-reset ignore-header'
+    reset.className = 'ingredient-reset heading-action ignore-header'
 
     const updateReset = () => {
         reset.hidden = checked.size === 0
@@ -85,7 +85,7 @@ function setup() {
     })
     updateReset()
 
-    sections[0].heading.classList.add('has-ingredient-reset')
+    sections[0].heading.classList.add('heading-with-action')
     sections[0].heading.append(reset)
 }
 

@@ -3,7 +3,7 @@
 import { computed, onMounted, ref } from 'vue'
 import { data as recipes } from '../../recipes.data'
 import RecipeGrid from './RecipeGrid.vue'
-import { readRecent } from './recent'
+import { clearRecent, readRecent } from './recent'
 
 const props = withDefaults(defineProps<{ limit?: number }>(), { limit: 6 })
 
@@ -11,13 +11,21 @@ const recent = ref<string[]>([])
 onMounted(() => (recent.value = readRecent()))
 
 // Skip recipes that were renamed or removed since they were viewed.
+function clear() {
+    clearRecent()
+    recent.value = []
+}
+
 const slugs = computed(() =>
     recent.value.filter((slug) => recipes.some((r) => r.slug === slug)).slice(0, props.limit))
 </script>
 
 <template>
     <section v-if="slugs.length" class="recent-recipes">
-        <h2>Zuletzt angesehen</h2>
+        <h2 class="heading-with-action">
+            Zuletzt angesehen
+            <button type="button" class="heading-action" aria-label="Verlauf leeren" @click="clear">Leeren</button>
+        </h2>
         <RecipeGrid :slugs="slugs" :limit="props.limit" />
     </section>
 </template>

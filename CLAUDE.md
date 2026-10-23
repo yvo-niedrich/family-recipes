@@ -131,7 +131,7 @@ Default VitePress theme with the [Catppuccin](https://github.com/catppuccin/vite
 
 ### Home Page & Mobile Layout
 
-- The home page (`docs/index.md`) shows `<RecentRecipes />` ("Zuletzt angesehen", up to 6 recently viewed recipes from `localStorage` key `recent-recipes`, written by `RecipeHeader.vue`; renders nothing until at least one recipe was viewed), then "Neu hinzugefügt".
+- The home page (`docs/index.md`) shows `<RecentRecipes />` ("Zuletzt angesehen", up to 6 recently viewed recipes from `localStorage` key `recent-recipes`, written by `RecipeHeader.vue`; renders nothing until at least one recipe was viewed; a "Leeren" button in its heading clears the history), then "Neu hinzugefügt". Heading buttons like this and the ingredient "zurücksetzen" share the `heading-with-action` / `heading-action` styles in `theme/custom.css`.
 - Below 960px the VitePress "Menü / Auf dieser Seite" bar is hidden; navigation goes through the hamburger menu.
 - Below 768px the header is taller (72px), the site name is hidden (logo stays) and search is a wide "Rezepte suchen" field. All in `theme/custom.css`.
 

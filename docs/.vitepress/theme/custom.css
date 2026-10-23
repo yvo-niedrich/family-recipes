@@ -106,15 +106,16 @@
     outline-offset: 2px;
 }
 
-/* Reset button sits next to the "Zutaten" heading and wraps below it on narrow screens */
-.vp-doc .has-ingredient-reset {
+/* Small action button inside a heading ("zurücksetzen" next to Zutaten, "Leeren" next to
+   Zuletzt angesehen): right-aligned, wraps below the title on narrow screens */
+.vp-doc .heading-with-action {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
     gap: 6px 12px;
 }
 
-.ingredient-reset {
+.heading-action {
     margin-left: auto;
     padding: 2px 12px;
     border-radius: 999px;
@@ -127,12 +128,12 @@
     letter-spacing: normal;
 }
 
-.ingredient-reset:hover {
+.heading-action:hover {
     color: var(--vp-c-brand-1);
     border-color: var(--vp-c-brand-1);
 }
 
-.ingredient-reset[hidden] {
+.heading-action[hidden] {
     display: none;
 }
 

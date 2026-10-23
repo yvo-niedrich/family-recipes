@@ -30,13 +30,13 @@ _Für 10 Portionen_
 
 ## Zubereitung
 
-1. Milch, Hefe und Zucker in den Mixtopf geben und **2 Min./37 °C/Stufe 2** erwärmen.
+1. Milch, Hefe und Zucker in den Mixtopf geben und <Badge type="tip">2 Min./37 °C/Stufe 2</Badge> erwärmen.
 
-2. Mehl, Öl und Salz zugeben, **2 Min./Teigstufe kneten**, umfüllen und abgedeckt an einem warmen Ort 45 Minuten gehen lassen.
+2. Mehl, Öl und Salz zugeben, <Badge type="tip">2 Min./Teigstufe</Badge> kneten, umfüllen und abgedeckt an einem warmen Ort 45 Minuten gehen lassen.
 
 3. Backofen auf 200 °C vorheizen. Ein Backblech mit Backpapier belegen.
 
-4. Schinken, Käse, Paprika und Cayennepfeffer in den Mixtopf geben und **5 Sek./Stufe 5** zerkleinern.
+4. Schinken, Käse, Paprika und Cayennepfeffer in den Mixtopf geben und <Badge type="tip">5 Sek./Stufe 5</Badge> zerkleinern.
 
 5. Teig auf einer leicht bemehlten Arbeitsfläche zu einem Rechteck von 20 x 40 cm ausrollen. Die Füllung darauf verteilen, dabei einen ca. 1 cm breiten Rand ringsum freilassen.
 
@@ -46,11 +46,11 @@ _Für 10 Portionen_
 
 8. Partyähre mit Milch bestreichen, 15 Minuten gehen lassen und ca. 30 Minuten bei 200 °C backen. Warm oder kalt servieren.
 
-> **Tipp**
+> [!TIP] Tipp
 > Pizzagewürz oder Oregano zur Füllung geben.
 
-> **Anmerkung**
+> [!NOTE] Anmerkung
 > Zum Einfrieren bitte beim Hefezopf schauen.
 
-> **Quelle**
+> [!INFO] Quelle
 > Rezept aus dem Finessen-Heft 1/2011

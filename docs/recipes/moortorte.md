@@ -45,5 +45,5 @@ _Für 16 Stück_
 
 8. Brottaler in Achtel schneiden. Torte mit übrigen Beeren, Brot und Melisseblättchen verzieren.
 
-> **Nährwerte pro Stück**
-> ca. 340 kcal / 1420 kJ
+> [!IMPORTANT] Nährwerte pro Stück
+> - ca. 340 kcal / 1420 kJ

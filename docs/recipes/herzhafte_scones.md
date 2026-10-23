@@ -38,5 +38,5 @@ _Für 8 große oder 16 kleine Stück_
 
 6. Etwa 18 bis 20 Minuten backen, bis sie leicht Farbe angenommen haben. Die Scones zehn Minuten auf einem Küchengitter auskühlen lassen – und genießen.
 
-> **Was sind Scones?**
+> [!NOTE] Was sind Scones?
 > Ihren Ursprung haben sie in Schottland. Mittlerweile sind Scones aber in ganz Großbritannien, in Australien und Amerika beliebt. Sie schmecken süß und salzig und sind weder Brötchen noch Kuchen. Ob herzhaft mit Cheddar oder Schinken zum Frühstück oder als kleine süße Zwischenmahlzeit mit Sahne und Konfitüre – Scones sind einfach herzustellen und schmecken fantastisch. Sie werden aus Weizen-, Gersten- oder Hafermehl und Backpulver als Triebmittel hergestellt.

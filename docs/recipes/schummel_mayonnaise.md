@@ -26,8 +26,8 @@ tags: thermomix
 
 3. Jetzt nach Geschmack mit Salz, Pfeffer, Chili oder auch Curry, Kräutern o. ä. würzen.
 
-> **Tipp**
+> [!TIP] Tipp
 > Joghurt lockert die Creme noch etwas auf. (Ma)
 
-> **Anmerkung**
+> [!NOTE] Anmerkung
 > Diese Schummel-Mayo wird noch etwas fester, wenn sie im Kühlschrank steht. Da sie kein rohes Ei enthält, ist sie ein paar Tage haltbar und super vorzubereiten.

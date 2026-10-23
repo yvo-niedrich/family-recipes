@@ -31,5 +31,8 @@ _Für 8 Portionen_
 
 4. Tiramisu **mind. 3 Stunden** kalt stellen. Vor dem Servieren mit Kakao bestäuben.
 
-> **Nährwerte pro Portion**
-> ca. 400 kcal · 6 g Eiweiß · 31 g Fett · 17 g Kohlenhydrate
+> [!IMPORTANT] Nährwerte pro Portion
+> - ca. 400 kcal
+> - 6 g Eiweiß
+> - 31 g Fett
+> - 17 g Kohlenhydrate

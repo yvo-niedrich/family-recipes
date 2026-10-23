@@ -34,5 +34,5 @@ _Für 4 Portionen_
 
 4. Im vorgeheizten Backofen auf Backpapier bei 200 °C in circa 20 Minuten goldgelb backen.
 
-> **Tipp**
+> [!TIP] Tipp
 > Auf Wunsch Joghurt-Hollandaise und Pflücksalat dazu servieren.

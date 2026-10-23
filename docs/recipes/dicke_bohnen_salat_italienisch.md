@@ -36,5 +36,5 @@ _Für 4 Portionen_
 
 4. 1 Stunde durchziehen lassen. Vor dem Servieren noch einmal abschmecken.
 
-> **Quelle**
+> [!INFO] Quelle
 > wochenblatt.com

@@ -26,5 +26,5 @@ tags: vegetarisch
 
 4. Mit Salz und Pfeffer würzen und ca. 30 Min. im Backofen backen.
 
-> **Anmerkung**
+> [!NOTE] Anmerkung
 > Statt des Ziegenkäses hatte ich Schafskäse mit Kräuter-Frischkäse vermischt – besser als mit Ziegenfrischkäse. Was schmeckt euch besser?

@@ -37,8 +37,8 @@ _Für 1 Portion_
 
 5. Nudeln, Tomaten, restliche Zwiebel mit dem Grün und fein geschnittenem Basilikum vermischen, dabei auch ein ganz klein wenig Salatsauce zugeben. Die restliche Sauce in einem Schraubglas mitnehmen und erst kurz vor dem Essen unter den Salat rühren.
 
-> **Tipp**
+> [!TIP] Tipp
 > Dazu passt Baguette oder eine Brezel.
 
-> **Anmerkung**
+> [!NOTE] Anmerkung
 > Versuch für 3 Portionen: 250 g Barilla Fusilli roh/ungekocht = 527 g gekocht.

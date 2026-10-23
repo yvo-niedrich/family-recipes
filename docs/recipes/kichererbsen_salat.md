@@ -33,5 +33,5 @@ _Für 6 Portionen_
 
 4. Den Kichererbsensalat evtl. mit Zitronensaft beträufeln. Guten Appetit!
 
-> **Tipp**
+> [!TIP] Tipp
 > Bei der Gemüseauswahl kann man natürlich kreativ sein. Mit in den Salat kann außerdem: Fetakäse, getrocknete Tomaten, Kapern, frischer Spinat, Nüsse, Saaten, Paprika, Avocado, frische Minze, Apfel und, und, und …

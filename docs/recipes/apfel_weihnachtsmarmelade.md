@@ -28,11 +28,11 @@ tags: marmelade
 
 4. Die noch heiße Marmelade in Gläser verteilen und gut verschließen.
 
-> **Tipp**
+> [!TIP] Tipp
 > Die Marmelade mit frischen Brötchen, Scones, Waffeln oder auf Vanilleeis genießen.
 
-> **Anmerkung**
+> [!NOTE] Anmerkung
 > Ich hab alles in den Thermomix getan und ca. 10 Min. auf Varoma gekocht.
 
-> **Quelle**
+> [!INFO] Quelle
 > Nach Manuela Inusa, „Der zauberhafte Trödelladen“ (Valerie Lane)

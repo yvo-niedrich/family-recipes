@@ -33,5 +33,5 @@ _Für eine Auflaufform_
 
 5. Die Streusel auf den Rhabarberstückchen verteilen und die Auflaufform für 30 bis 35 Minuten in den vorgeheizten Backofen geben. Wenn die Streusel schön goldbraun sind, ist der Crumble fertig.
 
-> **Tipp**
+> [!TIP] Tipp
 > Am besten lauwarm mit einer leckeren Vanillesauce oder einer Kugel Vanilleeis servieren.

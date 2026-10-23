@@ -36,15 +36,15 @@ _Für 6 Portionen_
 
 ## Zubereitung
 
-1. Als Erstes je nach Bedarf das Getreide 1 Min./Stufe 10 mahlen und umfüllen (man kann auch fertig gemahlenes Mehl nehmen, schmeckt aber mit frisch gemahlenem besser).
+1. Als Erstes je nach Bedarf das Getreide <Badge type="tip">1 Min./Stufe 10</Badge> mahlen und umfüllen (man kann auch fertig gemahlenes Mehl nehmen, schmeckt aber mit frisch gemahlenem besser).
 
-2. Dann die 200 g Käse in Stücke schneiden, 7 Sek./Stufe 7 reiben und umfüllen.
+2. Dann die 200 g Käse in Stücke schneiden, <Badge type="tip">7 Sek./Stufe 7</Badge> reiben und umfüllen.
 
-3. Mehl zusammen mit dem Wasser und dem Salz 40 Sek./Stufe 5 mischen und umfüllen (evtl. in den Kühlschrank stellen).
+3. Mehl zusammen mit dem Wasser und dem Salz <Badge type="tip">40 Sek./Stufe 5</Badge> mischen und umfüllen (evtl. in den Kühlschrank stellen).
 
-4. Kürbis in Stücke schneiden (die Schale kann man mitbenutzen!), Kartoffeln und Zwiebel schälen und auch in Stücke schneiden. Alles zusammen 7 Sek./Stufe 5 zerkleinern. Ofen auf 180 °C vorheizen.
+4. Kürbis in Stücke schneiden (die Schale kann man mitbenutzen!), Kartoffeln und Zwiebel schälen und auch in Stücke schneiden. Alles zusammen <Badge type="tip">7 Sek./Stufe 5</Badge> zerkleinern. Ofen auf 180 °C vorheizen.
 
-5. Restliche Zutaten für die Füllung (außer dem Käse) zugeben und 10 Sek./Linkslauf/Stufe 4 vermischen.
+5. Restliche Zutaten für die Füllung (außer dem Käse) zugeben und <Badge type="tip">10 Sek./Linkslauf/Stufe 4</Badge> vermischen.
 
 6. Teig in eine gefettete Springform geben (Rand ca. 5 cm hochdrücken). Käsescheiben auf den Boden legen – das gibt einen besonderen Geschmack und verhindert ein „Durchmatschen“.
 

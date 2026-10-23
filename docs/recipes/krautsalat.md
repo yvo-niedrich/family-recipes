@@ -33,4 +33,4 @@ Wichtig den sprudelnd kochenden Sud über das Kraut geben einmal kurz umrühren,
 
 Der Krautsalat muß mindestens einen Tag ziehen und hält sich im Kühlschrank bestimmt eine Woche
 
-> **VORSICHT mit dem kochenden Sud - nicht verschütten**
+> [!WARNING] VORSICHT mit dem kochenden Sud - nicht verschütten

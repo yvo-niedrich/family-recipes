@@ -41,5 +41,5 @@ tags:
 
 7. Reis gut abtropfen lassen. Reis, Kichererbsen, Chicorée, Avocado und Radieschen auf Tellern anrichten und mit der Öl-Zitronen-Mischung beträufeln. Dazu passt Joghurt.
 
-> **Anmerkung**
+> [!NOTE] Anmerkung
 > Ich hatte keine Avocado und hab stattdessen 2 Kiwi genommen, geht auch ;-))

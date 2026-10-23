@@ -28,8 +28,8 @@ tags: thermomix
 
 3. Sahne steif schlagen und über die Kirschen geben, mit Eierlikör beträufeln und zum Schluss mit Schokostreuseln bestreuen.
 
-> **Tipp**
+> [!TIP] Tipp
 > Schmeckt auch mit Preiselbeermarmelade.
 
-> **Quelle**
+> [!INFO] Quelle
 > Malburg

@@ -26,7 +26,7 @@ tags:
 3. Eiweiß nicht zu steif schlagen und Zucker langsam einrieseln lassen. Unter die Schokoladencreme heben. Dann die steifgeschlagene Sahne unterheben. Die Mousse in eine Schüssel füllen und 2 Stunden in den kühlschrank stellen.
 4. Zum Servieren mit zwei Löffeln Klößchen abstechen. Man kann noch leicht geschlagene Sahne dazu reichen und die Mousse mit gehobelten Schokoladenspäne bestruen.
 
-> **Tipp:**
+> [!TIP] Tipp
 > Statt der Vanille einen Eßlöffel starken Espresso aus löslichem Kaffee zur geschmolzenen Schokolade geben.
 > Oder die Mousse ohne Vanille mit einem Eßlöffel Rum, Cognac oder Orangenlikör aromatisieren.
 > 

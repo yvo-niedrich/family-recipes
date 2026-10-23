@@ -29,5 +29,5 @@ tags:
 
 3. Den Teig auf ein tiefes Backblech geben und mit Pflaumen belegen. Bei 200 °C ca. 30 Min. backen.
 
-> **Variante: mit Mandelkruste (ohne Pflaumen)**
+> [!TIP] Variante: mit Mandelkruste (ohne Pflaumen)
 > 2 Päckchen Mandelblättchen mit etwas Butter und 2–3 EL Zucker vermischen, auf den Teig streichen und 20 Min. backen.

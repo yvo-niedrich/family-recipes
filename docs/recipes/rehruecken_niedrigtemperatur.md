@@ -51,8 +51,8 @@ tags:
 
 5. **Anrichten:** Den Rehrücken schräg in Stückchen schneiden, in der Mitte des Tellers anrichten und Soße dazugeben. Die Birnenspalten als Beilage servieren.
 
-> **Tipp**
+> [!TIP] Tipp
 > Dazu schmecken wunderbar Knödel, Spätzle oder Nockerl. Ein schöner Rotwein rundet diesen Gang perfekt ab. Guten Appetit!
 
-> **Quelle**
+> [!INFO] Quelle
 > [kochbar.de: Rehrücken butterzart](https://www.kochbar.de/rezept/156256/Rehruecken-butterzart.html)

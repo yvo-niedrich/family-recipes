@@ -40,20 +40,21 @@ tags: suppe, fleisch, erkältung
 
 7. Das Hühnerfleisch in die Suppe geben und mit Salz und Pfeffer abschmecken. Die Petersilie abspülen, trockenschütteln und hacken. Kurz vorm Servieren über die Hühnersuppe verteilen.
 
-> **Tipp**
+> [!TIP] Tipp
 > Lorbeerblätter, Nelken und Pfefferkörner zusammen in einen Teefilter geben.
 
-> **Tipp**
+> [!TIP] Tipp
 > Besonders wärmend ist das Süppchen, wenn man ein Stück Ingwerwurzel mitkocht. Das verstärkt den wärmenden Effekt und gibt einen Hauch Schärfe. Gerne auch einen Spritzer Zitrone, passt auch prima zum Ingweraroma. Ich koche immer gleich große Mengen und friere sie portionsweise ein als Basis für Saucen. Oder einfach im Winter eine leckere Hühnersuppe genießen.
 
 ---
-> **Warum Hühnersuppe hilft**
+
+> [!NOTE] Warum Hühnersuppe hilft
 > Hühnersuppe ist fast ein Allheilmittel und bei Erkältungen eine gute Hilfe. Beim langsamen Kochen zieht der Eiweißstoff Cystein vom Fleisch in die Brühe. Der hemmt Entzündungen und lässt Schleimhäute abschwellen. Das Spurenelement Zink aus der Suppe ist ebenfalls an ein Eiweiß gebunden und wirkt Infektionen entgegen.
 >
 > Hühnerfleisch und -sehnen enthalten viel Kollagen, das beim Kochen in die Brühe übergeht. Kollagen hilft, das Enzym ACE (Angiotensin Converting Enzym) zu blockieren. ACE ist Bestandteil eines Hormons, das die Blutgefäße verengt und Bluthochdruck begünstigen kann.
->
-> **Zwiebel mit Schale**
+
+> [!TIP] Zwiebel mit Schale
 > Die Zwiebel kommt mit der Schale in die Brühe, weil sie der Suppe eine schöne goldige Farbe gibt.
->
-> **Immer mit kaltem Wasser aufsetzen**
+
+> [!TIP] Immer mit kaltem Wasser aufsetzen
 > Damit die Brühe besonders kräftig wird und das Fleisch gut auslaugt, die Suppe immer mit kaltem Wasser aufsetzen und dann langsam aufkochen lassen. Das gilt für alle Suppen: Soll es eine besonders gute Brühe geben, Fleisch und Knochen immer mit kaltem Wasser auffüllen. Geht es eher um das zarte Fleisch, die Brühe erst aufkochen lassen und dann das Fleisch hineingeben.

@@ -46,11 +46,14 @@ _Für 4 Portionen_
 
 6. Shakshuka mit Koriander und Spinatblättern bestreuen.
 
-> **Tipp**
+> [!TIP] Tipp
 > Die israelische Spezialität Shakshuka schmeckt prima mit Baguette oder Fladenbrot.
 
-> **Nährwerte pro Portion**
-> 405 kcal · 7 g Eiweiß · 33 g Fett · 16 g KH
+> [!IMPORTANT] Nährwerte pro Portion
+> - 405 kcal
+> - 7 g Eiweiß
+> - 33 g Fett
+> - 16 g KH
 
-> **Quelle**
+> [!INFO] Quelle
 > „Osterglück am Morgen“, [Schrot&Korn 04/2019](https://schrotundkorn.de/rezepte/lesen/spinat-shakshuka-mit-avocado-ei.html)

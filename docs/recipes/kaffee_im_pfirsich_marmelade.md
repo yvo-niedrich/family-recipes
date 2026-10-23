@@ -25,5 +25,5 @@ _Für 4 Gläser_
 
 3. Am Morgen Vanilleschote entfernen und Marmelade kochen (im Thermomix Linkslauf wegen des Kaffeesäckchens). Säckchen entfernen und umfüllen.
 
-> **Quelle**
+> [!INFO] Quelle
 > von Coffecat

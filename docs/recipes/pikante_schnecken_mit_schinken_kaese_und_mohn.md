@@ -46,5 +46,5 @@ _Für 4 Portionen_
 
 5. Den Backofen auf 190 °C Ober-/Unterhitze vorheizen. Die Schnecken im heißen Ofen etwa 45 Minuten backen.
 
-> **Tipp**
+> [!TIP] Tipp
 > Ich hatte noch Pilze und rote Paprikaschote reingeschnitten.

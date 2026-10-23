@@ -31,5 +31,5 @@ _Für ca. 20 Stück_
 
 5. Die noch warmen Windbeutel aufschneiden, vollständig erkalten lassen, mit Schlagsahne oder Quark füllen und mit Puderzucker besieben – oder eine herzhafte Füllung (Käsecreme) verwenden.
 
-> **Anmerkung**
+> [!NOTE] Anmerkung
 > Backpulver mit dem erkalteten Teig verrühren.

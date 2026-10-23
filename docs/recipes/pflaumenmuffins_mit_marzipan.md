@@ -31,5 +31,5 @@ tags: thermomix
 
 4. Bei 175 °C ca. 60 Min. goldbraun backen.
 
-> **Tipp**
+> [!TIP] Tipp
 > Wer mag, kann den Teig auch in Muffinförmchen backen. Dazu die Förmchen ca. halbvoll mit Teig füllen und 6 Pflaumenhälften kreisförmig in den Teig drücken. Die Muffins brauchen ca. die Hälfte der Zeit.

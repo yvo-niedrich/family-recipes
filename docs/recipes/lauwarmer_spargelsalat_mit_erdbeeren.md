@@ -28,5 +28,5 @@ tags:
 
 4. Erdbeeren waschen, putzen und je nach Größe halbieren oder vierteln. Rucola putzen, waschen und gut abtropfen lassen, evtl. etwas kleiner zupfen. Erdbeeren und Rucola unter den Spargel heben und anrichten.
 
-> **Tipp**
+> [!TIP] Tipp
 > Zum Spargelsalat mit Erdbeeren schmeckt Baguette.

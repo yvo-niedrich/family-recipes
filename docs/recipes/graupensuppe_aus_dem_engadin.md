@@ -30,8 +30,8 @@ tags: suppe, eintopf
 
 4. Den Eintopf mit gehackter Petersilie servieren.
 
-> **Tipp**
+> [!TIP] Tipp
 > Als Beilage wird im Engadin herzhaftes Graubrot gereicht.
 
-> **Anmerkung**
+> [!NOTE] Anmerkung
 > Ich hab es ohne Schinkenspeck und ohne Joghurt gekocht …

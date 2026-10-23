@@ -24,8 +24,8 @@ _Für 1 Portion_
 
 2. In einem kleinen Schüsselchen oder einem Glas in den Kühlschrank stellen und ca. 1 Std. fest werden lassen.
 
-> **Tipp**
+> [!TIP] Tipp
 > Wer die Creme gern etwas fester möchte, nimmt etwas weniger Sahne, dafür mehr Butter.
 
-> **Quelle**
+> [!INFO] Quelle
 > [chefkoch.de](http://www.chefkoch.de/rezepte/1970021319902872/Low-Carb-Nutella.html)

@@ -34,5 +34,8 @@ _Für 4 Portionen_
 
 4. Nochmals abschmecken, restliches Basilikum darüberstreuen, Feta darüberbröckeln und direkt aus der Pfanne servieren.
 
-> **Nährwerte pro Portion**
-> 484 kcal · 59 g KH · 17 g Eiweiß · 19 g Fett
+> [!IMPORTANT] Nährwerte pro Portion
+> - 484 kcal
+> - 59 g KH
+> - 17 g Eiweiß
+> - 19 g Fett

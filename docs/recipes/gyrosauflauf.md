@@ -30,5 +30,5 @@ _Für 4 Portionen_
 
 3. Alles in der Auflaufform mit dem Käse bestreuen und bei 200 °C ca. 30 Min. backen.
 
-> **Anmerkung**
+> [!NOTE] Anmerkung
 > Es schmeckt auch sehr gut, das Ganze noch mit ein paar Platten Lasagne zu schichten.

@@ -55,8 +55,11 @@ _Für ca. 24 Stück_
 
 6. Den Kuchen ca. 2 Stunden auskühlen lassen. Mit Puderzucker bestäuben und in ca. 24 Stücke schneiden. Auf einer Platte anrichten und mit Minze verzieren.
 
-> **Nährwerte pro Stück**
-> 330 kcal / 1380 kJ · 7 g Eiweiß · 17 g Fett · 34 g KH
+> [!IMPORTANT] Nährwerte pro Stück
+> - 330 kcal / 1380 kJ
+> - 7 g Eiweiß
+> - 17 g Fett
+> - 34 g KH
 
-> **Quelle**
+> [!INFO] Quelle
 > Kochen und genießen 5/2006

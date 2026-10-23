@@ -50,5 +50,5 @@ _Für 12 Portionen_
 
 6. Auf dem noch heißen Kuchen die flüssige Sahne löffelweise verteilen.
 
-> **Tipp**
+> [!TIP] Tipp
 > Wenn der Kuchen sehr saftig werden soll, 1/2 Dose Aprikosen mehr verwenden.

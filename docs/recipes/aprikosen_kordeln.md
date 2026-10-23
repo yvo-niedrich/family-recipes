@@ -41,5 +41,5 @@ _Für 4 Portionen_
 
 5. Im Backofen bei 180 °C Ober- und Unterhitze etwa 20 Minuten backen. Auskühlen lassen.
 
-> **Tipp**
+> [!TIP] Tipp
 > Die Kordeln lassen sich gut einfrieren.

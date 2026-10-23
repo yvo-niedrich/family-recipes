@@ -31,8 +31,8 @@ tags: thermomix
 
 3. In ein Schraubglas abfüllen und mit einer dünnen Schicht Olivenöl bedecken – so hält es sich mehrere Wochen im Kühlschrank. Wenn man nach jeder Entnahme wieder mit etwas Olivenöl luftdicht abdeckt, bleibt es noch länger frisch.
 
-> **Tipp**
+> [!TIP] Tipp
 > Passt gut zu frischem Brot, gekochten und gebratenen Eiern, Fisch, Salaten, Käsebroten, Wurstbroten (wenn's unbedingt sein muss), Gegrilltem, Gemüse (roh, gegrillt, gekocht, gebraten), Suppen, Aufläufen. Aber ich gebe es erst zum Schluss dazu und koche Bärlauch nicht. Guten Hunger!
 
-> **Variante**
+> [!TIP] Variante
 > Bärlauch, Cheddar-Käse, Sonnenblumenkerne, Öl

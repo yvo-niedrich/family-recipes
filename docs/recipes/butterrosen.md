@@ -46,8 +46,8 @@ tags:
 
 7. Nach der Backzeit das Blech aus dem Ofen nehmen, die Milchmasse darübergießen und den Ofen ausschalten. Das Blech nochmal für 5 Minuten in den Ofen stellen.
 
-> **Tipp** (Zitat von Pumuckl43)
+> [!TIP] Tipp (Zitat von Pumuckl43)
 > Sie heißen zwar Butterrosen, aber bitte macht es nicht mit Butter, sondern mit Rama. Habe es schon ausprobiert und das Ergebnis war nicht so gut.
 
-> **Anmerkung**
+> [!NOTE] Anmerkung
 > Heute hab ich ein Glas Jostabeeren-Marmelade auf die Ramamasse gestrichen.

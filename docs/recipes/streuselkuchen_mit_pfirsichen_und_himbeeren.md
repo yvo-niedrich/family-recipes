@@ -39,8 +39,8 @@ _Für 24 Stück_
 
 7. Kuchen auf dem Blech auskühlen lassen (Wartezeit ca. 2 Stunden), mit Puderzucker bestäuben, dann in Stücke schneiden.
 
-> **Tipp**
+> [!TIP] Tipp
 > Dazu schmeckt Vanilleeis.
 
-> **Quelle**
+> [!INFO] Quelle
 > Lecker.de

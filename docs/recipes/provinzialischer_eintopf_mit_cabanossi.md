@@ -36,7 +36,8 @@ tags: one pot
 
 5. Den Eintopf mit Salz und Pfeffer abschmecken und vor dem Servieren die Kräuter untermischen.
 
-> **Nährwerte pro Portion (4 Portionen)**
-> 612 kcal / 2564 kJ · 18 g Eiweiß · 50 g Fett · 12 g KH
->
-> Zubereitungszeit ca. 25 Minuten (plus Garzeit)
+> [!IMPORTANT] Nährwerte pro Portion (4 Portionen)
+> - 612 kcal / 2564 kJ
+> - 18 g Eiweiß
+> - 50 g Fett
+> - 12 g KH  Zubereitungszeit ca. 25 Minuten (plus Garzeit)

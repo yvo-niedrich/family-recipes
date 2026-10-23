@@ -28,13 +28,13 @@ tags: fleisch, thermomix
 
 2. Fleisch schnetzeln (wer mag, in einer Schüssel mit etwas Zuckerkulör vermischen), pfeffern und auf dem Einlegeboden verteilen.
 
-3. Champignons im TM **3 Sek./Stufe 5** zerkleinern. Wasser und Brühwürfel zugeben (ich hatte Hühnerfond aus dem Glas und wenig Wasser genommen).
+3. Champignons im TM <Badge type="tip">3 Sek./Stufe 5</Badge> zerkleinern. Wasser und Brühwürfel zugeben (ich hatte Hühnerfond aus dem Glas und wenig Wasser genommen).
 
-4. Varoma aufsetzen, Einlegeboden und Deckel drauf und **40 Min./Varoma/Stufe 1** garen. Nach Ablauf der Zeit den Varoma wegstellen.
+4. Varoma aufsetzen, Einlegeboden und Deckel drauf und <Badge type="tip">40 Min./Varoma/Stufe 1</Badge> garen. Nach Ablauf der Zeit den Varoma wegstellen.
 
 5. Garsud durch ein Sieb auf ca. 400 ml reduzieren, die aufgefangenen Champignons zurück in den TM geben.
 
-6. Sahne, Mehl, Pfeffer, Salz, Petersilie und Paprika zugeben und kurz **auf Stufe 5 mischen**, dann **3 Min./100 °C/Stufe 1** aufkochen.
+6. Sahne, Mehl, Pfeffer, Salz, Petersilie und Paprika zugeben und kurz auf <Badge type="tip">Stufe 5</Badge> mischen, dann <Badge type="tip">3 Min./100 °C/Stufe 1</Badge> aufkochen.
 
 7. In der Zeit die Knödel in Scheiben schneiden, das Fleisch in eine Schüssel geben und die fertige Soße darübergießen.
 

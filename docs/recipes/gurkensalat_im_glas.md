@@ -31,8 +31,8 @@ tags:
 
 5. Mindestens 4 Wochen ziehen lassen. Haltbarkeit ca. 6 Monate oder länger!
 
-> **Tipp**
+> [!TIP] Tipp
 > Knoblauch, Ingwer und Chili mit ins Glas geben – evtl. das eine oder andere weglassen. Wer sie nicht mag, kann gerne die Ingwerzutaten weglassen.
 
-> **Quelle**
+> [!INFO] Quelle
 > [chefkoch.de](https://www.chefkoch.de/rezepte/1523111257511339/Gurkensalat-im-Glas.html)

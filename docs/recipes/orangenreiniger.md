@@ -33,12 +33,12 @@ tags: putzmittel
 
 6. **Einen Spritzer Flüssigseife oder Spülmittel** hinzugeben, damit die Oberflächenspannung reduziert wird. So bleibt der Reiniger auch auf glatten Oberflächen haften.
 
-> **Das kann der Allzweckreiniger**
+> [!NOTE] Das kann der Allzweckreiniger
 > - **Fleckentferner:** Bei Verschmutzungen auf glatten Oberflächen, z. B. Kugelschreiberflecken, Schmieröl oder Klebereste.
 > - **Fettlöser:** Bei fettigen Töpfen, verschmutztem Herd, Dunstabzugshaube und Geschirr.
 > - **Badreiniger:** Auch im Bad oder in der Küche einsetzbar, da er eine extreme Kalklösekraft hat.
 > - **Polsterreiniger:** Selbst zur Polsterreinigung und speziell bei Flecken auf dem Polster einsetzbar.
 > - **Poliermittel:** Bekämpft Verschmutzungen auf glänzenden Flächen und lässt sie streifenfrei strahlen. Auch zum Silberreinigen oder für Weingläser geeignet.
 
-> **Achtung**
+> [!WARNING] Achtung
 > Bei **Kalkstein** (z. B. Marmor) sollte man die Finger vom Orangenreiniger lassen. Die enthaltene **Säure greift den Kalk an** und zerstört die Oberfläche.

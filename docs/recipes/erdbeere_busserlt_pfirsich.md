@@ -22,5 +22,5 @@ _Für 4–5 Gläser_
 
 1. Sämtliche Zutaten in einen Topf geben und nach Anleitung der Zuckertüte bzw. bis zum Gelieren kochen.
 
-> **Anmerkung**
+> [!NOTE] Anmerkung
 > Der Zucker von Dr. Oetker war meinerseits ein Test. Es funktioniert auch mit normalem gut :)

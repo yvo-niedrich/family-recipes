@@ -30,5 +30,8 @@ _Für 4 Portionen_
 
 3. Penne ins kochende Wasser geben und nach Packungsanweisung garen. Petersilie waschen und hacken. Mit dem Frischkäse ins Gemüse rühren, mit Salz und Pfeffer würzen. Nudeln abgießen und mit der Gemüsesoße anrichten.
 
-> **Nährwerte pro Portion**
-> ca. 640 kcal · 21 g Eiweiß · 25 g Fett · 79 g Kohlenhydrate
+> [!IMPORTANT] Nährwerte pro Portion
+> - ca. 640 kcal
+> - 21 g Eiweiß
+> - 25 g Fett
+> - 79 g Kohlenhydrate

@@ -36,5 +36,8 @@ _Für 6 Portionen_
 
 4. Basilikum waschen. Risotto auf tiefe Teller verteilen und mit Basilikum und Pistazienkernen bestreut servieren. Den restlichen Parmesan dazureichen.
 
-> **Nährwerte pro Portion**
-> 357 kcal · 55,5 g KH · 12,1 g Eiweiß · 10,8 g Fett
+> [!IMPORTANT] Nährwerte pro Portion
+> - 357 kcal
+> - 55,5 g KH
+> - 12,1 g Eiweiß
+> - 10,8 g Fett

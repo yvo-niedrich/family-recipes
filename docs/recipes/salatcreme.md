@@ -26,11 +26,11 @@ _Für 1 Liter_
 
 ## Zubereitung
 
-1. Balsamico, Wasser, Zucker, Salz und Brühpulver in den Mixtopf geben und **6 Min./Varoma/Stufe 1 kochen.**
+1. Balsamico, Wasser, Zucker, Salz und Brühpulver in den Mixtopf geben und <Badge type="tip">6 Min./Varoma/Stufe 1</Badge> kochen.
 
-2. Dann die restlichen Zutaten dazugeben und ca. 2 Min./Stufe 6 verrühren.
+2. Dann die restlichen Zutaten dazugeben und <Badge type="tip">ca. 2 Min./Stufe 6</Badge> verrühren.
 
 3. Das Dressing in Flaschen oder Twist-off-Gläser abfüllen. Geöffnete Gläser und Flaschen im Kühlschrank aufbewahren.
 
-> **Anmerkung** (Kommentar von irgendwem)
+> [!NOTE] Anmerkung (Kommentar von irgendwem)
 > „Schmeckt sehr gut! Ich habe zuerst eine Schalotte im Mixtopf zerkleinert und einen TL Knoblauchgrundstock zugegeben. Statt Schmand hatte ich Sauerrahm, und Gelierfix habe ich weggelassen.“

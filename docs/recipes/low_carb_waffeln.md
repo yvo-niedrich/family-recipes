@@ -24,8 +24,8 @@ _Für 3 Portionen_
 
 2. Sollte die Konsistenz nicht dickflüssig sein, noch etwas Butter und Eiweißpulver hinzugeben.
 
-> **Tipp**
+> [!TIP] Tipp
 > Es können auch herzhafte Waffeln gemacht werden, indem der Süßstoff durch Salz und Schinkenwürfel oder Käse ersetzt wird.
 
-> **Anmerkung**
+> [!NOTE] Anmerkung
 > Die Menge reicht für ca. 3 Waffeln.

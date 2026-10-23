@@ -27,12 +27,12 @@ tags: thermomix
 
 ## Zubereitung
 
-1. Chili, Ingwer und Knoblauch in den Mixtopf geben und 2 Sek./Stufe 8 zerkleinern (oder mit dem Messer sehr fein schneiden).
+1. Chili, Ingwer und Knoblauch in den Mixtopf geben und <Badge type="tip">2 Sek./Stufe 8</Badge> zerkleinern (oder mit dem Messer sehr fein schneiden).
 
-2. Zwiebeln, Korianderblätter und Öl zugeben, 5 Sek./Stufe 5 zerkleinern und nach unten schieben.
+2. Zwiebeln, Korianderblätter und Öl zugeben, <Badge type="tip">5 Sek./Stufe 5</Badge> zerkleinern und nach unten schieben.
 
-3. Korianderpulver, Curry, Kreuzkümmel und Salz zugeben und 3 Min./Varoma/Stufe 1 dünsten.
+3. Korianderpulver, Curry, Kreuzkümmel und Salz zugeben und <Badge type="tip">3 Min./Varoma/Stufe 1</Badge> dünsten.
 
-4. Tomatenmark, Joghurt, Hühnchen- und Zucchiniwürfel zugeben und 15 Min./100 °C/Linkslauf/Stufe 1 garen.
+4. Tomatenmark, Joghurt, Hühnchen- und Zucchiniwürfel zugeben und <Badge type="tip">15 Min./100 °C/Linkslauf/Stufe 1</Badge> garen.
 
 5. Zu Reis, Gnocchi oder Brot servieren.

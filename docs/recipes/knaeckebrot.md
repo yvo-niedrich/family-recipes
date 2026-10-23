@@ -33,7 +33,7 @@ _Für 12 Stück_
 
 4. Auskühlen lassen und die Stücke an den Schnittstellen vorsichtig auseinanderbrechen. Das Knäckebrot luftdicht verschlossen aufbewahren.
 
-> **Alternativrezept**
+> [!TIP] Alternativrezept
 > - 100 g Speisestärke
 > - 4 EL Sesam
 > - 2 EL Leinsamen

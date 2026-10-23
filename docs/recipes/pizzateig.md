@@ -24,7 +24,7 @@ tags: thermomix
 
 3. Nun mit bemehlten Händen aus der Rührschüssel heben und in eine mit Mehl ausgestäubte Schüssel geben. Eventuell nochmal mit ein wenig Mehl bestäuben und dann mit einem feuchten Tuch oder mit Klarsichtfolie zugedeckt an einem warmen Ort **zwei Stunden** gehen lassen.
 
-> **Tipp**
+> [!TIP] Tipp
 > Es ist ein ganz einfacher Hefe- oder Brotteig, den man am besten die Küchenmaschine rühren und kneten lässt. Die hat nicht nur mehr Ausdauer, sondern auch mehr Kraft. Als Zutaten braucht man nicht mehr als Hefe, Wasser, Salz und ein gutes Mehl.
 >
 > „Was ist gut?“, werden Sie fragen. Keins aus dem Sonderangebot, sondern ein Weizenmehl, das besonders proteinhaltig, also reich an Eiweiß ist, deshalb über mehr Inhaltsstoffe verfügt, nährstoffreicher und daher auch ein wenig teurer ist. Es sollte nicht so fein ausgemahlen sein wie Type 405, die wir fürs Kuchenbacken verwenden, sondern darf ruhig mehr Schalenbestandteile haben, wie etwa Mehl der Type 550. Man könnte auch etwa ein Drittel Mehl der Type 1050 untermischen – also mit noch mehr Schalenbestandteilen –, um den Teig noch herzhafter und kräftiger zu machen.

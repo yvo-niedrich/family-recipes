@@ -63,7 +63,7 @@ _Für ca. 8 Portionen_
 
 5. Zum Schluss die Suppe ebenfalls mit einem Pürierstab gleichmäßig pürieren, bis keine Stückchen mehr zu sehen sind. Mit Salz und Pfeffer abschmecken, die Suppe auf Teller verteilen und mit Meerrettichschaum verzieren.
 
-> **Info**
+> [!NOTE] Info
 > Rote Bete enthält hohe Mengen Vitamin B, Kalium, Eisen und insbesondere Folsäure. Der Folsäurebedarf steigt in der Schwangerschaft erheblich an, weil sie an der Zellteilung und Synthese von DNS-Bausteinen beteiligt ist. Ein Mangel an Folsäure kann unter anderem zu Neuralrohrdefekten des Embryos führen, daher ist eine ausreichende Aufnahme in der Schwangerschaft (bzw. auch schon davor) empfehlenswert. Die Deutsche Gesellschaft für Ernährung e. V. empfiehlt 400 µg Folsäure, bei Frauen mit Kinderwunsch 800 µg täglich.
 >
 > Die rote Farbe der Rübe kommt übrigens durch den Farbstoff Betanin zustande. Bei der Zubereitung empfiehlt es sich, mit Gummihandschuhen zu arbeiten, um eine Verfärbung der Hände zu vermeiden.

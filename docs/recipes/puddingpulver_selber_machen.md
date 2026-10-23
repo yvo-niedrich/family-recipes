@@ -35,8 +35,8 @@ _Für 2 Portionen_
 
 3. In Gläser oder Schüsseln füllen und erkalten lassen.
 
-> **Tipp**
+> [!TIP] Tipp
 > Wenn du regelmäßig Pudding selber machst, kannst du dir direkt einen Vorrat an DIY-Puddingpulver zulegen. Gib dazu einfach mehrere Portionen der Grund- und Geschmackszutaten zusammen in ein Schraubglas und vermische sie gründlich.
 
-> **Quelle**
+> [!INFO] Quelle
 > [smarticular.net](https://www.smarticular.net/pudding-selbst-herstellen-vegan-rezept/)

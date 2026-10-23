@@ -31,5 +31,5 @@ tags:
 
 7. Glasflaschen mit heißem Wasser ausspülen, den heißen Saft einfüllen und darin abkühlen lassen.
 
-> **Anmerkung**
+> [!NOTE] Anmerkung
 > Für die Zubereitung etwa 30 Minuten einplanen.

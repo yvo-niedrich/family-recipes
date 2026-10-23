@@ -24,8 +24,8 @@ tags:
 
 ## Zubereitung
 
-1. Knoblauch und Chili in den Thermomix geben und 3 Sek./Stufe 8 zerkleinern.
-2. Zwiebel zugeben, 3 Sek./Stufe 5 zerkleinern und mit dem Spatel nach unten schieben.
-3. Öl, Kreuzkümmel, Garam Masala und Kurkuma hinzugeben und 3 Min./Varoma/Stufe 1 dünsten.
-4. Linsen, Kokosmilch, Wasser und Salz zugeben, 15 Min./100°C/Linkslauf/Stufe 2 garen und heiß mit Weißbrot oder Reis servieren.
+1. Knoblauch und Chili in den Thermomix geben und <Badge type="tip">3 Sek./Stufe 8</Badge> zerkleinern.
+2. Zwiebel zugeben, <Badge type="tip">3 Sek./Stufe 5</Badge> zerkleinern und mit dem Spatel nach unten schieben.
+3. Öl, Kreuzkümmel, Garam Masala und Kurkuma hinzugeben und <Badge type="tip">3 Min./Varoma/Stufe 1</Badge> dünsten.
+4. Linsen, Kokosmilch, Wasser und Salz zugeben, <Badge type="tip">15 Min./100°C/Linkslauf/Stufe 2</Badge> garen und heiß mit Weißbrot oder Reis servieren.
 

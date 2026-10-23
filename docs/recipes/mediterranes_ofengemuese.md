@@ -38,5 +38,6 @@ _Für 6 Portionen_
 
 5. Mit Oregano bestreut und mit Rosmarinzweigen garniert servieren.
 
-> **Nährwerte**
-> Schwierigkeitsgrad: normal · ca. 570 kcal pro Portion
+> [!IMPORTANT] Nährwerte
+> - Schwierigkeitsgrad: normal
+> - ca. 570 kcal pro Portion

@@ -43,7 +43,7 @@ _Für ca. 3 Portionen_
 
 8. Im Backofen bei ca. 200 °C ungefähr 30 Minuten überbacken.
 
-> **Tipp**
+> [!TIP] Tipp
 > Ich selbst verwende selbstgemachte Gemüsebrühe – da ist auf jeden Fall kein Zucker in der Zutatenliste dabei.
 >
 > Nimm eine große Pfanne und gib den Spinat später mit zu den Tomaten. Dann hast du weniger zu spülen. ☺️

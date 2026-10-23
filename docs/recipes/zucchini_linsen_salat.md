@@ -37,8 +37,11 @@ tags:
 
 6. Den Halloumi würfeln, mit 1 EL Olivenöl in einer Pfanne braten und zuletzt über den Salat streuen.
 
-> **Tipp**
+> [!TIP] Tipp
 > Der Salat kann auch ohne Käse zubereitet werden. Auch gewürfelter Feta oder ein wenig darübergestreuter Ziegenfrischkäse passt sehr gut zu diesem Salat.
 
-> **Nährwerte pro 100 g**
-> 590 kJ (141 kcal) · 0,5 g Eiweiß · 2,0 g Kohlenhydrate · 14,8 g Fett
+> [!IMPORTANT] Nährwerte pro 100 g
+> - 590 kJ (141 kcal)
+> - 0,5 g Eiweiß
+> - 2,0 g Kohlenhydrate
+> - 14,8 g Fett

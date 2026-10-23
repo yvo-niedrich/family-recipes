@@ -38,5 +38,8 @@ tags: fleisch, eiweißreich
 
 5. Für das Dressing Olivenöl, Zucker und Honig verrühren, mit Salz und Pfeffer würzen. Dressing mit Granatapfelkernen, Oliven sowie Kräutern vermengen. Fleisch aufschneiden und mit dem Salat anrichten.
 
-> **Nährwerte pro Portion**
-> 710 kcal · 35 g KH · 40 g Eiweiß · 45 g Fett
+> [!IMPORTANT] Nährwerte pro Portion
+> - 710 kcal
+> - 35 g KH
+> - 40 g Eiweiß
+> - 45 g Fett

@@ -37,8 +37,8 @@ _Für 6 Portionen_
 
 5. Das Gulasch noch einmal abschmecken.
 
-> **Tipp**
+> [!TIP] Tipp
 > Dazu Makkaroni oder ein deftiges Bauernbrot reichen.
 
-> **Anmerkung**
+> [!NOTE] Anmerkung
 > Vorbereitung: 45 Min. · Kochen/Backen: 140 Min. · Zubereitung gesamt: 185 Min.

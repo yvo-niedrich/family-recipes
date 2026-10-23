@@ -27,8 +27,11 @@ _Für 3 Gläser à 300 ml_
 
 4. Aufstrich sofort in saubere, heiß ausgespülte Gläser füllen. Verschließen und abkühlen lassen.
 
-> **Nährwerte pro 100 ml**
-> 220 kcal · 0,0 g Eiweiß · 54 g Kohlenhydrate · 0,0 g Fett
+> [!IMPORTANT] Nährwerte pro 100 ml
+> - 220 kcal
+> - 0,0 g Eiweiß
+> - 54 g Kohlenhydrate
+> - 0,0 g Fett
 
-> **Quelle**
+> [!INFO] Quelle
 > Rezept vom Süße-Küche-Team von [SweetFamily](https://www.sweet-family.de/produkte/rohrzucker/produktdetails/bio-gelierzucker-21/)

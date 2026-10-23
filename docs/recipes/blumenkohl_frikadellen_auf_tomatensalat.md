@@ -35,13 +35,16 @@ tags: eiweißreich, vegetarisch
 
 4. Restliche Kichererbsen und Blumenkohl-Frikadellen auf dem Tomaten-Kräuter-Salat anrichten.
 
-> **Tipp**
-> Dazu schmeckt Hummus.
+> [!TIP] Tipp
+> Dazu schmeckt [Hummus](./hummus.md).
 
-> **Anmerkung**
+> [!NOTE] Anmerkung
 > Chili heizt der Fettverbrennung ein: Der Scharfstoff Capsaicin pusht den Stoffwechsel und wirkt wie ein natürlicher Fatburner.
 >
 > Kichererbsen machen schlank: Denn sie stecken voller Ballaststoffe, die satt machen, und sind so ein guter Hungerstopper.
 
-> **Nährwerte**
-> 340 kcal · 25 g Fett · 13 g KH · 16 g Eiweiß
+> [!IMPORTANT] Nährwerte
+> - 340 kcal
+> - 25 g Fett
+> - 13 g KH
+> - 16 g Eiweiß

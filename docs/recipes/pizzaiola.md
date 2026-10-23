@@ -30,5 +30,5 @@ tags: vegan, thermomix
 
 4. Die frischen Kräuter nur grob hacken, gleich einrühren und alles auf kleiner Hitze leise köcheln, bis eine konzentrierte, aromatische, tomatenduftende Sauce entstanden ist. Während des Kochens immer mal wieder umrühren, damit nichts ansetzt, und eventuell mit einem Schuss Wasser loskochen.
 
-> **Tipp**
+> [!TIP] Tipp
 > Die Pizzaiola sollte schön dick sein, sich aber gut verstreichen lassen und aromatisch duften.

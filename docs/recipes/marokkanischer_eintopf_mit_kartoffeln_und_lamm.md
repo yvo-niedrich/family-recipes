@@ -33,5 +33,8 @@ tags: one pot
 
 4. Den Eintopf noch einmal umrühren und nach Geschmack mit Pfeffer würzen.
 
-> **Nährwerte pro Portion (4 Portionen)**
-> 441 kcal / 1850 kJ · 19 g Eiweiß · 44 g Fett · 20 g KH
+> [!IMPORTANT] Nährwerte pro Portion (4 Portionen)
+> - 441 kcal / 1850 kJ
+> - 19 g Eiweiß
+> - 44 g Fett
+> - 20 g KH

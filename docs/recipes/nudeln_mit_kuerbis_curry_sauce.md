@@ -32,8 +32,11 @@ _Für 4 Portionen_
 
 3. Limettensaft und -schale, Honig, Currypulver, Chiliflocken, Rosinen, Sahne, Nudeln, 1 gute Prise Salz und 800 ml Wasser in den Topf geben, alles umrühren und bei geschlossenem Deckel und mittlerer Hitze 10–15 Minuten köcheln lassen (richtet sich nach der Kochzeit der Nudeln). Wenn die Sauce zu dickflüssig ist, noch etwas Wasser hinzufügen.
 
-> **Nährwerte pro Portion**
-> 804 kcal / 3366 kJ · 17 g Eiweiß · 42 g Fett · 89 g KH
+> [!IMPORTANT] Nährwerte pro Portion
+> - 804 kcal / 3366 kJ
+> - 17 g Eiweiß
+> - 42 g Fett
+> - 89 g KH
 
-> **Quelle**
+> [!INFO] Quelle
 > [gourmet-kochwelt.de](http://www.gourmet-kochwelt.de/aus-einem-topf/vollkornnudeln-mit-kuerbis-curry-sauce/)

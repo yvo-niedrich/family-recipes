@@ -21,13 +21,13 @@ tags: thermomix
 
 ## Zubereitung
 
-1. Butter in den Mixtopf geben und ca. 2 Min./100 °C/Stufe 1 erhitzen.
+1. Butter in den Mixtopf geben und <Badge type="tip">ca. 2 Min./100 °C/Stufe 1</Badge> erhitzen.
 
-2. Wirsing und Gemüsebrühe zugeben und ca. 20 Sek./Stufe 4 zerkleinern.
+2. Wirsing und Gemüsebrühe zugeben und <Badge type="tip">ca. 20 Sek./Stufe 4</Badge> zerkleinern.
 
-3. Sahne, Salz, Pfeffer und Muskat zugeben und 15 Min./100 °C/Stufe 1–2 gar kochen.
+3. Sahne, Salz, Pfeffer und Muskat zugeben und <Badge type="tip">15 Min./100 °C/Stufe 1–2</Badge> gar kochen.
 
 4. Mit Schnittlauchröllchen bestreuen.
 
-> **Tipp**
+> [!TIP] Tipp
 > Dazu gab es Kartoffeln und kurz gebratenen Fisch. Ich hoffe, dass euch das Rezept genauso gefällt und schmeckt wie mir.

@@ -27,10 +27,10 @@ tags:
 
 4. In einem luftdichten Behälter bei Zimmertemperatur aufbewahren (wenn es überhaupt dazu kommt). Guten Appetit!
 
-> **Tipp**
+> [!TIP] Tipp
 > Ursprünglich hatte ich sie auf Backpapier verteilt, aber bei den darauffolgenden Malen (ja, Mehrzahl) habe ich sie immer direkt auf den Rosten verteilt. Dann kann die Luft besser zirkulieren und es geht etwas schneller.
 >
 > Ich habe das Knoblauchpulver weggelassen und dafür mein hausgemachtes Knoblauch-Zwiebel-Salz benutzt.
 
-> **Quelle**
+> [!INFO] Quelle
 > Irina, leckermachtlaune

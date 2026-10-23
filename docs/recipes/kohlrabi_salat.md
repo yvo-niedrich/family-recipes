@@ -24,7 +24,7 @@ _Für 4 Portionen_
 
 ## Zubereitung
 
-1. Alle Zutaten in den TM geben und 6 Sek./Stufe 4 zerkleinern … genießen. Schmeckt fruchtig-frisch!
+1. Alle Zutaten in den TM geben und <Badge type="tip">6 Sek./Stufe 4</Badge> zerkleinern … genießen. Schmeckt fruchtig-frisch!
 
-> **Anmerkung**
+> [!NOTE] Anmerkung
 > Für alle WW-ler: pro Portion 3 PP.

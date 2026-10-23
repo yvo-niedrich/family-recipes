@@ -38,7 +38,7 @@ _Für 12 Stück_
 
 4. Kuchen im Ofen auf der mittleren Schiene ungefähr 1 Stunde backen. Crème fraîche mit Vanillezucker mischen und auf dem Käsebelag verstreichen. Nochmals ungefähr 10 Minuten backen. Herausholen und abkühlen lassen.
 
-> **Anmerkung**
+> [!NOTE] Anmerkung
 > Die Zahlen in Klammern sind meine Mengen.
 >
 > Weil ich so ungeduldig bin, lasse ich die Butter höchstens 3 Minuten abkühlen – funktioniert bestens. Ich hatte auch schon zimmerwarme Butter genommen, ohne sie zu schmelzen.

@@ -36,5 +36,8 @@ _Für 4 Portionen_
 
 5. Etwas Aioli auf einer Platte verteilen. Salat und Avocado darauf anrichten, Parmesanspäne darüberstreuen. Salat mit Pfeffer übermahlen und servieren. Übrige Aioli getrennt dazu reichen.
 
-> **Nährwerte pro Portion**
-> 630 kcal · 3 g KH · 11 g Eiweiß · 65 g Fett
+> [!IMPORTANT] Nährwerte pro Portion
+> - 630 kcal
+> - 3 g KH
+> - 11 g Eiweiß
+> - 65 g Fett

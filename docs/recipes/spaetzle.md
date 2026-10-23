@@ -37,7 +37,7 @@ _Für 2 Portionen_
 
 7. Mit einem Schaumlöffel die Spätzle aus dem Wasser nehmen und warm stellen – ggf. weitere Fuhren ins Wasser pressen.
 
-> **Tipps**
+> [!TIP] Tipps
 > Spätzle selbst sind kein Hexenwerk. Man sollte nur ein paar Dinge beachten … aber wie immer führen viele Wege nach Rom. Jeder hat ja so seine eigenen Erfahrungswerte.
 >
 > - **Den Spätzleteig mit dem Kochlöffel von Hand schlagen.** Ich weiß, dass viele mit dem Kopf schütteln – aber die richtigen Mengenverhältnisse und die richtige Konsistenz bekomme ich nur hin, wenn ich den Teig von Hand schlage. Allerdings bis maximal 4 Personen. Danach kommt auch bei mir die Maschine zum Einsatz.

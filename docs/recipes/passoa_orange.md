@@ -24,5 +24,5 @@ _Für 1 Glas_
 
 2. Mit einer Orangen- und Zitronenscheibe am Glasrand sowie Schirmchen und Trinkhalm garnieren.
 
-> **Anmerkung**
+> [!NOTE] Anmerkung
 > Im Sommer ist dieser Cocktail ein absolutes Highlight. Er ist schnell zubereitet und schmeckt erfrischend.

@@ -37,5 +37,8 @@ _Für 4 Portionen_
 
 4. Die Hitze auf niedrigste Stufe reduzieren. Thymian, Gemüsebrühe, Salz, Pfeffer und Lorbeerblatt zugeben und einen Deckel auflegen. Den Rindfleischtopf ca. 2 Stunden garen. Mit Salz und Pfeffer abschmecken.
 
-> **Nährwerte pro Portion**
-> 401 kcal / 1682 kJ · 33 g Eiweiß · 19 g Fett · 19 g KH
+> [!IMPORTANT] Nährwerte pro Portion
+> - 401 kcal / 1682 kJ
+> - 33 g Eiweiß
+> - 19 g Fett
+> - 19 g KH

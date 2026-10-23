@@ -29,10 +29,10 @@ tags: fleisch, gemüse, thermomix
 
 ## Zubereitung
 
-1. Ingwer schälen, Knoblauch abziehen, beides in den Mixtopf geben und **3 Sek./Stufe 8** zerkleinern.
+1. Ingwer schälen, Knoblauch abziehen, beides in den Mixtopf geben und <Badge type="tip">3 Sek./Stufe 8</Badge> zerkleinern.
 
-2. Schalotten abziehen, in den Mixtopf geben und **3 Sek./Stufe 5** zerkleinern.
+2. Schalotten abziehen, in den Mixtopf geben und <Badge type="tip">3 Sek./Stufe 5</Badge> zerkleinern.
 
-3. Aprikosen in 0,5 cm kleine Würfel schneiden. Aprikosenwürfel und Öl in den Mixtopf geben und **3 Min./Varoma/Stufe 1** andünsten.
+3. Aprikosen in 0,5 cm kleine Würfel schneiden. Aprikosenwürfel und Öl in den Mixtopf geben und <Badge type="tip">3 Min./Varoma/Stufe 1</Badge> andünsten.
 
-4. Kürbis in ca. 2 cm große Würfel schneiden. Kürbiswürfel, Hühnerbrustwürfel, Brühe, Kokosmilch, Tomatenmark, Cayennepfeffer, Currypulver, Salz, Zucker, Zimt und Mandeln in den Mixtopf geben, **20 Sek./Linkslauf/Stufe 2** verrühren und **20 Min./100 °C/Sanftrührstufe** garen.
+4. Kürbis in ca. 2 cm große Würfel schneiden. Kürbiswürfel, Hühnerbrustwürfel, Brühe, Kokosmilch, Tomatenmark, Cayennepfeffer, Currypulver, Salz, Zucker, Zimt und Mandeln in den Mixtopf geben, <Badge type="tip">20 Sek./Linkslauf/Stufe 2</Badge> verrühren und <Badge type="tip">20 Min./100 °C/Sanftrührstufe</Badge> garen.

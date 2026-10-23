@@ -43,5 +43,5 @@ _Für 4–6 Portionen_
 
 6. Den Rote-Bete-Topf auf tiefe Teller verteilen, jeweils einen dicken Klecks griechischen Joghurt (10 %) oder saure Sahne daraufsetzen und mit Schnittlauchröllchen bestreuen.
 
-> **Tipp**
+> [!TIP] Tipp
 > Dazu frisches Weiß- oder Bauernbrot.

@@ -40,5 +40,5 @@ tags: vegan, gemüse
 
 6. Rosenkohlcurry mit Fleur de Sel, Limettensaft und -schale abschmecken. In einer vorgewärmten Schale anrichten und mit Granatapfelkernen, Kresse und Schwarzkümmel bestreuen.
 
-> **Tipp**
+> [!TIP] Tipp
 > Dazu passt Basmati-Reis.

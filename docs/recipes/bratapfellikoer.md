@@ -26,8 +26,8 @@ tags: weihnachten, thermomix
 
 1. Apfelsaft, Weißwein, Vanillezucker und Zucker in den Mixtopf geben. Die Gewürze in den Gareinsatz geben.
 
-2. **13 Min./100 °C/Stufe 1** kochen.
+2. <Badge type="tip">13 Min./100 °C/Stufe 1</Badge> kochen.
 
-3. Gareinsatz mit den Gewürzen entfernen. Calvados und Amaretto erst zufügen, wenn es etwas abgekühlt ist, und **15 Sek./Stufe 4** unterrühren.
+3. Gareinsatz mit den Gewürzen entfernen. Calvados und Amaretto erst zufügen, wenn es etwas abgekühlt ist, und <Badge type="tip">15 Sek./Stufe 4</Badge> unterrühren.
 
 4. In Flaschen abfüllen – fertig!

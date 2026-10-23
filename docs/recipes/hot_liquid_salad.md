@@ -29,8 +29,11 @@ _Für 2 Gläser_
 
 3. Das heiße Wasser dazugeben und alles auf höchster Stufe mixen, bis der Smoothie schön cremig ist.
 
-> **Tipp**
+> [!TIP] Tipp
 > Cayennepfeffer besteht aus gemahlenen Chilischoten, das Capsaicin sorgt für die Schärfe. Cayennepfeffer wirkt gefäßerweiternd und durchblutungsfördernd.
 
-> **Nährwerte pro Portion**
-> 55 kcal · 2 g Eiweiß · 0 g Fett · 9 g KH
+> [!IMPORTANT] Nährwerte pro Portion
+> - 55 kcal
+> - 2 g Eiweiß
+> - 0 g Fett
+> - 9 g KH

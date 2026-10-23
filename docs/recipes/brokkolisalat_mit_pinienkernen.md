@@ -25,7 +25,7 @@ _Für 6 Portionen_
 
 ## Zubereitung
 
-1. Alles in den Mixtopf geben und 5 Sek./Stufe 4 zerkleinern.
+1. Alles in den Mixtopf geben und <Badge type="tip">5 Sek./Stufe 4</Badge> zerkleinern.
 
-> **Anmerkung**
+> [!NOTE] Anmerkung
 > Alternativ in der Ronic nach Sicht zerkleinern.

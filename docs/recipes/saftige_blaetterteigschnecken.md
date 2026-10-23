@@ -29,5 +29,5 @@ tags: thermomix
 
 5. Im vorgeheizten Backofen (Heißluft 225 °C, konventionell 250 °C) goldbraun backen.
 
-> **Tipp**
+> [!TIP] Tipp
 > Wer mag, kann die Schnecken kurz vor dem Servieren nochmals im Backofen aufwärmen – ist aber nicht wirklich notwendig.

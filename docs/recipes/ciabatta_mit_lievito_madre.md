@@ -43,7 +43,7 @@ _Für 2 Stück_
 
 7. Dann den Ofen ausschalten, die Ofentür kurz öffnen, damit der Dampf entweichen kann, und noch weitere 20 Minuten mit der Resthitze fertig backen.
 
-> **Anmerkung**
+> [!NOTE] Anmerkung
 > Arbeitszeit ca. 1 Std. · Ruhezeit ca. 15 Std. · Schwierigkeitsgrad: pfiffig
 >
 > Die genaue Anleitung für die Lievito madre findet man in [diesem Thread auf chefkoch.de](http://www.chefkoch.de/forum/2,37,467736/Ciabatta-mit-Lievito-madre-und-Biga.html).

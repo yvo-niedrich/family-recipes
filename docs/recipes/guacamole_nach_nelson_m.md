@@ -28,5 +28,5 @@ tags: thermomix
 
 3. Das Avocadofruchtfleisch mit Koriander, saurer Sahne und Limettensaft mit dem Stabmixer mindestens 1 Minute pürieren, bis die Masse hell und cremig wird. Den Dip mit Salz und Pfeffer abschmecken, bei Bedarf etwas mehr Limettensaft dazugeben. Tomaten, Chili, Knoblauch und Erdnüsse untermischen.
 
-> **Tipp**
+> [!TIP] Tipp
 > Durch das längere Pürieren der Avocado schmeckt der Dip ganz leicht nach Banane. Dieser Geschmack harmoniert wunderbar mit den Erdnüssen und gibt dem Dip in Verbindung mit Chili und Koriandergrün einen exotischen Touch. Wer eine vegane Variante bevorzugt, lässt die saure Sahne weg.

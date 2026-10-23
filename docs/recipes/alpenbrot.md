@@ -24,7 +24,7 @@ _Für 100 Stück_
 
 ## Zubereitung
 
-1. Alle Zutaten in den Mixtopf geben und **ca. 40 Sek./Stufe 5** mithilfe des Spatels zu einem Teig verarbeiten.
+1. Alle Zutaten in den Mixtopf geben und <Badge type="tip">ca. 40 Sek./Stufe 5</Badge> mithilfe des Spatels zu einem Teig verarbeiten.
 
 2. Teig zu Stangen von ca. 2,5 cm Durchmesser formen und 20–30 Min. ins Tiefkühlfach legen.
 
@@ -32,5 +32,5 @@ _Für 100 Stück_
 
 4. Stangen in 5 mm dicke Scheiben schneiden, auf mit Backpapier belegte Backbleche legen und nacheinander je Blech 15–20 Min. backen.
 
-> **Tipp**
+> [!TIP] Tipp
 > Statt Mandeln kann man auch geröstete, ungesalzene Cashewkerne verwenden, dann ca. 50 g mehr Mehl nehmen.

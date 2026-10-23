@@ -31,5 +31,5 @@ _Für 2 Portionen_
 
 4. Sofort servieren und genießen.
 
-> **Nährwerte**
-> 311 kcal
+> [!IMPORTANT] Nährwerte
+> - 311 kcal

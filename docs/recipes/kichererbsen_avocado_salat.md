@@ -31,5 +31,8 @@ _Für 4 Portionen_
 
 4. Abgetropfte Kichererbsen und Grapefruitfilets unterheben. Mit Salz und Pfeffer abschmecken.
 
-> **Nährwerte pro Portion**
-> 254 kcal · 5 g Eiweiß · 19 g Fett · 16 g KH
+> [!IMPORTANT] Nährwerte pro Portion
+> - 254 kcal
+> - 5 g Eiweiß
+> - 19 g Fett
+> - 16 g KH

@@ -35,10 +35,10 @@ tags:
 
 6. Die Form nach Ende der Backzeit aus dem Ofen nehmen und abkühlen lassen, da der Kuchen direkt nach dem Backen noch relativ weich bzw. flüssig ist. Nach Belieben mit einem Guss verzieren.
 
-> **Tipp**
+> [!TIP] Tipp
 > Wer mag, kann anstatt der 100 g gehackter Schokolade auch schokolierte Kaffeebohnen oder gehackte Nüsse verwenden.
 >
 > Man sollte die Schokolade verwenden, die man mag. Je bitterer die Schokolade, umso höher sollte man den Zuckeranteil ansetzen, d. h. bei 85%iger Schokolade sollte man gut 130–150 g Zucker verwenden, damit es nicht zu bitter ist. Wer es bitter mag, kann es aber auch bei 100 g Zucker belassen.
 
-> **Anmerkung**
+> [!NOTE] Anmerkung
 > Arbeitszeit ca. 15 Min. · Backzeit ca. 30 Min. · Schwierigkeitsgrad: normal

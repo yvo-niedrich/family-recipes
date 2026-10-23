@@ -39,10 +39,13 @@ _Für 16 Stück_
 
 5. Kuchen herausnehmen, 10 Minuten in der Form auf einem Kuchengitter ruhen lassen, dann daraufstürzen. Gugelhupf auskühlen lassen, mit Puderzucker bestäuben und servieren.
 
-> **Tipp**
+> [!TIP] Tipp
 > Wenn die Marzipanrohmasse gut durchgekühlt ist, lässt sie sich besser reiben. Dazu schmeckt geschlagene Sahne.
 >
 > Tipp der Köchin: „Für meine Rezepte können Sie jede Art von Rhabarber verwenden. Ich bevorzuge den rosa Himbeerrhabarber.“
 
-> **Nährwerte pro Stück**
-> 356 kcal · 37 g KH · 5 g Eiweiß · 19 g Fett
+> [!IMPORTANT] Nährwerte pro Stück
+> - 356 kcal
+> - 37 g KH
+> - 5 g Eiweiß
+> - 19 g Fett

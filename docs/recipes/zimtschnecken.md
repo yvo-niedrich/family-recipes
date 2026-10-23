@@ -35,9 +35,9 @@ _Für 5 Portionen_
 
 ## Zubereitung
 
-1. Butter, Milch, Hefe, Zucker, Salz und Kardamom in den TM geben und 1 Min./40 °C/Stufe 2 verrühren.
+1. Butter, Milch, Hefe, Zucker, Salz und Kardamom in den TM geben und <Badge type="tip">1 Min./40 °C/Stufe 2</Badge> verrühren.
 
-2. Mehl zufügen und 3 Min./Teigstufe kneten. 30 Min. abgedeckt ruhen lassen.
+2. Mehl zufügen und <Badge type="tip">3 Min./Teigstufe</Badge> kneten. 30 Min. abgedeckt ruhen lassen.
 
 3. Den Teig zu einem Rechteck ausrollen und mit dem flüssigen Fett der Füllung bestreichen. Zucker, Kardamom und Zimt mischen, auf der Fläche verstreuen und den Teig von der langen Seite her aufrollen.
 
@@ -47,10 +47,10 @@ _Für 5 Portionen_
 
 6. Im vorgeheizten Backofen bei 250 °C etwa in der 2. Schiene von oben 8–10 Minuten backen.
 
-> **Tipp**
+> [!TIP] Tipp
 > 2 fingerbreite Stücke **mit Auflaufform mind. 10 Min. backen – auf jeden Fall länger als 8 Min.** (2 fingerbreite Stücke ohne Auflaufform 8 Min. backen.)
 
-> **Anmerkung**
+> [!NOTE] Anmerkung
 > Sehr gut :)
 >
 > Die süßen Hefeschnecken schmecken ofenwarm am allerbesten und sollten möglichst frisch gegessen werden. Bleibt etwas übrig, kann man sie in gut verschließbaren Dosen bei Zimmertemperatur aufbewahren. Am besten noch am Backtag einfrieren und bei Bedarf auftauen: Die gefrorenen Zimtschnecken bei 100–150 °C ca. 5 Minuten im Ofen aufbacken und direkt servieren.

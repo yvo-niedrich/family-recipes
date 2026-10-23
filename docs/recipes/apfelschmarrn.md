@@ -27,13 +27,13 @@ _Für 4 Portionen_
 
 ## Zubereitung
 
-1. Eier trennen. Eiweiß mit Backpulver und Salz in den Mixtopf geben, auf **Stufe 3,5** steif schlagen und umfüllen.
+1. Eier trennen. Eiweiß mit Backpulver und Salz in den Mixtopf geben, auf <Badge type="tip">Stufe 3,5</Badge> steif schlagen und umfüllen.
 
-2. Eigelb, Zucker, Vanillezucker und Zitronenschale in den Mixtopf geben und **15 Sek./Stufe 4** verrühren.
+2. Eigelb, Zucker, Vanillezucker und Zitronenschale in den Mixtopf geben und <Badge type="tip">15 Sek./Stufe 4</Badge> verrühren.
 
-3. Mehl, Sahne und Milch zugeben und **15 Sek./Stufe 4** verrühren.
+3. Mehl, Sahne und Milch zugeben und <Badge type="tip">15 Sek./Stufe 4</Badge> verrühren.
 
-4. Eiweiß zugeben und **5 Sek./Stufe 4** unterheben.
+4. Eiweiß zugeben und <Badge type="tip">5 Sek./Stufe 4</Badge> unterheben.
 
 5. Etwas Butter in einer backofengeeigneten Pfanne (Ø 24–26 cm, Pizzapfanne) aufschäumen und die Hälfte der Apfelspalten hineinlegen. Etwas dünsten lassen, den halben Schmarrnteig fingerhoch darübergießen, kurz stocken lassen und dann in den auf **200 °C** vorgeheizten Backofen stellen.
 
@@ -43,5 +43,5 @@ _Für 4 Portionen_
 
 8. Beide Schmarrn mit Puderzucker bestäuben und auf Teller verteilen.
 
-> **Variante: nur in der Pizzapfanne**
+> [!TIP] Variante: nur in der Pizzapfanne
 > Bei mittlerer Temperatur die Äpfel in Butter dünsten, den Teig wie oben über die Äpfel geben. Nach einiger Zeit zerreißen und wenden. Wenn alles schön gebräunt ist, den Schmarrn zusammenschieben (oder warm stellen), Butter in die Pfanne geben, Zucker dazugeben und karamellisieren lassen. Den Schmarrn zurückgeben und mischen.

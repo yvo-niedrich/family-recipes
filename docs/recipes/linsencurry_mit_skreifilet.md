@@ -67,11 +67,14 @@ tags: fisch, eiweißreich
 
 9. Frisch geschnittenen Koriander unter das Linsencurry geben und anrichten. Fischfilets obenauf setzen, mit dem Kräuteröl beträufeln und servieren.
 
-> **Variante**
+> [!TIP] Variante
 > Statt Skreifilet geht auch Lachs oder Hähnchenbrustfilet.
 
-> **Nährwerte**
-> 577 kcal / 2416 kJ · 44 g Kohlenhydrate · 50 g Eiweiß · 20 g Fett
+> [!IMPORTANT] Nährwerte
+> - 577 kcal / 2416 kJ
+> - 44 g Kohlenhydrate
+> - 50 g Eiweiß
+> - 20 g Fett
 
-> **Quelle**
+> [!INFO] Quelle
 > [SWR Buffet](http://www.swr.de/buffet/rezepte/linsencurry-mit-gebratenem-skreifilet/-/id=257024/did=16676910/nid=257024/16d08ya/index.html)

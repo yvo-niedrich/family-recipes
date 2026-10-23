@@ -21,12 +21,12 @@ tags: vegan, vegetarisch, thermomix
 
 ## Zubereitung
 
-1. Knoblauch, Kichererbsen, Sesam, Zitronensaft, Wasser, 70 g Olivenöl und Salz in den Mixtopf geben und **1 Min./Stufe 5-7-9** stufenweise pürieren.
+1. Knoblauch, Kichererbsen, Sesam, Zitronensaft, Wasser, 70 g Olivenöl und Salz in den Mixtopf geben und <Badge type="tip">1 Min./Stufe 5-7-9</Badge> stufenweise pürieren.
 
 2. Hummus in eine Schüssel umfüllen, das restliche Öl darüberträufeln und mit dem Paprikapulver bestreut servieren.
 
-> **Alternative: Kichererbsen selbst aufkochen**
+> [!TIP] Alternative: Kichererbsen selbst aufkochen
 > - 180 g getrocknete Kichererbsen über Nacht in Wasser einweichen.
 > - Einweichwasser wegschütten!
-> - 1500 g Wasser im Mixtopf (ohne Kichererbsen) aufkochen: **13 Min./100 °C/Stufe 1**
-> - 1 TL Salz hinzugeben, Gareinsatz mit Kichererbsen einhängen: **60 Min./100 °C/Stufe 1**
+> - 1500 g Wasser im Mixtopf (ohne Kichererbsen) aufkochen: <Badge type="tip">13 Min./100 °C/Stufe 1</Badge>
+> - 1 TL Salz hinzugeben, Gareinsatz mit Kichererbsen einhängen: <Badge type="tip">60 Min./100 °C/Stufe 1</Badge>

@@ -28,7 +28,7 @@ tags: low carb, eiweißreich
 
 4. Etwas abkühlen lassen und dann genießen. Ist auch super für zwischendurch auf der Arbeit.
 
-> **Anmerkung**
+> [!NOTE] Anmerkung
 > Die Konsistenz ist etwas weniger fest als bei normalen Pfannkuchen, darum kann es beim Wenden zu Problemen kommen – was dem Geschmack aber keinen Abbruch tut, wenn sie etwas zerfallen. Am besten wäre natürlich ein Waffeleisen.
 >
 > Sie können etwas fettig sein (nicht so trocken wie richtige Pfannkuchen), am besten nach dem Braten auf ein Stück Küchenrolle legen.

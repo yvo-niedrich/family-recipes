@@ -43,4 +43,8 @@ tags:
 
 **Tipp**: Wer keine Tajine hat, kann alternativ einen Bräter mit Deckel verwenden.
 
-> Energie: 468 kcal, Kohlenhydrate: 67 g, Eiweiß: 13 g, Fett: 15 g
+> [!IMPORTANT] Nährwerte
+> - Energie: 468 kcal
+> - Kohlenhydrate: 67 g
+> - Eiweiß: 13 g
+> - Fett: 15 g

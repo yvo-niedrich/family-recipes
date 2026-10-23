@@ -29,10 +29,10 @@ _Für 10 Portionen_
 
 5. Vor der Verwendung die Zitronen am besten mit einer Gabel aus dem Glas nehmen und unter fließendem kaltem Wasser abwaschen. Zitronen aufklappen und das Fruchtfleisch zum Verzehr herauslösen.
 
-> **Variante: mit Öl**
+> [!TIP] Variante: mit Öl
 > Wie oben bis einschließlich Schritt 2 vorgehen und mit einem Kieselstein beschweren. **KEIN Wasser zugießen.**
 >
 > Das Glas 4 Wochen möglichst dunkel und kühl ruhen lassen. Nach 4–5 Wochen die Zitronen mit Olivenöl bedecken und noch einmal 4 Wochen ruhen lassen. Dann sind sie endlich fertig.
 
-> **Tipp**
+> [!TIP] Tipp
 > Eingelegte Salzzitronen brauchen 3–4 Wochen Ruhezeit, bevor man sie genießen kann. Sie sind eine marokkanische Delikatesse und werden in Speisen als Würzmittel verwendet. Sie verfeinern Gerichte mit Hähnchen, Fleisch und Fisch, aber auch Risotto und Couscous. Die Flüssigkeit kann in Dips und Salatsaucen verwendet werden.

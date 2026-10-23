@@ -16,9 +16,9 @@ tags: thermomix
 
 ## Zubereitung
 
-1. Knoblauchzehen in den Mixtopf geben und 4 Sek./Stufe 8 zerkleinern. Mit dem Spatel nach unten schieben und nochmals 2 Sek./Stufe 8 zerkleinern.
+1. Knoblauchzehen in den Mixtopf geben und <Badge type="tip">4 Sek./Stufe 8</Badge> zerkleinern. Mit dem Spatel nach unten schieben und nochmals <Badge type="tip">2 Sek./Stufe 8</Badge> zerkleinern.
 
-2. Öl und Salz zugeben und 5 Sek./Stufe 4 verrühren. Dann je nach gewünschter Konsistenz nochmals zerkleinern.
+2. Öl und Salz zugeben und <Badge type="tip">5 Sek./Stufe 4</Badge> verrühren. Dann je nach gewünschter Konsistenz nochmals zerkleinern.
 
-> **Tipp**
+> [!TIP] Tipp
 > 1/2 TL ersetzt ungefähr 1 Knoblauchzehe. Im Kühlschrank ca. ein Jahr haltbar.

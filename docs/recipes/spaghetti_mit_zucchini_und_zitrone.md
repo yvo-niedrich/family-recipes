@@ -31,5 +31,8 @@ _Für 4 Portionen_
 
 4. Sofort servieren.
 
-> **Nährwerte pro Portion**
-> 648 kcal · 29,8 g Eiweiß · 16,9 g Fett · 92 g Kohlenhydrate
+> [!IMPORTANT] Nährwerte pro Portion
+> - 648 kcal
+> - 29,8 g Eiweiß
+> - 16,9 g Fett
+> - 92 g Kohlenhydrate

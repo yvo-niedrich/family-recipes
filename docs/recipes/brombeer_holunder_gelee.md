@@ -22,7 +22,7 @@ tags: marmelade, konfitüre
 
 2. 3 Min. kochen und anschließend in Gläser füllen.
 
-> **Anmerkung**
+> [!NOTE] Anmerkung
 > August 2021, Rezept nach Schnittgut BR … und Barock.
 >
 > Zum Saft: 1270 g Brombeeren und 1000 g Holunderbeeren mit 1/2 Limette, 1/2 Zitrone, 1 Ceylon-Zimtstange und mehreren Muskatblüten ergaben ca. 1,2 l Saft – _vielleicht mit Apfelsaft verlängern? Dann geht die 2. Fuhre auch sofort … oder den Rest einfrieren._

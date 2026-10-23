@@ -43,7 +43,8 @@ _Für 4–6 Portionen_
 
 7. Die Kürbis-Kichererbsen-Mischung darauf geben und mit den knusprigen Kürbiskernen und der Kürbisschale bestreuen. Mit Korianderblättern und Joghurt servieren.
 
-> **Kürbis ist besonders aromatisch, wenn man ihn im Ofen backt.**
+> [!TIP] Tipp
+> Kürbis ist besonders aromatisch, wenn man ihn im Ofen backt.
 
-> **Quelle**
+> [!INFO] Quelle
 > Jamie Oliver, 2013

@@ -29,8 +29,8 @@ tags:
 
 6. Den noch heißen Saft in heiß ausgespülte Flaschen abfüllen und sofort verschließen. Nach dem Abkühlen dunkel und kühl aufbewahren (Keller)!
 
-> **Variante**
+> [!TIP] Variante
 > Die gewaschenen Holunderbeeren in einen Entsafter geben und den aufgefangenen Saft ebenfalls 10 Min. kochen, dann wie oben angegeben verfahren.
 
-> **Anmerkung**
+> [!NOTE] Anmerkung
 > Hilft gegen Erkältung. Oder als Basis für Süßspeisen, Liköre, Gelee, Weinansätze usw. zur Weiterverarbeitung nutzen.

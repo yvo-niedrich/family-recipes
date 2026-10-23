@@ -50,5 +50,8 @@ _Für 3 Portionen_
 
 9. Mit Petersilie bestreuen und mit Wildreis servieren.
 
-> **Nährwerte pro Portion**
-> 940 kcal · 34 g Eiweiß · 35 g Fett · 107 g KH
+> [!IMPORTANT] Nährwerte pro Portion
+> - 940 kcal
+> - 34 g Eiweiß
+> - 35 g Fett
+> - 107 g KH

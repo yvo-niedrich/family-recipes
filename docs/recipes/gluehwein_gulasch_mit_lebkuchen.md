@@ -39,5 +39,5 @@ tags:
 
 5. Zuletzt die Lebkuchen in das Gulasch bröseln und verrühren.
 
-> **Tipp**
+> [!TIP] Tipp
 > Falls das Gulasch zu flüssig ist, kann die Hitze zuletzt nochmal erhöht und das Gulasch bei offenem Deckel weiter eingekocht werden.

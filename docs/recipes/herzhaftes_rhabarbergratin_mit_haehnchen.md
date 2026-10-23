@@ -41,5 +41,5 @@ _Für 4 Portionen_
 
 5. Paniermehl und Butter vermischen, darauf verteilen und bei 180 °C Ober-/Unterhitze etwa 45 Minuten backen. Bräunt das Gratin zu schnell, muss es abgedeckt werden.
 
-> **Tipp**
+> [!TIP] Tipp
 > Der Feta besänftigt die Oxalsäure aus dem Rhabarber. Chilischote, Ingwer und Estragon geben die besondere Geschmacksnote. Sie lassen sich auch durch getrocknete Gewürze ersetzen. Auch ohne sie schmeckt das Gratin.

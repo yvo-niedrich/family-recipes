@@ -44,5 +44,8 @@ _Für 4 Portionen_
 
 5. Vor dem Servieren die gehackte Minze und Petersilie zugeben und gut unterrühren.
 
-> **Nährwerte pro Portion**
-> 392 kcal / 1642 kJ · 14 g Eiweiß · 26 g Fett · 25 g KH
+> [!IMPORTANT] Nährwerte pro Portion
+> - 392 kcal / 1642 kJ
+> - 14 g Eiweiß
+> - 26 g Fett
+> - 25 g KH

@@ -36,8 +36,13 @@ tags:
 
 6. Im vorgeheizten Backofen bei 200 °C (Gas 2–3, Umluft nicht empfehlenswert) auf der 2. Schiene von unten in 40–45 Minuten goldbraun backen.
 
-> **Tipp**
+> [!TIP] Tipp
 > Zur Kürbis-Parmigiana passt ein herber bunter Blattsalat aus Eichblatt, Frisée und Radicchio mit einer fruchtigen Apfel-Vinaigrette.
 
-> **Nährwerte pro Portion**
-> 536 kcal · 22 g Eiweiß · 40 g Fett · 20 g KH · Einfach · Vegetarisch
+> [!IMPORTANT] Nährwerte pro Portion
+> - 536 kcal
+> - 22 g Eiweiß
+> - 40 g Fett
+> - 20 g KH
+> - Einfach
+> - Vegetarisch

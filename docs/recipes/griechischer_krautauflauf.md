@@ -39,8 +39,8 @@ _Für 4 Portionen_
 
 6. Bei 180 °C Ober- und Unterhitze etwa 30 Minuten überbacken.
 
-> **Tipp**
+> [!TIP] Tipp
 > Dazu passt Fladenbrot oder Baguette.
 
-> **Quelle**
+> [!INFO] Quelle
 > [wochenblatt.com](https://www.wochenblatt.com/rezepte/griechischer-krautauflauf-10274567.html)

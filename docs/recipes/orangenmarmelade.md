@@ -28,5 +28,5 @@ _Für 5 Gläser_
 
 5. Marmelade sofort in heiß ausgespülte Gläser füllen.
 
-> **Tipp**
+> [!TIP] Tipp
 > Verfeinern Sie die Marmelade, indem Sie 3–4 EL Rum oder 125 ml Portwein kurz vor Ende der Kochzeit unterrühren.

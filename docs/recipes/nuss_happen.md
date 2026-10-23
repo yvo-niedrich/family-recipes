@@ -44,5 +44,5 @@ _Für 60 Stück_
 
 4. Puderzucker und Orangensaft zu einem Guss verrühren und auf den heißen Kuchen streichen. Sofort danach den Kuchen in Rechtecke schneiden.
 
-> **Quelle**
+> [!INFO] Quelle
 > Wochenblatt für Landwirtschaft

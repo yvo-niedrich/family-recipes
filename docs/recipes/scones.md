@@ -8,28 +8,43 @@ tags:
 
 # Scones
 
-## Ingredients
+## Zutaten
 
-- 350g self-raising flour, plus more for dusting
-- 1 tsp baking powder
-- 85g butter, cut into cubes
-- 3 tbsp caster sugar
-- 175ml milk
-- 1 tsp vanilla extract
-- squeeze lemon juice (see tips below)
-- beaten egg, to glaze
-- jam and clotted cream, to serve
+_Für 8 Stück_
 
-## Instructions
+- 350 g Weizenmehl (Type 405), plus etwas Mehl für die Arbeitsfläche
+- 1 Päckchen Backpulver (15 g) plus 1 TL Backpulver
+- 1/4 TL Salz
+- 85 g kalte Butter, in Würfeln
+- 3 EL feiner Zucker (Backzucker)
+- 175 ml Milch
+- 1 TL Vanilleextrakt
+- 1 Spritzer Zitronensaft
+- 1 Ei, verquirlt, zum Bestreichen
+- Konfitüre und Clotted Cream zum Servieren
 
-1. Heat the oven to 220C/200C fan/gas 7. Tip the self-raising flour into a large bowl with ¼ tsp salt and the baking powder, then mix.
+## Zubereitung
 
-2. Add the butter, then rub in with your fingers until the mix looks like fine crumbs. Stir in the caster sugar.
+1. Den Backofen auf 220 °C Ober-/Unterhitze bzw. 200 °C Umluft vorheizen. Mehl, Salz und Backpulver in eine große Schüssel geben und vermischen.
 
-3. Put the milk into a jug and heat in the microwave for about 30 secs until warm, but not hot. Add the vanilla extract and a squeeze of lemon juice, then set aside for a moment.
+2. Die Butter dazugeben und mit den Fingern einreiben, bis die Mischung wie feine Brösel aussieht. Den Zucker unterrühren.
 
-4. Put a baking tray in the oven. Make a well in the dry mix, then add the liquid and combine it quickly with a cutlery knife – it will seem pretty wet at first.
+3. Die Milch in einen Messbecher geben und in der Mikrowelle ca. 30 Sekunden erwärmen – warm, aber nicht heiß. Vanilleextrakt und Zitronensaft dazugeben und kurz beiseitestellen.
 
-5. Scatter some flour onto the work surface and tip the dough out. Dredge the dough and your hands with a little more flour, then fold the dough over 2-3 times until it’s a little smoother. Pat into a round about 4cm deep. Take a 5cm cutter (smooth-edged cutters tend to cut more cleanly, giving a better rise) and dip it into some flour. Plunge into the dough, then repeat until you have four scones. You may need to press what’s left of the dough back into a round to cut out another four.
+4. Ein Backblech in den Ofen schieben. In die Mehlmischung eine Mulde drücken, die Milch hineingießen und alles mit einem Tafelmesser zügig vermengen – der Teig ist anfangs recht feucht.
 
-6. Brush the tops with a beaten egg, then carefully arrange on the hot baking tray. Bake for 10 mins until risen and golden on the top. Eat just warm or cold on the day of baking, generously topped with jam and clotted cream. If freezing, freeze once cool. Defrost, then put in a low oven (about 160C/140C fan/gas 3) for a few minutes to refresh.
+5. Etwas Mehl auf die Arbeitsfläche streuen und den Teig daraufgeben. Teig und Hände leicht bemehlen und den Teig 2–3 Mal übereinanderfalten, bis er etwas glatter ist. Zu einem ca. 4 cm hohen Fladen drücken. Einen Ausstecher (5 cm Ø) in Mehl tauchen – mit glattem Rand werden die Schnittkanten sauberer und die Scones gehen besser auf – und gerade nach unten (ohne Drehen) 4 Scones ausstechen. Den restlichen Teig wieder zusammendrücken und weitere 4 ausstechen.
+
+6. Die Oberseiten mit verquirltem Ei bestreichen und die Scones vorsichtig auf das heiße Backblech setzen. Ca. 10 Minuten backen, bis sie aufgegangen und oben goldbraun sind. Lauwarm oder abgekühlt noch am Backtag essen, großzügig mit Konfitüre und Clotted Cream.
+
+> [!TIP] Backpulver statt „Self-raising Flour“
+> Das englische Original verwendet Self-raising Flour – Mehl, dem bereits Backpulver beigemischt ist (ca. 4–5 %). Das gibt es in Deutschland kaum, daher hier normales Mehl plus 1 Päckchen Backpulver. Der zusätzliche Teelöffel entspricht dem Backpulver, das das Rezept ohnehin noch dazugibt.
+
+> [!TIP] Buttermilch statt Milch und Zitrone
+> Milch mit einem Spritzer Zitronensaft ersetzt im Original die Buttermilch. Einfacher: 175 ml Buttermilch leicht erwärmen und Zitronensaft weglassen.
+
+> [!TIP] Ersatz für Clotted Cream und Vanilleextrakt
+> Clotted Cream gibt es nur in gut sortierten Feinkostläden. Gute Alternativen: Crème double oder Mascarpone, glatt gerührt mit einem Schuss Schlagsahne. Statt Vanilleextrakt geht 1 Päckchen Vanillezucker – dann 1 EL Zucker weniger nehmen.
+
+> [!TIP] Einfrieren
+> Die abgekühlten Scones lassen sich gut einfrieren. Nach dem Auftauen einige Minuten bei 160 °C Ober-/Unterhitze bzw. 140 °C Umluft aufbacken.

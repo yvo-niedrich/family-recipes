@@ -31,6 +31,7 @@ const items = computed(() => {
 function usePlaceholder(img: HTMLImageElement, index: number) {
     const fallback = placeholderUrl(index)
     if (!img.src.endsWith(fallback)) img.src = fallback
+    img.classList.add('placeholder')
 }
 
 // Images that failed before hydration never reach the @error handler.
@@ -106,8 +107,27 @@ onMounted(() => {
     background: var(--vp-c-bg-alt);
 }
 
+/* No photo: grey, faded illustration under a dotted accent wash, so it never passes for a real photo */
+.card:has(img.placeholder) {
+    position: relative;
+}
+
 .card img.placeholder {
-    opacity: .75;
+    filter: grayscale(1) contrast(.85);
+    opacity: .45;
+}
+
+.card:has(img.placeholder)::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    aspect-ratio: 4 / 3;
+    pointer-events: none;
+    background:
+        radial-gradient(color-mix(in srgb, var(--vp-c-brand-1) 35%, transparent) 1.2px, transparent 1.5px) 0 0 / 10px 10px,
+        color-mix(in srgb, var(--vp-c-brand-1) 10%, transparent);
 }
 
 .name {

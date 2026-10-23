@@ -1,7 +1,7 @@
 ---
 name: Gebackene Süßkartoffeln
 categories: Hauptgericht
-preview:
+preview: /images/gebackene-suesskartoffeln.jpg
 tags:
 
 ---

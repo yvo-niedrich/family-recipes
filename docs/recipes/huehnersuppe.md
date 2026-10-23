@@ -1,5 +1,5 @@
 ---
-name: Hühnersuppe: Die hilft bei Erkältung
+name: "Hühnersuppe: Die hilft bei Erkältung"
 categories: Hauptgericht
 preview: /images/huehnersuppe.jpg
 tags: suppe, fleisch, erkältung

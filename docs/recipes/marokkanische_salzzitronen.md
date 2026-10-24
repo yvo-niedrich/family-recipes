@@ -2,7 +2,7 @@
 name: Marokkanische Salzzitronen
 categories: Soßen & Grundrezepte
 preview: /images/marokkanische_salzzitronen.jpg
-tags:
+tags: vegan, vegetarisch
 
 ---
 

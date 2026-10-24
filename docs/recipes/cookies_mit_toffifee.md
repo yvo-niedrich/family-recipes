@@ -2,7 +2,7 @@
 name: Cookies mit Toffifee
 categories: Kuchen & Gebäck
 preview: /images/cookies_mit_toffifee.jpg
-tags:
+tags: vegetarisch
 
 ---
 

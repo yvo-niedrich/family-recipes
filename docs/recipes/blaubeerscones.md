@@ -2,7 +2,7 @@
 name: Blaubeerscones
 categories: Frühstück
 preview:
-tags:
+tags: vegetarisch
 
 ---
 

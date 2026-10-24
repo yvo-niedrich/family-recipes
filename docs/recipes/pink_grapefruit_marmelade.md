@@ -2,7 +2,7 @@
 name: Pink-Grapefruit-Marmelade
 categories: Frühstück
 preview:
-tags: marmelade, konfitüre
+tags: marmelade, konfitüre, vegan, vegetarisch
 
 ---
 

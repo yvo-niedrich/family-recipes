@@ -2,7 +2,7 @@
 name: Butterrosen
 categories: Kuchen & Gebäck
 preview: /images/butterrosen.jpg
-tags: thermomix
+tags: thermomix, vegetarisch
 
 ---
 

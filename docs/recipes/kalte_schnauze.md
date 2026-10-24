@@ -2,7 +2,7 @@
 name: Lukullus, Kalte Schnauze
 categories: Kuchen & Gebäck
 preview:
-tags:
+tags: vegetarisch
 
 ---
 

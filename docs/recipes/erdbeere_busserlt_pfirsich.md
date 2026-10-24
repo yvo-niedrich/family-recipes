@@ -2,7 +2,7 @@
 name: Erdbeere busserlt Pfirsich
 categories: Frühstück
 preview: /images/erdbeere_busserlt_pfirsich.jpg
-tags: marmelade, konfitüre
+tags: marmelade, konfitüre, vegan, vegetarisch
 
 ---
 

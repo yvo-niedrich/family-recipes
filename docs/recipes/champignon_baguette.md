@@ -2,7 +2,7 @@
 name: Champignon-Baguette
 categories: Vorspeisen & Snacks
 preview:
-tags: thermomix
+tags: thermomix, vegetarisch
 
 ---
 

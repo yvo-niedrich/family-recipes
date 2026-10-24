@@ -2,7 +2,7 @@
 name: Low-Carb Waffeln
 categories: Desserts
 preview: /images/low_carb_waffeln.jpg
-tags: low carb, thermomix
+tags: low carb, thermomix, vegetarisch
 
 ---
 

@@ -2,7 +2,7 @@
 name: Schneller Streuselkuchen mit Pfirsichen und Himbeeren
 categories: Kuchen & Gebäck
 preview: /images/streuselkuchen_mit_pfirsichen_und_himbeeren.jpg
-tags:
+tags: vegetarisch
 
 ---
 

@@ -2,7 +2,7 @@
 name: Krautsalat
 categories: Salate
 preview: /images/Krautsalat.jpg
-tags: thermomix
+tags: thermomix, vegan, vegetarisch
 
 ---
 

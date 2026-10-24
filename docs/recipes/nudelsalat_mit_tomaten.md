@@ -2,7 +2,7 @@
 name: Nudelsalat mit frischen und getrockneten Tomaten
 categories: Salate
 preview: /images/nudelsalat_mit_tomaten.jpg
-tags:
+tags: vegetarisch
 
 ---
 

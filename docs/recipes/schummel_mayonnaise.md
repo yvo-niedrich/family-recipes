@@ -2,7 +2,7 @@
 name: Leichte Schummel-Mayonnaise / Salatcreme
 categories: Soßen & Grundrezepte
 preview:
-tags: thermomix
+tags: thermomix, vegetarisch
 
 ---
 

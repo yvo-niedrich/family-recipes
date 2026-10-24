@@ -2,7 +2,7 @@
 name: Cold Brew Tonic mit Heidelbeeren
 categories: Getränke
 preview: /images/cold_brew_tonic_mit_heidelbeeren.jpg
-tags:
+tags: vegan, vegetarisch
 
 ---
 

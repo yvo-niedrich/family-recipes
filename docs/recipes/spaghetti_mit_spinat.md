@@ -2,7 +2,7 @@
 name: Spaghetti mit Spinat
 categories: Hauptgerichte
 preview:
-tags:
+tags: vegetarisch
 
 ---
 

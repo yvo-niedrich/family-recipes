@@ -2,7 +2,7 @@
 name: Hefezopf von Goldfisch
 categories: Frühstück, Kuchen & Gebäck
 preview: /images/hefezopf.jpg
-tags: thermomix, brot
+tags: thermomix, brot, vegetarisch
 
 ---
 

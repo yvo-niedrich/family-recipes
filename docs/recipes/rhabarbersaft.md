@@ -2,7 +2,7 @@
 name: Rhabarbersaft
 categories: Getränke
 preview: /images/rhabarbersaft.jpg
-tags:
+tags: vegan, vegetarisch
 
 ---
 

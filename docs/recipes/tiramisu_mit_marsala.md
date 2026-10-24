@@ -2,7 +2,7 @@
 name: Tiramisu mit Marsala
 categories: Desserts
 preview: /images/tiramisu_mit_marsala.jpg
-tags:
+tags: vegetarisch
 
 ---
 

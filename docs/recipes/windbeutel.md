@@ -2,7 +2,7 @@
 name: Windbeutel
 categories: Kuchen & Gebäck
 preview: /images/windbeutel.jpg
-tags:
+tags: vegetarisch
 
 ---
 

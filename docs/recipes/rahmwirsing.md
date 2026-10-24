@@ -2,7 +2,7 @@
 name: Rahmwirsing
 categories: Beilagen
 preview:
-tags: thermomix
+tags: thermomix, vegetarisch
 
 ---
 

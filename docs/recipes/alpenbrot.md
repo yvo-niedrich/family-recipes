@@ -2,7 +2,7 @@
 name: Alpenbrot
 categories: Frühstück
 preview: /images/alpenbrot.jpg
-tags: thermomix, brot
+tags: thermomix, brot, vegetarisch
 
 ---
 

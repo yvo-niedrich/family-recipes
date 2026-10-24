@@ -2,7 +2,7 @@
 name: Birnenmarmelade mit Nelke
 categories: Frühstück
 preview:
-tags: marmelade, thermomix
+tags: marmelade, thermomix, vegan, vegetarisch
 
 ---
 

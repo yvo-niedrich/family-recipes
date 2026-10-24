@@ -2,7 +2,7 @@
 name: Nuss-Happen (Wochenblatt)
 categories: Kuchen & Gebäck
 preview: /images/nuss_happen.jpg
-tags: weihnachten, thermomix
+tags: weihnachten, thermomix, vegetarisch
 
 ---
 

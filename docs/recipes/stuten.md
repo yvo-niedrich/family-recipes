@@ -2,7 +2,7 @@
 name: Stuten
 categories: Frühstück
 preview: /images/stuten.jpg
-tags: thermomix, brot
+tags: thermomix, brot, vegetarisch
 
 ---
 

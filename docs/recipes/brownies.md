@@ -2,7 +2,7 @@
 name: Brownie
 categories: Kuchen & Gebäck
 preview:
-tags:
+tags: vegetarisch
 
 ---
 

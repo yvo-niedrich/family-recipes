@@ -2,7 +2,7 @@
 name: Cookies
 categories: Kuchen & Gebäck
 preview: /images/cookies.jpg
-tags: thermomix
+tags: thermomix, vegetarisch
 
 ---
 

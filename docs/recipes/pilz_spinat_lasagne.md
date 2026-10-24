@@ -2,7 +2,7 @@
 name: Pilz-Spinat-Lasagne
 categories: Hauptgerichte
 preview: /images/pilzlasagne.jpg
-tags:
+tags: vegetarisch
 
 ---
 

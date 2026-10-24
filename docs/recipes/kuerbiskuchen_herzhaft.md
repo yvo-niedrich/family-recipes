@@ -2,7 +2,7 @@
 name: Kürbiskuchen, herzhaft
 categories: Hauptgerichte
 preview: /images/kuerbiskuchen_herzhaft.jpg
-tags: thermomix
+tags: thermomix, vegetarisch
 
 ---
 

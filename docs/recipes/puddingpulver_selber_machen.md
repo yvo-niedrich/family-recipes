@@ -2,7 +2,7 @@
 name: Puddingpulver selber machen
 categories: Soßen & Grundrezepte, Desserts
 preview: /images/puddingpulver_selber_machen.jpg
-tags:
+tags: vegan, vegetarisch
 
 ---
 

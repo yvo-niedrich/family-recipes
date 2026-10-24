@@ -2,7 +2,7 @@
 name: Zwiebelgrundstock
 categories: Soßen & Grundrezepte
 preview:
-tags: thermomix
+tags: thermomix, vegan, vegetarisch
 
 ---
 

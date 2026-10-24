@@ -2,7 +2,7 @@
 name: Sizilianischer Kürbis-Kichererbsen-Topf nach Jamie Oliver
 categories: Suppen & Eintöpfe
 preview:
-tags:
+tags: vegetarisch
 
 ---
 

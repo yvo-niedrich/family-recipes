@@ -2,7 +2,7 @@
 name: Protein-Pfannkuchen
 categories: Frühstück
 preview:
-tags: low carb, eiweißreich
+tags: low carb, eiweißreich, vegetarisch
 
 ---
 

@@ -2,7 +2,7 @@
 name: Gurkensalat im Glas
 categories: Salate
 preview: /images/gurkensalat_im_glas.jpg
-tags:
+tags: vegan, vegetarisch
 
 ---
 

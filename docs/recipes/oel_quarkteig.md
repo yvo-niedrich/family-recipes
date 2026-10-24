@@ -2,7 +2,7 @@
 name: Öl-Quarkteig für u. a. Pflaumenkuchen
 categories: Soßen & Grundrezepte, Kuchen & Gebäck
 preview:
-tags:
+tags: vegetarisch
 
 ---
 

@@ -2,7 +2,7 @@
 name: Rotkohlsalat von Marlies
 categories: Salate
 preview:
-tags: gemüse
+tags: gemüse, vegan, vegetarisch
 
 ---
 

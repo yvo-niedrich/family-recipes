@@ -2,7 +2,7 @@
 name: Kribbelige Erdbeere
 categories: Frühstück
 preview:
-tags: marmelade
+tags: marmelade, vegan, vegetarisch
 
 ---
 

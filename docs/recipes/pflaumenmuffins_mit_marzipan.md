@@ -2,7 +2,7 @@
 name: Pflaumenmuffins mit Marzipan
 categories: Kuchen & Gebäck
 preview: /images/pflaumenmuffins_mit_marzipan.jpg
-tags: thermomix
+tags: thermomix, vegetarisch
 
 ---
 

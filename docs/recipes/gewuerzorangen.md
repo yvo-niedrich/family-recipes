@@ -2,7 +2,7 @@
 name: Gewürzorangen
 categories: Desserts
 preview: /images/gewuerzorangen.jpg
-tags:
+tags: vegan, vegetarisch
 
 ---
 

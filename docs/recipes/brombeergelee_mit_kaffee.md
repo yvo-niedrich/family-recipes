@@ -2,7 +2,7 @@
 name: Brombeergelee mit Kaffee und gebrannten Mandelstiften
 categories: Frühstück
 preview: /images/brombeergelee_mit_kaffee.jpg
-tags: marmelade, konfitüre
+tags: marmelade, konfitüre, vegan, vegetarisch
 
 ---
 

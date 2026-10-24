@@ -2,7 +2,7 @@
 name: Ciabatta mit Lievito madre
 categories: Frühstück
 preview: /images/ciabatta_mit_lievito_madre.jpg
-tags: brot
+tags: brot, vegan, vegetarisch
 
 ---
 

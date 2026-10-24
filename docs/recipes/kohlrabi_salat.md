@@ -2,7 +2,7 @@
 name: Kohlrabi-Salat
 categories: Salate
 preview:
-tags: thermomix
+tags: thermomix, vegetarisch
 
 ---
 

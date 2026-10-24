@@ -2,7 +2,7 @@
 name: Knäckebrot nach Landlust 1/2020
 categories: Frühstück
 preview: /images/knaeckebrot.jpg
-tags: brot
+tags: brot, vegetarisch
 
 ---
 

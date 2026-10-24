@@ -2,7 +2,7 @@
 name: Ketchup
 categories: Soßen & Grundrezepte
 preview:
-tags:
+tags: vegan, vegetarisch
 
 ---
 

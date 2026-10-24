@@ -2,7 +2,7 @@
 name: Rhabarber-Streuselkuchen (Myrella)
 categories: Kuchen & Gebäck
 preview:
-tags:
+tags: vegetarisch
 
 ---
 

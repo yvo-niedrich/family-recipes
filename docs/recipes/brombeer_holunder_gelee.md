@@ -2,7 +2,7 @@
 name: Brombeer-Holunder-Gelee
 categories: Frühstück
 preview: /images/brombeer_holunder_gelee.jpg
-tags: marmelade, konfitüre
+tags: marmelade, konfitüre, vegan, vegetarisch
 
 ---
 

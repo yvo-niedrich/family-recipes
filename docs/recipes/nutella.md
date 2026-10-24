@@ -2,7 +2,7 @@
 name: Nutella
 categories: Frühstück
 preview: /images/nutella.jpg
-tags: low carb
+tags: low carb, vegetarisch
 
 ---
 

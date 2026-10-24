@@ -2,7 +2,7 @@
 name: Tiramisu
 categories: Desserts
 preview: /images/tiramisu.jpg
-tags:
+tags: vegetarisch
 
 ---
 

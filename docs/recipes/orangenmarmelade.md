@@ -2,7 +2,7 @@
 name: Orangenmarmelade
 categories: Frühstück
 preview: /images/orangenmarmelade.jpg
-tags: marmelade
+tags: marmelade, vegan, vegetarisch
 
 ---
 

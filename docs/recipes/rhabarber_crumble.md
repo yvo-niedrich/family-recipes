@@ -2,7 +2,7 @@
 name: Rhabarber-Crumble mit köstlichen Streuseln
 categories: Desserts
 preview:
-tags:
+tags: vegetarisch
 
 ---
 

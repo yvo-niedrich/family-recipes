@@ -2,7 +2,7 @@
 name: Zimtschnecken
 categories: Kuchen & Gebäck
 preview: /images/zimtschnecken.jpg
-tags: thermomix
+tags: thermomix, vegetarisch
 
 ---
 

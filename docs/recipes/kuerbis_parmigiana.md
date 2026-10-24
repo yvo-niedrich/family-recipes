@@ -2,7 +2,7 @@
 name: Kürbis-Parmigiana
 categories: Hauptgerichte
 preview: /images/kuerbis_parmigiana.jpg
-tags:
+tags: vegetarisch
 
 ---
 

@@ -2,7 +2,7 @@
 name: Semmelknödel
 categories: Beilagen
 preview:
-tags:
+tags: vegetarisch
 
 ---
 

@@ -2,7 +2,7 @@
 name: Aprikosen-Kordeln
 categories: Kuchen & Gebäck
 preview: /images/aprikosen_kordeln.jpg
-tags:
+tags: vegetarisch
 
 ---
 

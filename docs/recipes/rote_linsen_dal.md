@@ -2,7 +2,7 @@
 name: Linsen Dal
 categories: Hauptgerichte
 preview: /images/rotelinsendal.jpg
-tags: thermomix
+tags: thermomix, vegan, vegetarisch
 
 ---
 

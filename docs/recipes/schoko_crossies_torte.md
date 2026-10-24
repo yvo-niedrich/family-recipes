@@ -2,7 +2,7 @@
 name: Schoko-Crossies Torte
 categories: Kuchen & Gebäck
 preview: /images/schoko_crossies_torte.jpg
-tags:
+tags: vegetarisch
 
 ---
 

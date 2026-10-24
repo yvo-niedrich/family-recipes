@@ -2,7 +2,7 @@
 name: Mango-Chili-Chutney
 categories: Soßen & Grundrezepte
 preview: /images/mango-chili-chutney.jpg
-tags:
+tags: vegan, vegetarisch
 
 ---
 

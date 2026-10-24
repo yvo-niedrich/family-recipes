@@ -2,7 +2,7 @@
 name: Tiroler Kirschkuchen
 categories: Kuchen & Gebäck
 preview:
-tags:
+tags: vegetarisch
 
 ---
 

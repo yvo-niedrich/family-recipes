@@ -2,7 +2,7 @@
 name: Butterkekse mit Manchego
 categories: Vorspeisen & Snacks
 preview: /images/manchego_kekse.jpg
-tags:
+tags: vegetarisch
 
 ---
 

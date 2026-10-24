@@ -2,7 +2,7 @@
 name: Prinzenrollen-Dessert
 categories: Desserts
 preview:
-tags:
+tags: vegetarisch
 
 ---
 

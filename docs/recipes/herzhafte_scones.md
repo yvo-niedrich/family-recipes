@@ -2,7 +2,7 @@
 name: Herzhafte Scones
 categories: Frühstück
 preview: /images/herzhafte_scones.jpg
-tags:
+tags: vegetarisch
 
 ---
 

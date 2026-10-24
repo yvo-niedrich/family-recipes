@@ -2,7 +2,7 @@
 name: Gemüserohkost
 categories: Salate
 preview:
-tags:
+tags: vegan, vegetarisch
 
 ---
 

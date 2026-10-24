@@ -2,7 +2,7 @@
 name: Kichererbsen-Avocado-Salat
 categories: Salate
 preview: /images/kichererbsen_avocado_salat.jpg
-tags:
+tags: vegetarisch
 
 ---
 

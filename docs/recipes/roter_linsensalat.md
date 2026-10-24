@@ -2,7 +2,7 @@
 name: Roter Linsensalat
 categories: Salate
 preview:
-tags: eiweißreich
+tags: eiweißreich, vegetarisch
 
 ---
 

@@ -2,7 +2,7 @@
 name: Apfelschmarrn
 categories: Desserts
 preview:
-tags: thermomix
+tags: thermomix, vegetarisch
 
 ---
 

@@ -2,7 +2,7 @@
 name: Gemüse-Tajine mit Kichererbsen
 categories: Hauptgerichte
 preview:
-tags:
+tags: vegetarisch
 
 ---
 

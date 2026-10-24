@@ -2,7 +2,7 @@
 name: Zucchini-Chips
 categories: Vorspeisen & Snacks
 preview: /images/zucchini_chips.jpg
-tags:
+tags: vegan, vegetarisch
 
 ---
 

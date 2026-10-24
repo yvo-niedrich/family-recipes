@@ -2,7 +2,7 @@
 name: Roter Reis mit Kichererbsen
 categories: Salate
 preview: /images/roter_reis_mit_kichererbsen.jpg
-tags:
+tags: vegetarisch
 
 ---
 

@@ -2,7 +2,7 @@
 name: Tarte au Chocolat
 categories: Desserts, Kuchen & Gebäck
 preview: /images/tarte_au_chocolat.jpg
-tags:
+tags: vegetarisch
 
 ---
 

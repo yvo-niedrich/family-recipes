@@ -2,7 +2,7 @@
 name: Apfelpastete
 categories: Kuchen & Gebäck
 preview:
-tags:
+tags: vegetarisch
 
 ---
 

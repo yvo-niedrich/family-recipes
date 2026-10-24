@@ -2,7 +2,7 @@
 name: Spätzle
 categories: Beilagen
 preview: /images/spaetzle.jpg
-tags:
+tags: vegetarisch
 
 ---
 

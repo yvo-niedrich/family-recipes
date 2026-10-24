@@ -2,7 +2,7 @@
 name: Holunderbeersaft
 categories: Getränke
 preview:
-tags:
+tags: vegan, vegetarisch
 
 ---
 

@@ -2,7 +2,7 @@
 name: Erdbeer-Himbeer-Konfitüre
 categories: Frühstück
 preview: /images/erdbeer_himbeer_konfituere.jpg
-tags: marmelade, konfitüre
+tags: marmelade, konfitüre, vegan, vegetarisch
 
 ---
 

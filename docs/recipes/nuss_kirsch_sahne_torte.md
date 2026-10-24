@@ -2,7 +2,7 @@
 name: Nuss-Kirsch-Sahne-Torte von Silke M.
 categories: Kuchen & Gebäck
 preview: /images/nuss_kirsch_sahne_torte.jpg
-tags: thermomix
+tags: thermomix, vegetarisch
 
 ---
 

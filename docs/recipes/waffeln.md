@@ -2,7 +2,7 @@
 name: Waffeln
 categories: Desserts
 preview:
-tags:
+tags: vegetarisch
 
 ---
 

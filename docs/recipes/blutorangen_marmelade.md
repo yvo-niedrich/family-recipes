@@ -2,7 +2,7 @@
 name: Blutorangen-Marmelade Tarocco
 categories: Frühstück
 preview: /images/blutorangen_marmelade.jpg
-tags: marmelade
+tags: marmelade, vegan, vegetarisch
 
 ---
 

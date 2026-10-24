@@ -2,7 +2,7 @@
 name: Amerikaner
 categories: Kuchen & Gebäck
 preview: /images/amerikaner.jpg
-tags: thermomix
+tags: thermomix, vegetarisch
 
 ---
 

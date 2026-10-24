@@ -2,7 +2,7 @@
 name: Apfel-Weihnachtsmarmelade nach Valerie Lane
 categories: Frühstück
 preview:
-tags: marmelade
+tags: marmelade, vegan, vegetarisch
 
 ---
 

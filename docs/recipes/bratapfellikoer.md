@@ -2,7 +2,7 @@
 name: Bratapfellikör
 categories: Getränke
 preview:
-tags: weihnachten, thermomix
+tags: weihnachten, thermomix, vegan, vegetarisch
 
 ---
 

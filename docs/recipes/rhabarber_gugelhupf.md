@@ -2,7 +2,7 @@
 name: Rhabarber-Gugelhupf
 categories: Kuchen & Gebäck
 preview: /images/rhabarber_gugelhupf.jpg
-tags: thermomix
+tags: thermomix, vegetarisch
 
 ---
 

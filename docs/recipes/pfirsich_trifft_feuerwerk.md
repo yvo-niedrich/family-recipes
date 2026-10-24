@@ -2,7 +2,7 @@
 name: Pfirsich trifft Feuerwerk
 categories: Frühstück
 preview: /images/pfirsich_trifft_feuerwerk.jpg
-tags: marmelade, konfitüre
+tags: marmelade, konfitüre, vegan, vegetarisch
 
 ---
 

@@ -2,7 +2,7 @@
 name: Altdeutscher Apfelauflauf
 categories: Hauptgerichte, Desserts
 preview:
-tags:
+tags: vegetarisch
 
 ---
 

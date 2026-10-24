@@ -2,7 +2,7 @@
 name: Mousse au chocolat
 categories: Desserts
 preview: 
-tags:
+tags: vegetarisch
 
 ---
 

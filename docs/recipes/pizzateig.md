@@ -2,7 +2,7 @@
 name: Pizzateig nach M+D
 categories: Soßen & Grundrezepte
 preview: /images/pizzateig.jpg
-tags: thermomix
+tags: thermomix, vegan, vegetarisch
 
 ---
 

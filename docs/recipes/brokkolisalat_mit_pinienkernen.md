@@ -2,7 +2,7 @@
 name: Brokkolisalat mit Pinienkernen
 categories: Salate
 preview:
-tags: thermomix
+tags: thermomix, vegetarisch
 
 ---
 

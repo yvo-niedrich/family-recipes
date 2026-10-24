@@ -2,7 +2,7 @@
 name: Nussecken
 categories: Kuchen & Gebäck
 preview:
-tags:
+tags: vegetarisch
 
 ---
 

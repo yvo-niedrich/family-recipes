@@ -2,7 +2,7 @@
 name: Zucchini-Linsen-Salat
 categories: Salate
 preview: /images/zucchini_linsen_salat.jpg
-tags:
+tags: vegetarisch
 
 ---
 

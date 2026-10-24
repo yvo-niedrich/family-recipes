@@ -2,7 +2,7 @@
 name: Spaghetti mit Zucchini und Zitrone
 categories: Hauptgerichte
 preview: /images/spaghetti_mit_zucchini_und_zitrone.jpg
-tags:
+tags: vegetarisch
 
 ---
 

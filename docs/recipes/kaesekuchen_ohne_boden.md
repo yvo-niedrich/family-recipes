@@ -2,7 +2,7 @@
 name: Käsekuchen ohne Boden
 categories: Kuchen & Gebäck
 preview:
-tags: thermomix
+tags: thermomix, vegetarisch
 
 ---
 

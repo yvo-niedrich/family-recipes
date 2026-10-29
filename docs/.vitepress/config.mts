@@ -1,6 +1,6 @@
 import { defineConfig, type DefaultTheme } from 'vitepress'
 import { withPwa } from '@vite-pwa/vitepress'
-import { processTerm, splitIntoPage } from './search'
+import { processTerm, splitIntoPage, patchSearchBox } from './search'
 import { allCategories, loadRecipes, slugify } from './recipes'
 
 const base = '/family-recipes/'
@@ -39,6 +39,7 @@ export default withPwa(defineConfig({
     // Keep the page hash map out of every HTML file (smaller offline cache)
     metaChunk: true,
     lastUpdated: true,
+    vite: { plugins: [patchSearchBox()] },
 
     head: [
         ['link', { rel: 'icon', href: `${base}favicon.svg`, type: 'image/svg+xml' }],

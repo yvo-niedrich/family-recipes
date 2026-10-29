@@ -88,3 +88,52 @@ export function processTerm(term: string): string | null {
     const stemmed = stem(normalized);
     return stemmed.length >= 3 ? stemmed : normalized;
 }
+
+/**
+ * Patches VitePress's search box (VPLocalSearchBox.vue) in two places:
+ *
+ * - Highlighting: VitePress marks the matched index terms as raw substrings.
+ *   Those are stemmed and normalized ("rot", "bet", "moehr"), so "Rote Bete"
+ *   got highlighted as "[Rot]e [Bet]e" and "Möhren" not at all. Instead, mark
+ *   every whole word whose processTerm() is one of the matched terms.
+ * - "Details anzeigen": splitIntoPage indexes pages without an anchor, so the
+ *   result ids have no "#". VitePress assumes one (chopping off the last
+ *   character of the path) and looks excerpts up by heading anchor only.
+ *   Use the whole page (minus the title) as the excerpt for anchor-less ids.
+ *
+ * Fails the build if VitePress changes a patched line, so an update can't
+ * silently undo it.
+ */
+export function patchSearchBox() {
+    const patches: [string, string][] = [
+        [
+            'mark.value?.markRegExp(formMarkRegex(terms), { done: r })',
+            `mark.value?.markRegExp(/[\\p{L}\\p{N}]+/gu, {
+            filter: (_node, word) => {
+              const options = theme.value.search?.provider === 'local' && theme.value.search.options?.miniSearch?.options
+              const term = options?.processTerm ? options.processTerm(word) : word.toLowerCase()
+              return term != null && terms.has(term)
+            },
+            done: r
+          })`,
+        ],
+        ["const file = pathToFile(id.slice(0, id.indexOf('#')))", "const file = pathToFile(id.split('#')[0])"],
+        ["const mapId = id.slice(0, id.indexOf('#'))", "const mapId = id.split('#')[0]"],
+        ['        app.unmount()', "        div.querySelector('h1')?.remove()\n        map!.set('', div.innerHTML)\n        app.unmount()"],
+        ["const text = map?.get(anchor) ?? ''", "const text = map?.get(anchor ?? '') ?? ''"],
+    ]
+    return {
+        name: 'patch-search-box',
+        enforce: 'pre' as const,
+        transform(code: string, id: string) {
+            if (!id.endsWith('VPLocalSearchBox.vue')) return
+            for (const [original, patched] of patches) {
+                if (!code.includes(original)) {
+                    throw new Error(`patch-search-box: VPLocalSearchBox.vue changed, update the patch in search.ts: ${original}`)
+                }
+                code = code.replace(original, patched)
+            }
+            return code
+        },
+    }
+}

@@ -3,6 +3,14 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches: [main]
+    # Only changes that affect the built site (CLAUDE.md, README, tests,
+    # issue templates and other workflows don't). Use "Run workflow" to deploy manually.
+    paths:
+      - 'docs/**'
+      - 'package.json'
+      - 'package-lock.json'
+      - '.git-blame-ignore-revs'   # affects recipe dates
+      - '.github/workflows/deploy.yml'
   workflow_dispatch:
 
 permissions:

@@ -7,6 +7,7 @@ import RecentRecipes from './components/RecentRecipes.vue'
 import RecipeHeader from './components/RecipeHeader.vue'
 import RecipeTools from './components/RecipeTools.vue'
 import TagCloud from './components/TagCloud.vue'
+import { setupServiceWorkerUpdates } from './sw-update'
 import '@catppuccin/vitepress/theme/macchiato/mauve.css'
 import './custom.css'
 
@@ -15,7 +16,8 @@ export default {
     Layout: () => h(DefaultTheme.Layout, null, {
         'doc-before': () => [h(RecipeHeader), h(RecipeTools)],
     }),
-    enhanceApp({ app }) {
+    enhanceApp({ app, router }) {
+        setupServiceWorkerUpdates(router)
         app.component('RecipeGrid', RecipeGrid)
         app.component('CategoryChips', CategoryChips)
         app.component('RecentRecipes', RecentRecipes)

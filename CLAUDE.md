@@ -157,6 +157,8 @@ VitePress local search (MiniSearch), fully client-side and offline. `processTerm
 
 `@vite-pwa/vitepress` (Workbox `generateSW`, `autoUpdate`). Precache: HTML, JS, CSS, icons, placeholders. Runtime `CacheFirst` for `/images/`. Offline, uncached photos fall back to placeholders (grids) or are hidden (recipe header).
 
+Updates (`theme/sw-update.ts`): the app checks for a new service worker whenever it returns to the foreground (and hourly), since client-side navigation and resumed home-screen apps never trigger the browser's own check. Once a new version has taken over (`controllerchange`), the next navigation is a full page load, because the old page's JS chunks were removed from the precache. No reload while a recipe is open.
+
 Keep per-page HTML small — it's precached for every page. That's why the sidebar lists only categories (listing all recipes made each page ~120 KB) and `metaChunk: true` is set.
 
 ## Deployment

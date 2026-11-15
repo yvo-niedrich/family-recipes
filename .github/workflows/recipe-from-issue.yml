@@ -18,6 +18,9 @@ permissions:
   contents: write
   pull-requests: write
   issues: write
+  # Exchanged by claude-code-action for a Claude GitHub App token, so comments,
+  # commits and PRs appear as claude[bot] instead of github-actions[bot]
+  id-token: write
 
 # One run per issue at a time; queue follow-ups instead of racing.
 concurrency:
@@ -62,7 +65,11 @@ jobs:
         uses: anthropics/claude-code-action@v1
         with:
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          # No github_token: the action uses the Claude App token (via OIDC) for
+          # gh and git. bot_id defaults to github-actions' user ID; 209825114 is
+          # claude[bot], so commits show Claude's avatar.
+          bot_id: "209825114"
+          bot_name: "claude[bot]"
           claude_args: >-
             --max-turns 60
             --allowedTools "Read,Write,Edit,Glob,Grep,WebFetch,Bash(git status:*),Bash(git diff:*),Bash(git log:*),Bash(git switch:*),Bash(git checkout:*),Bash(git fetch:*),Bash(git add:*),Bash(git commit:*),Bash(git push:*),Bash(npm test),Bash(curl:*),Bash(mkdir:*),Bash(ls:*),Bash(gh issue view:*),Bash(gh issue comment:*),Bash(gh pr list:*),Bash(gh pr view:*),Bash(gh pr create:*)"

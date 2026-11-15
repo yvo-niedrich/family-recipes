@@ -33,7 +33,18 @@ jobs:
       !endsWith(github.actor, '[bot]')
     runs-on: ubuntu-latest
     timeout-minutes: 20
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # Reactions go on the triggering comment, or on the issue itself when it was just opened
+      REACTIONS_URL: >-
+        repos/${{ github.repository }}/issues/${{
+        github.event_name == 'issue_comment' && format('comments/{0}', github.event.comment.id) || github.event.issue.number
+        }}/reactions
     steps:
+      - name: React 👀 (in progress)
+        id: eyes
+        run: echo "id=$(gh api -X POST "$REACTIONS_URL" -f content=eyes --jq .id)" >> "$GITHUB_OUTPUT"
+
       - name: Checkout
         uses: actions/checkout@v5
         with:
@@ -49,8 +60,6 @@ jobs:
 
       - name: Claude
         uses: anthropics/claude-code-action@v1
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
@@ -97,3 +106,12 @@ jobs:
                Titel = Commit-Nachricht, Body mit kurzer Zusammenfassung (Kategorien, Tags, Besonderheiten) und `Closes #${{ github.event.issue.number }}`.
             8. Im Issue kurz und freundlich auf Deutsch antworten: was übernommen wurde, gewählte Kategorie/Tags,
                Link zum PR, und dass Änderungswünsche einfach als Kommentar hier geschrieben werden können.
+
+      # On success Claude's comment is the feedback; on failure flag it with 😕
+      - name: Remove 👀 (😕 on failure)
+        if: always() && steps.eyes.outputs.id != ''
+        run: |
+          gh api -X DELETE "$REACTIONS_URL/${{ steps.eyes.outputs.id }}" || true
+          if [ "${{ job.status }}" != "success" ]; then
+            gh api -X POST "$REACTIONS_URL" -f content=confused --silent || true
+          fi

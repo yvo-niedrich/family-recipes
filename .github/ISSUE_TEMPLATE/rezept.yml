@@ -1,0 +1,31 @@
+name: Rezept einreichen
+description: Ein neues Rezept für die Sammlung vorschlagen (Link, Text oder PDF).
+title: "Rezept: "
+labels: ["rezept"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Einfach einen **Link** einfügen **oder** den **Rezepttext** hineinkopieren bzw. ein **PDF/Foto** in das Textfeld ziehen.
+        Das Rezept wird automatisch übernommen, hier kommt dann eine Rückmeldung.
+  - type: input
+    id: link
+    attributes:
+      label: Link zum Rezept
+      placeholder: https://www.ardmediathek.de/...
+    validations:
+      required: false
+  - type: textarea
+    id: text
+    attributes:
+      label: Rezepttext oder Datei
+      description: Text hier einfügen oder ein PDF/Foto hineinziehen.
+    validations:
+      required: false
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anmerkungen
+      description: "Optional, z. B. eigene Änderungen: „Ich nehme nur 100 g Zucker“."
+    validations:
+      required: false

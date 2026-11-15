@@ -162,3 +162,7 @@ Keep per-page HTML small — it's precached for every page. That's why the sideb
 ## Deployment
 
 `.github/workflows/deploy.yml` runs tests, builds and deploys to GitHub Pages on push to `main`. Repository settings → Pages → Source must be "GitHub Actions". `base` in `config.mts` must match the repository name (`/family-recipes/`).
+
+### Recipe Submissions via Issues
+
+The "Rezept einreichen" issue form (`.github/ISSUE_TEMPLATE/rezept.yml`) labels issues `rezept`. `.github/workflows/recipe-from-issue.yml` then runs `anthropics/claude-code-action` (auth: `CLAUDE_CODE_OAUTH_TOKEN` secret from `claude setup-token`), which writes the recipe on branch `rezept/issue-<n>`, opens a PR and replies on the issue. New comments on the issue update the same PR. Only users with write access can trigger it. Requires Settings → Actions → General → "Allow GitHub Actions to create and approve pull requests". PRs created with `GITHUB_TOKEN` don't trigger other workflows, which is fine because deployment runs on push to `main` after merge.
